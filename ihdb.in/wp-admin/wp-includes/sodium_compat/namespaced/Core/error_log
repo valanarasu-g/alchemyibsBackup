@@ -1,0 +1,312 @@
+[28-Aug-2024 18:26:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Aug-2024 18:26:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Aug-2024 18:26:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Aug-2024 18:26:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Aug-2024 18:26:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Aug-2024 18:26:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Aug-2024 18:26:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Aug-2024 18:26:45 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Aug-2024 18:26:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Aug-2024 18:26:48 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Aug-2024 18:26:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Aug-2024 18:26:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Aug-2024 18:26:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Aug-2024 18:26:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Aug-2024 18:27:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Aug-2024 18:27:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Aug-2024 18:27:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Aug-2024 18:27:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Aug-2024 18:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Aug-2024 18:27:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Aug-2024 18:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Aug-2024 18:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Aug-2024 18:27:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Aug-2024 18:27:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Aug-2024 18:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[28-Aug-2024 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[28-Oct-2024 22:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Oct-2024 22:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Oct-2024 22:24:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Oct-2024 22:24:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Oct-2024 22:24:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Oct-2024 22:24:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Oct-2024 22:24:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Oct-2024 22:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Oct-2024 22:24:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Oct-2024 22:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Oct-2024 22:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Oct-2024 22:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Oct-2024 22:24:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Oct-2024 22:24:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Oct-2024 22:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Oct-2024 22:24:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Oct-2024 22:24:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Oct-2024 22:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Oct-2024 22:25:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Oct-2024 22:25:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Oct-2024 22:25:17 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Oct-2024 22:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Oct-2024 22:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Oct-2024 22:25:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Oct-2024 22:25:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[28-Oct-2024 22:25:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[28-Oct-2024 22:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Oct-2024 22:25:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[28-Oct-2024 22:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Oct-2024 22:25:31 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[28-Oct-2024 22:25:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Oct-2024 22:25:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[28-Oct-2024 22:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Oct-2024 22:25:47 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[28-Oct-2024 22:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Oct-2024 22:25:50 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[28-Oct-2024 22:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Oct-2024 22:25:51 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[28-Oct-2024 22:25:52 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Oct-2024 22:25:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[28-Oct-2024 22:25:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Oct-2024 22:25:58 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[28-Oct-2024 22:26:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Oct-2024 22:26:00 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[28-Oct-2024 22:26:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Oct-2024 22:26:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[28-Oct-2024 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Oct-2024 22:26:04 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[28-Oct-2024 22:26:05 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Oct-2024 22:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[28-Oct-2024 22:26:06 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[28-Oct-2024 22:26:07 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4

@@ -1,0 +1,8 @@
+[09-Aug-2024 07:11:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/ihdb/public_html/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[09-Aug-2024 07:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Modules\System_Info\Reporters\Base' not found in /home/ihdb/public_html/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13

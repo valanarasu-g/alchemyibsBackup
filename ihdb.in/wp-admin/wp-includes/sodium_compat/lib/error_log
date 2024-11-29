@@ -1,0 +1,16 @@
+[28-Oct-2024 22:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[28-Oct-2024 22:22:57 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[28-Oct-2024 22:24:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[28-Oct-2024 22:24:02 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

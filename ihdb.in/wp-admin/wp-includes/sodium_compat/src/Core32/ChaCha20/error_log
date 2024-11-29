@@ -1,0 +1,32 @@
+[28-Oct-2024 22:30:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[28-Oct-2024 22:30:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[28-Oct-2024 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[28-Oct-2024 22:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[28-Oct-2024 22:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[28-Oct-2024 22:32:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[28-Oct-2024 22:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[28-Oct-2024 22:32:19 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

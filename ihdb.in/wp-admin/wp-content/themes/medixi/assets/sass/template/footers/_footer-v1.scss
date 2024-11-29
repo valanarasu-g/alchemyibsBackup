@@ -1,0 +1,33 @@
+.footer1-logo {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+
+  img {
+    background-color: $white-color;
+    padding: 30px;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: -30px;
+    background-color: #0a1830;
+    clip-path: polygon(0 0, 100% 0, calc(100% - 30px) 100%, 0% 100%);
+    z-index: -1;
+  }
+}
+
+
+
+@include sm {
+  .footer1-logo {
+    &:before {
+      display: none;
+    }
+  }
+}
+

@@ -1,0 +1,57 @@
+[18-Oct-2024 18:21:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/ihdb/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-patterns.php on line 9
+[18-Oct-2024 18:21:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home/ihdb/public_html/wp-includes/block-patterns.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-patterns.php on line 9
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-wp-object-cache.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-wp-object-cache.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-includes/cache.php on line 12
+[18-Oct-2024 18:22:53 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:22:53 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:22:53 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:22:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:23:09 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:23:09 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:23:09 UTC] PHP Warning:  require_once(ABSPATHWPINC/IXR/class-IXR-server.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:23:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/IXR/class-IXR-server.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-includes/class-IXR.php on line 42
+[18-Oct-2024 18:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-feed.php on line 10
+[18-Oct-2024 18:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-feed.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-feed.php on line 10
+[18-Oct-2024 18:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-http.php on line 11
+[18-Oct-2024 18:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-http.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-http.php on line 11
+[18-Oct-2024 18:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-json.php on line 2
+[18-Oct-2024 18:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-json.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-json.php on line 2
+[18-Oct-2024 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-oembed.php on line 12
+[18-Oct-2024 18:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/ihdb/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/class-oembed.php on line 12
+[18-Oct-2024 18:23:35 UTC] PHP Deprecated:  The PSR-0 `Requests_...` class names in the Requests library are deprecated. Switch to the PSR-4 `WpOrg\Requests\...` class names at your earliest convenience. in /home/ihdb/public_html/wp-includes/class-requests.php on line 24

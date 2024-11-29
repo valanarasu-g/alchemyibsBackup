@@ -1,0 +1,20 @@
+[06-Jun-2024 19:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[06-Jun-2024 19:41:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
+[06-Jun-2024 19:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/interactivity-api/interactivity-api.php on line 73
+[06-Jun-2024 19:42:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-includes/interactivity-api/interactivity-api.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/interactivity-api/interactivity-api.php on line 73
+[27-Nov-2024 21:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18

@@ -1,0 +1,262 @@
+.vs-comment-form {
+  >.comment-respond {
+    background-color: $smoke-color;
+    padding: 50px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+
+    &:empty {
+      display: none;
+    }
+
+  }
+  .h2 {
+    margin-top: -0.3em;
+  }
+
+  input[type="checkbox"]~label:before {
+    top: 3px;
+  }
+}
+
+.woocommerce-Reviews .vs-comment-form {
+  margin-top: 60px;
+}
+
+
+.review-form .rating-select {
+  margin-bottom: 10px;
+}
+
+
+.comment-respond {
+  .form-title small {
+    font-size: 18px;
+  }
+
+  .h2 {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+
+  .form-text {
+    margin-bottom: 30px;
+    color: $body-color;
+    font-size: 14px;
+  }
+}
+
+
+.vs-comments-layout1 {
+
+  .h2.inner-title1.mb-lg-4.pb-lg-2 {
+    margin-bottom: 30px;
+  }
+
+  .comment-respond {
+    margin-bottom: 40px;
+  }
+  
+
+  li {
+    margin: 0;
+  }
+
+  .vs-post-comment {
+    display: flex;
+    padding: 35px 35px 30px 35px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 30px;
+    transition: all ease 0.4s;
+
+    &:hover {
+      border-color: $theme-color;
+    }
+  }
+
+  ul.comment-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    ul,
+    ol {
+
+      ul,
+      ol {
+        margin-bottom: 0;
+      }
+    }
+
+  }
+
+  .author-img {
+    @include equal-size(100px);
+    margin-right: 30px;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+
+  .comment-content {
+    width: calc(100% - 130px);
+    margin-top: -5px;
+    position: relative;
+  }
+
+  .commented-on {
+    font-size: 14px;
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: $body-color;
+    font-family: $title-font;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+
+    &:before {
+      content: '\f073';
+      font-family: $icon-font;
+      font-weight: 300;
+      color: $theme-color;
+      margin-right: 7px;
+      font-size: 13px;
+      // vertical-align: middle;
+      position: relative;
+      top: -1px;
+    }
+  }
+
+  .name {
+    margin-bottom: 4px;
+    font-size: 24px;
+  }
+
+  .comment-top {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .text {
+    color: #6b6b6b;
+    margin-bottom: 0;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .children {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    margin-left: 70px;
+  }
+
+  .replay-btn {
+    font-weight: 600;
+    font-family: $title-font;
+    font-size: 14px;
+    color: $theme-color;
+    // margin-top: 10px;
+    display: inline-block;
+
+    i {
+      margin-right: 7px;
+    }
+
+    &:hover {
+      color: $title-color;
+      text-decoration: underline;
+    }
+  }
+
+  .star-rating {
+    font-size: 12px;
+    margin-bottom: 10px;
+    position: absolute;
+    top: 5px;
+    right: 0;
+    width: 80px;
+  }
+
+
+}
+
+@include lg {
+  .vs-comment-form {
+    >.comment-respond {
+      padding: 30px;
+    }
+  }
+}
+
+
+@include md {
+  .vs-comments-layout1 {
+    &.pt-70 {
+      padding-top: 30px;
+    }
+
+    .vs-post-comment {
+      padding: 25px 25px 20px 25px;
+    }
+
+    
+  }
+
+  .vs-comment-form {
+    >.comment-respond {
+      margin-top: 40px;
+    }
+  }
+
+}
+
+
+@include sm {
+  .vs-comments-layout1 {
+    .vs-post-comment {
+      display: block;
+    }
+
+    .star-rating {
+      position: relative;
+      margin-bottom: 15px;
+    }
+
+    .author-img {
+      margin-right: 0;
+    }
+
+    .comment-content {
+      width: 100%;
+      margin-top: 15px;
+    }
+
+    .children {
+      margin-left: 30px;
+    }
+  }
+
+  .woocommerce-Reviews {
+    margin-top: -20px;
+    
+    .vs-comment-form {
+      >.comment-respond {
+        margin-top: 40px;
+      }
+    }
+  }
+
+
+  .vs-comment-form {
+    >.comment-respond {
+      padding: 25px 15px 25px 15px;
+    }
+
+    .form-title .h4 {
+      font-size: 26px;
+    }
+  }
+
+}

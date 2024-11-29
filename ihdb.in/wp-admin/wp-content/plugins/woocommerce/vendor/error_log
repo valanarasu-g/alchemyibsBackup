@@ -1,0 +1,14 @@
+[27-Jun-2024 21:47:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\wp_normalize_path() in /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Path_Processor->find_directory_with_autoloader('/home/ihdb/publ...', Array)
+#1 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Plugin_Locator->find_current_plugin()
+#2 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Autoloader::init()
+#3 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73
+[27-Jun-2024 21:47:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\wp_normalize_path() in /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php:73
+Stack trace:
+#0 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-plugin-locator.php(45): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Path_Processor->find_directory_with_autoloader('/home/ihdb/publ...', Array)
+#1 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-autoloader.php(46): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Plugin_Locator->find_current_plugin()
+#2 /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/autoload_packages.php(13): Automattic\Jetpack\Autoloader\jp13af4a3f8da9b445054cc1ac1e33cd66\Autoloader::init()
+#3 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/vendor/jetpack-autoloader/class-path-processor.php on line 73

@@ -1,0 +1,122 @@
+[29-Jun-2024 14:49:28 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[29-Jun-2024 14:49:29 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[29-Jun-2024 14:49:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[29-Jun-2024 14:49:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[29-Jun-2024 14:50:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[29-Jun-2024 14:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[29-Jun-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[29-Jun-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[29-Jun-2024 14:50:36 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[29-Jun-2024 14:50:37 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[06-Jul-2024 00:46:46 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[06-Jul-2024 00:46:47 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[06-Jul-2024 00:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[06-Jul-2024 00:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[06-Jul-2024 00:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[06-Jul-2024 00:47:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[06-Jul-2024 00:47:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[06-Jul-2024 00:47:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[06-Jul-2024 00:47:08 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[06-Jul-2024 00:47:08 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[09-Aug-2024 07:03:03 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[09-Aug-2024 07:03:04 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[09-Aug-2024 07:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[09-Aug-2024 07:03:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[09-Aug-2024 07:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[09-Aug-2024 07:03:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[09-Aug-2024 07:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[09-Aug-2024 07:03:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[09-Aug-2024 07:03:49 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[09-Aug-2024 07:03:50 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[09-Aug-2024 07:07:16 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[09-Aug-2024 07:07:17 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[09-Aug-2024 07:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[09-Aug-2024 07:07:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[09-Aug-2024 07:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[09-Aug-2024 07:07:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[09-Aug-2024 07:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[09-Aug-2024 07:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[09-Aug-2024 07:08:11 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[09-Aug-2024 07:08:11 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[13-Aug-2024 08:08:47 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[13-Aug-2024 08:08:49 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[13-Aug-2024 08:08:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[13-Aug-2024 08:08:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7

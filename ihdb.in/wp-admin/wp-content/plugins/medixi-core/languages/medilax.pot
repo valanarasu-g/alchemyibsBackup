@@ -1,0 +1,2931 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Medixi Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-31 10:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: medilax"
+
+#. 1: Plugin name 2: Elementor
+#: addons/addons.php:170
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: addons/addons.php:194 addons/addons.php:218
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:169
+#: inc/widgets/download-button.php:86 inc/widgets/download-button.php:98
+msgid "#"
+msgstr ""
+
+#: addons/widgets/contact-number.php:55 addons/widgets/medilax-about-us.php:381
+msgid "(625)-1251-6677"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:53
+msgid "(669) 2568 2596"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:103
+#: addons/widgets/medilax-single-contact-info.php:115
+msgid "+(00) 7712 653 7514"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:76
+msgid "0088123456789"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:68
+msgid "100% Confidential"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:131
+msgid "21/7A, Josua Street, Queens, NY, United States"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:134
+msgid "250"
+msgstr ""
+
+#: addons/header/header.php:75
+msgid "36D Street Brooklyn, New York"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:328
+msgid "4.8"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:126
+msgid "5"
+msgstr ""
+
+#: addons/header/header.php:200
+msgid "669 2568 2596"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:75
+msgid "8.00 am - 8.00 pm"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:150
+msgid ""
+"<i class=\"fal fa-exclamation-circle text-theme me-2\"></i> Delivering "
+"tomorrow’s health care for your family. <a href=\"#\"><strong>View Doctor’s "
+"Timetable</strong><i class=\"far fa-long-arrow-right ms-2\"></i></a>"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:981
+msgid "[or]"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:115
+#: addons/widgets/medilax-about-us.php:180
+#: addons/widgets/medilax-about-us.php:182
+msgid "About Description"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:189
+#: addons/widgets/medilax-about-us.php:191
+msgid "About Features"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:61
+msgid "About Image"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:71
+msgid "About Shape"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:160
+msgid "About Subtitle"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:171
+msgid "About Title"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:37
+msgid "About Us"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:45
+msgid "About Us Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:162
+msgid "About Us Subtitle"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:105
+#: addons/widgets/medilax-about-us.php:173
+msgid "About Us Title"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:53
+msgid "Accordion Description"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:46
+msgid "Accordion Title"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:116
+msgid "Account & Check In"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:30
+msgid "Add About Me Widget"
+msgstr ""
+
+#: inc/widgets/about-us-widget.php:30
+msgid "Add About Us Widget"
+msgstr ""
+
+#: inc/widgets/contact-form.php:30
+msgid "Add Contact Form Widget"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:24
+msgid "Add Contact Info"
+msgstr ""
+
+#: inc/widgets/download-button.php:30
+msgid "Add Download Button Widget"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:81
+msgid "Add Gallery Image"
+msgstr ""
+
+#: inc/widgets/gallery-widget.php:30
+msgid "Add Gallery Widget"
+msgstr ""
+
+#: inc/builder/builder.php:139 inc/builder/builder.php:171
+msgid "Add New"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:183 inc/medilaxcore-functions.php:330
+#: inc/medilaxcore-functions.php:481
+msgid "Add New Category"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:285
+msgid "Add New Doctor"
+msgstr ""
+
+#: inc/builder/builder.php:140
+msgid "Add New Footer"
+msgstr ""
+
+#: inc/builder/builder.php:172
+msgid "Add New Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:436
+msgid "Add New Project"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:138
+msgid "Add New Service"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:223 inc/medilaxcore-functions.php:370
+#: inc/medilaxcore-functions.php:521
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:186 inc/medilaxcore-functions.php:333
+#: inc/medilaxcore-functions.php:484
+msgid "Add or remove Categorys"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:226 inc/medilaxcore-functions.php:373
+#: inc/medilaxcore-functions.php:524
+msgid "Add or remove Tags"
+msgstr ""
+
+#: inc/widgets/product-category-filter.php:30
+msgid "Add Product Categories Filter Widget"
+msgstr ""
+
+#: inc/widgets/product-tag-filter.php:30
+msgid "Add Product Tags Filter Widget"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:34
+msgid "Add Recent Posts Widget"
+msgstr ""
+
+#: addons/header/header.php:166
+msgid "Add Social Icon"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:168
+msgid "Add Social link from "
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:94
+msgid "Additional Informations"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:129
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:119
+msgid "Address :"
+msgstr ""
+
+#: addons/widgets/button.php:74 addons/widgets/medilax-blog.php:353
+#: addons/widgets/medilax-blog.php:457 addons/widgets/section-title.php:135
+msgid "Alignment"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:74
+msgid "All"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:178 inc/medilaxcore-functions.php:325
+#: inc/medilaxcore-functions.php:476
+msgid "All Categorys"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:289
+msgid "All Doctors"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:72
+msgid "All filter label"
+msgstr ""
+
+#: inc/builder/builder.php:144
+msgid "All Footer"
+msgstr ""
+
+#: inc/builder/builder.php:176
+msgid "All Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:440
+msgid "All Projects"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:142
+msgid "All Services"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:218 inc/medilaxcore-functions.php:365
+#: inc/medilaxcore-functions.php:516
+msgid "All Tags"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:411
+msgid "All Works"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:84
+msgid "Alternate Email"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:113
+msgid "Alternate Phone"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:188
+msgid "Alternate Website Title"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:200
+msgid "Alternate Website URL"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:160
+msgid "Angfuz"
+msgstr ""
+
+#: addons/widgets/appointment-button.php:20
+msgid "Appointment Button"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:56
+msgid ""
+"As part of a new partnership with Sensync, an immersive wellness company "
+"founded by Adam Gazzaley, Ph.D., and Alex Theory, Ph.D., The Vessel helps "
+"guests reset their brains with a host of customized."
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:87 addons/widgets/medilax-doctors.php:94
+#: addons/widgets/medilax-project.php:62 addons/widgets/medilax-services.php:96
+msgid "ASC"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:293
+msgid "Author Color"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:160
+msgid "Author Designation:"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:303
+msgid "Author Hover Color"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:156
+msgid "Author Name:"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:253
+msgid "Author Styling"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:314
+msgid "Author Typography"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:274
+msgid "Avatar Circle Color"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:286
+#: addons/widgets/medilax-testimonials.php:295
+msgid "Avatar Shadow Color"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:247
+msgid "Avater Radious"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:118 addons/widgets/medilax-doctors.php:171
+#: addons/widgets/medilax-newslatter.php:65
+#: addons/widgets/medilax-service-info.php:107
+#: addons/widgets/medilax-single-contact-info.php:232
+#: addons/widgets/time-schedule.php:110
+msgid "Background"
+msgstr ""
+
+#: addons/header/header.php:310 addons/widgets/medilax-brand.php:125
+#: addons/widgets/middle-box.php:81
+msgid "Background Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:338
+msgid "based"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:36
+msgid "Blog"
+msgstr ""
+
+#: inc/icons.php:6
+msgid "Blood Pressure"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:143 addons/widgets/medilax-doctors.php:207
+#: addons/widgets/medilax-newslatter.php:82
+#: addons/widgets/section-title.php:254 addons/widgets/time-schedule.php:127
+msgid "Border"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:89
+msgid "Border Color"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:148
+msgid "Bottom Note Text"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:768
+msgid "Box Background"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:138 addons/widgets/medilax-skill.php:156
+#: addons/widgets/medilax-testimonials.php:156
+msgid "Box Background Color"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:77
+msgid "Box Border Color"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:135 addons/widgets/medilax-doctors.php:199
+msgid "Box Hover Shadow"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:150 addons/widgets/medilax-doctors.php:214
+#: addons/widgets/medilax-newslatter.php:89
+#: addons/widgets/medilax-service-info.php:123
+#: addons/widgets/medilax-services.php:159
+#: addons/widgets/medilax-single-contact-info.php:248
+#: addons/widgets/medilax-skill.php:175
+#: addons/widgets/medilax-testimonials.php:188 addons/widgets/middle-box.php:91
+#: addons/widgets/time-schedule.php:134
+msgid "Box Radious"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:127 addons/widgets/medilax-doctors.php:191
+#: addons/widgets/medilax-newslatter.php:74
+#: addons/widgets/medilax-service-info.php:116
+#: addons/widgets/medilax-services.php:152
+#: addons/widgets/medilax-single-contact-info.php:241
+#: addons/widgets/medilax-skill.php:168
+#: addons/widgets/medilax-testimonials.php:170
+#: addons/widgets/medilax-testimonials.php:179
+#: addons/widgets/medilax-testimonials.php:226
+#: addons/widgets/middle-box.php:118 addons/widgets/time-schedule.php:119
+msgid "Box Shadow"
+msgstr ""
+
+#: addons/widgets/button.php:36 addons/widgets/medilax-tab.php:84
+msgid "Button"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:252 addons/widgets/medilax-tab.php:113
+msgid "Button Active Color"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:268
+msgid "Button Background Color"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:279
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: addons/header/header.php:697 addons/widgets/appointment-button.php:99
+#: addons/widgets/button.php:122 addons/widgets/medilax-about-us.php:872
+#: addons/widgets/medilax-blog.php:428
+#: addons/widgets/medilax-contact-form.php:246
+#: addons/widgets/medilax-contact-form.php:321
+#: addons/widgets/medilax-doctors.php:690
+#: addons/widgets/medilax-newslatter.php:180
+#: addons/widgets/medilax-project.php:232
+#: addons/widgets/medilax-service-info.php:496
+#: addons/widgets/medilax-tab.php:92 addons/widgets/time-schedule.php:182
+msgid "Button Color"
+msgstr ""
+
+#: addons/header/header.php:709 addons/widgets/appointment-button.php:111
+#: addons/widgets/button.php:134 addons/widgets/medilax-about-us.php:884
+#: addons/widgets/medilax-blog.php:438
+#: addons/widgets/medilax-contact-form.php:257
+#: addons/widgets/medilax-contact-form.php:333
+#: addons/widgets/medilax-doctors.php:702
+#: addons/widgets/medilax-newslatter.php:192
+#: addons/widgets/medilax-project.php:242
+#: addons/widgets/medilax-service-info.php:508
+#: addons/widgets/medilax-tab.php:103 addons/widgets/time-schedule.php:194
+msgid "Button Hover Color"
+msgstr ""
+
+#: addons/widgets/button.php:43
+msgid "Button Icon Class"
+msgstr ""
+
+#: addons/widgets/appointment-button.php:37
+msgid "Button Informations"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:483
+#: addons/widgets/medilax-contact-form.php:377
+msgid "Button Margin"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:495
+#: addons/widgets/medilax-contact-form.php:389
+msgid "Button Padding"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:290
+msgid "Button Ripple Effect Color"
+msgstr ""
+
+#: addons/header/header.php:689 addons/widgets/appointment-button.php:91
+#: addons/widgets/button.php:114 addons/widgets/coupon-code.php:69
+#: addons/widgets/medilax-about-us.php:864
+#: addons/widgets/medilax-contact-form.php:313
+#: addons/widgets/medilax-doctors.php:682
+#: addons/widgets/medilax-newslatter.php:172
+#: addons/widgets/medilax-service-info.php:488
+#: addons/widgets/medilax-tab.php:126 addons/widgets/time-schedule.php:174
+msgid "Button Shadow"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:262
+msgid "Button Shadow Color"
+msgstr ""
+
+#: addons/header/header.php:680 addons/widgets/appointment-button.php:82
+#: addons/widgets/button.php:105 addons/widgets/medilax-about-us.php:854
+#: addons/widgets/medilax-blog.php:420
+#: addons/widgets/medilax-contact-form.php:304
+#: addons/widgets/medilax-doctors.php:672
+#: addons/widgets/medilax-newslatter.php:163
+#: addons/widgets/medilax-service-info.php:479
+#: addons/widgets/time-schedule.php:165
+msgid "Button Styling"
+msgstr ""
+
+#: addons/widgets/appointment-button.php:54
+#: addons/widgets/appointment-button.php:56 addons/widgets/button.php:51
+#: addons/widgets/button.php:53 addons/widgets/medilax-about-us.php:199
+#: addons/widgets/medilax-about-us.php:201 addons/widgets/medilax-blog.php:96
+#: addons/widgets/medilax-doctors.php:122
+#: addons/widgets/medilax-doctors.php:124
+#: addons/widgets/medilax-service-info.php:72
+#: addons/widgets/medilax-service-info.php:74
+#: addons/widgets/medilax-services.php:117
+msgid "Button Text"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:273
+msgid "Button Text Color"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:283
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:295
+msgid "Button Text Typography"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:156
+msgid "Button Text?"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:450 addons/widgets/medilax-tab.php:134
+msgid "Button Typography"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:167
+msgid "Button Url?"
+msgstr ""
+
+#: addons/widgets/medilax-cta.php:20
+msgid "Call to action"
+msgstr ""
+
+#: addons/widgets/medilax-cta.php:36
+msgid "Call to action Countdown"
+msgstr ""
+
+#: addons/header/header.php:613
+msgid "Cart Styling"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:189 inc/medilaxcore-functions.php:336
+#: inc/medilaxcore-functions.php:487
+msgid "Categories"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:221 addons/widgets/medilax-project.php:176
+msgid "Category Color"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:231
+msgid "Category Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:196
+msgid "Category Margin"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:208
+msgid "Category Padding"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:181 addons/widgets/medilax-project.php:168
+msgid "Category Styling"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:242 addons/widgets/medilax-project.php:188
+msgid "Category Typography"
+msgstr ""
+
+#: addons/widgets/button.php:82 addons/widgets/medilax-blog.php:361
+#: addons/widgets/medilax-blog.php:465 addons/widgets/section-title.php:143
+msgid "Center"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:153
+msgid "Change Image"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:97
+msgid "Choose a Shape Image"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:119
+msgid "Choose Category"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:187 inc/medilaxcore-functions.php:334
+#: inc/medilaxcore-functions.php:485
+msgid "Choose from the most used Categorys"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:227 inc/medilaxcore-functions.php:374
+#: inc/medilaxcore-functions.php:525
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:63
+#: addons/widgets/medilax-image-with-video.php:48
+msgid "Choose Image"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:143
+msgid "Chose Icon"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:43
+msgid "Chose Style"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:135
+msgid "Client"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:67
+msgid "Client Designation"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:99
+msgid "Client Feedback Description"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:108
+msgid "Client Image"
+msgstr ""
+
+#: addons/widgets/medilax-brand.php:35 addons/widgets/medilax-brand.php:78
+msgid "Client Logo"
+msgstr ""
+
+#: addons/widgets/medilax-brand.php:117
+msgid "Client Logo Control"
+msgstr ""
+
+#: addons/widgets/medilax-brand.php:89
+msgid "Client Logos"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:59
+msgid "Client Name"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:378
+msgid "Clinet Designation Styling"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:318
+msgid "Clinet Name Styling"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:49
+msgid "Code"
+msgstr ""
+
+#: addons/header/header.php:261
+msgid "Compellingly enhance web-enabled outsourcing after innovative."
+msgstr ""
+
+#: inc/icons.php:7
+msgid "Computer Mouse"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:89
+msgid "Consultant"
+msgstr ""
+
+#: addons/widgets/contact-number.php:36 addons/widgets/medilax-about-us.php:361
+msgid "Contact Area"
+msgstr ""
+
+#: addons/header/header.php:94
+msgid "Contact Email"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:18
+#: addons/widgets/medilax-contact-form.php:37
+msgid "Contact Form"
+msgstr ""
+
+#: inc/widgets/contact-form.php:80
+msgid "Contact Form Shortcode:"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:36
+msgid "Contact Info"
+msgstr ""
+
+#: addons/widgets/contact-number.php:20
+#: addons/widgets/medilax-contact-form.php:74 addons/widgets/medilax-cta.php:50
+#: addons/widgets/time-schedule.php:51
+msgid "Contact Number"
+msgstr ""
+
+#: addons/widgets/contact-number.php:65
+msgid "Contact Styling"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:55
+msgid "Contact Type"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:61
+msgid "Contact Type Address"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:59
+msgid "Contact Type Email"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:60
+msgid "Contact Type Phone"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:62
+msgid "Contact Type Website"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:58
+msgid "Content"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:153
+msgid "Content Background Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:712
+#: addons/widgets/medilax-about-us.php:805
+#: addons/widgets/medilax-doctors.php:493
+#: addons/widgets/medilax-features.php:210
+#: addons/widgets/medilax-services.php:474
+#: addons/widgets/medilax-single-contact-info.php:289
+#: addons/widgets/medilax-skill.php:369
+msgid "Content Color"
+msgstr ""
+
+#: addons/widgets/content-header.php:19 addons/widgets/content-header.php:35
+msgid "Content Header"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:300
+msgid "Content Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:732
+#: addons/widgets/medilax-about-us.php:826
+#: addons/widgets/medilax-doctors.php:513
+#: addons/widgets/medilax-features.php:230
+#: addons/widgets/medilax-services.php:495
+#: addons/widgets/medilax-single-contact-info.php:327
+#: addons/widgets/medilax-skill.php:390
+msgid "Content Margin"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:744
+#: addons/widgets/medilax-about-us.php:838
+#: addons/widgets/medilax-doctors.php:525
+#: addons/widgets/medilax-features.php:242
+#: addons/widgets/medilax-services.php:507
+#: addons/widgets/medilax-single-contact-info.php:340
+#: addons/widgets/medilax-skill.php:402
+msgid "Content Padding"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:484
+#: addons/widgets/medilax-features.php:202
+#: addons/widgets/medilax-services.php:466
+#: addons/widgets/medilax-single-contact-info.php:281
+#: addons/widgets/medilax-skill.php:361
+msgid "Content Styling"
+msgstr ""
+
+#: addons/header/header.php:337 addons/widgets/medilax-about-us.php:724
+#: addons/widgets/medilax-about-us.php:818
+#: addons/widgets/medilax-doctors.php:505
+#: addons/widgets/medilax-features.php:222
+#: addons/widgets/medilax-services.php:487
+#: addons/widgets/medilax-single-contact-info.php:316
+#: addons/widgets/medilax-skill.php:382
+msgid "Content Typography"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:38
+msgid "Counter"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:777 addons/widgets/medilax-skill.php:280
+#: addons/widgets/offer-date.php:64
+msgid "Counter Color"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:56
+msgid "Counter Content"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:129
+msgid "Counter Item"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:124 addons/widgets/medilax-skill.php:64
+msgid "Counter Number"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:135
+msgid "Counter Number Text"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:272 addons/widgets/offer-date.php:56
+msgid "Counter Styling"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:797 addons/widgets/medilax-skill.php:47
+#: addons/widgets/medilax-skill.php:49
+msgid "Counter Title"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:790 addons/widgets/medilax-skill.php:293
+#: addons/widgets/offer-date.php:76
+msgid "Counter Typography"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:60
+msgid "Coupon Box Styling"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:20 addons/widgets/coupon-code.php:36
+msgid "Coupon Code"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:116
+msgid "Coupon Color"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:134
+msgid "Coupon Margin"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:145
+msgid "Coupon Padding"
+msgstr ""
+
+#: addons/widgets/coupon-code.php:127
+msgid "Coupon Typography"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:231 addons/widgets/medilax-cta.php:63
+#: addons/widgets/medilax-features.php:62 addons/widgets/medilax-skill.php:81
+msgid "Custom Icon"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:290
+#: addons/widgets/medilax-features.php:121
+#: addons/widgets/medilax-testimonials.php:69
+msgid "Customer"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:63
+msgid "Day"
+msgstr ""
+
+#: addons/widgets/appointment-button.php:47
+msgid "Delivering tomorrow’s health care for your family."
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:88 addons/widgets/medilax-doctors.php:95
+#: addons/widgets/medilax-project.php:63 addons/widgets/medilax-services.php:97
+msgid "DESC"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:287
+#: addons/widgets/medilax-features.php:118
+msgid "Description"
+msgstr ""
+
+#: addons/widgets/content-header.php:194
+#: addons/widgets/medilax-about-us.php:598
+#: addons/widgets/medilax-contact-form.php:187
+#: addons/widgets/medilax-doctors.php:305
+#: addons/widgets/medilax-work-process.php:205
+msgid "Description Color"
+msgstr ""
+
+#: addons/widgets/content-header.php:213
+#: addons/widgets/medilax-about-us.php:619
+#: addons/widgets/medilax-contact-form.php:208
+#: addons/widgets/medilax-doctors.php:326
+#: addons/widgets/medilax-work-process.php:227
+msgid "Description Margin"
+msgstr ""
+
+#: addons/widgets/content-header.php:225
+#: addons/widgets/medilax-about-us.php:631
+#: addons/widgets/medilax-contact-form.php:221
+#: addons/widgets/medilax-doctors.php:339
+#: addons/widgets/medilax-work-process.php:241
+msgid "Description Padding"
+msgstr ""
+
+#: addons/widgets/content-header.php:186
+msgid "Description Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:590
+#: addons/widgets/medilax-contact-form.php:179
+#: addons/widgets/medilax-work-process.php:197
+msgid "Description Styling"
+msgstr ""
+
+#: addons/widgets/content-header.php:205
+#: addons/widgets/medilax-about-us.php:611
+#: addons/widgets/medilax-contact-form.php:200
+#: addons/widgets/medilax-doctors.php:317
+#: addons/widgets/medilax-work-process.php:219
+msgid "Description Typography"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:154 inc/medilaxcore-functions.php:301
+#: inc/medilaxcore-functions.php:452
+msgid "Description."
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:164 inc/widgets/about-us-widget.php:115
+msgid "Description:"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:87
+msgid "Designation"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:313
+#: addons/widgets/medilax-doctors.php:437
+#: addons/widgets/medilax-testimonials.php:386
+msgid "Designation Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:333
+#: addons/widgets/medilax-doctors.php:457
+#: addons/widgets/medilax-testimonials.php:407
+msgid "Designation Margin"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:346
+#: addons/widgets/medilax-doctors.php:469
+#: addons/widgets/medilax-testimonials.php:419
+msgid "Designation Padding"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:429
+msgid "Designation Styling"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:325
+#: addons/widgets/medilax-doctors.php:449
+#: addons/widgets/medilax-testimonials.php:399
+msgid "Designation Typography"
+msgstr ""
+
+#: inc/icons.php:8
+msgid "Discuss"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:42
+msgid "Doctor Image  With Info"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:23
+msgid "Doctor Image With Info"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:79
+#: addons/widgets/medilax-service-info.php:575
+msgid "Doctor Name"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:45
+msgid "Doctor Style"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:37
+msgid "Doctors"
+msgstr ""
+
+#: inc/widgets/download-button.php:80 inc/widgets/download-button.php:92
+msgid "Download Boucher"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:423
+msgid "Dr. Name Settings"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:371
+msgid "Dr. Name Styling"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:263
+msgid "Duration Styling"
+msgstr ""
+
+#: inc/icons.php:9
+msgid "ECG"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:181 inc/medilaxcore-functions.php:328
+#: inc/medilaxcore-functions.php:479
+msgid "Edit Category"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:287
+msgid "Edit Doctor"
+msgstr ""
+
+#: inc/builder/builder.php:142
+msgid "Edit Footer"
+msgstr ""
+
+#: inc/builder/builder.php:174
+msgid "Edit Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:438
+msgid "Edit Project"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:140
+msgid "Edit Service"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:221 inc/medilaxcore-functions.php:368
+#: inc/medilaxcore-functions.php:519
+msgid "Edit Tag"
+msgstr ""
+
+#: inc/icons.php:10
+msgid "Electrocardiogram"
+msgstr ""
+
+#: addons/addons.php:172 addons/addons.php:196
+msgid "Elementor"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:397
+#: addons/widgets/medilax-single-contact-info.php:72
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:110
+msgid "Email :"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:615
+msgid "Email Color"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:625
+msgid "Email Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:645
+msgid "Email Margin"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:657
+msgid "Email Padding"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:606
+msgid "Email Styling"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:637
+msgid "Email Typography"
+msgstr ""
+
+#: inc/widgets/about-us-widget.php:124
+msgid "Email:"
+msgstr ""
+
+#: inc/builder/builder.php:74
+msgid "Enable Footer?"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:129
+#: addons/widgets/medilax-testimonials.php:134
+msgid "Etiam convallis elementum sapien, a aliquam turpis aliquam vitae."
+msgstr ""
+
+#: addons/header/header.php:96
+msgid "example@domain.com"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:759
+msgid "Experience Box Styling"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:36
+msgid "FAQ"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:212
+msgid "Faq Answer Color"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:232
+msgid "Faq Answer Margin"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:244
+msgid "Faq Answer Padding"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:224
+msgid "Faq Answer Typography"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:62
+msgid "FAQ Content"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:156
+msgid "Faq Question Color"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:176
+msgid "Faq Question Margin"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:188
+msgid "Faq Question Padding"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:168
+msgid "Faq Question Typography"
+msgstr ""
+
+#: addons/widgets/medilax-features.php:36
+msgid "Features"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:297
+#: addons/widgets/medilax-features.php:128
+msgid "Features Content"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:703
+msgid "Features Content Styling"
+msgstr ""
+
+#: addons/widgets/medilax-features.php:43
+msgid "Features Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:647
+msgid "Features Title Styling"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:443
+msgid "Feedback Color"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:464
+msgid "Feedback Margin"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:476
+msgid "Feedback Padding"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:435
+msgid "Feedback Styling"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:76
+msgid "Feedback Title"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:456
+msgid "Feedback Typography"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:78
+msgid "Feedbak Title"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:223
+msgid "Filter Button Styling"
+msgstr ""
+
+#: inc/widgets/download-button.php:110
+msgid "First Button Text:"
+msgstr ""
+
+#: inc/widgets/download-button.php:114
+msgid "First Button Url:"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:93
+msgid "Five Star"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:67
+msgid "Flat Icon Class"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:69
+msgid "flaticon-cleaning"
+msgstr ""
+
+#: addons/widgets/section-title.php:60
+msgid "flaticon-ecg"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:232
+#: addons/widgets/medilax-about-us.php:253 addons/widgets/medilax-cta.php:64
+#: addons/widgets/medilax-cta.php:85 addons/widgets/medilax-features.php:63
+#: addons/widgets/medilax-features.php:84 addons/widgets/medilax-skill.php:82
+#: addons/widgets/medilax-skill.php:103
+msgid "Fontawesome"
+msgstr ""
+
+#: inc/builder/builder.php:135 inc/builder/builder.php:136
+#: inc/builder/builder.php:138
+msgid "Footer"
+msgstr ""
+
+#: inc/builder/builder.php:89 inc/builder/builder.php:121
+#: inc/builder/builder.php:121
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/builder/builder.php:98
+msgid "Footer Name"
+msgstr ""
+
+#: inc/builder/builder.php:67
+msgid "Footer Option"
+msgstr ""
+
+#: inc/builder/builder.php:85
+msgid "Footer Style"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:103
+msgid "Form Background Color"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:83
+msgid "Form Shortcode"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:45
+msgid "Form Style"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:92
+msgid "Four Star"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:71
+msgid "Full Satisfaction"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:110 addons/widgets/medilax-doctors.php:162
+#: addons/widgets/medilax-faq.php:82 addons/widgets/medilax-newslatter.php:57
+#: addons/widgets/medilax-project.php:86
+#: addons/widgets/medilax-service-info.php:99
+#: addons/widgets/medilax-services.php:131 addons/widgets/medilax-skill.php:149
+#: addons/widgets/medilax-testimonials.php:149 addons/widgets/middle-box.php:74
+#: addons/widgets/time-schedule.php:102
+msgid "Genaral"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:180
+#: addons/widgets/medilax-contact-form.php:95
+msgid "General"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:224
+msgid "General Styling"
+msgstr ""
+
+#: addons/header/header.php:261
+msgid "Get More Info"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:47
+msgid "Go to Dashboard -> MC4WP -> Form , copy the shortcode and paste here"
+msgstr ""
+
+#: addons/header/header.php:286
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+
+#: addons/header/header.php:278
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+
+#: inc/icons.php:11
+msgid "Group"
+msgstr ""
+
+#: addons/header/header.php:23 addons/header/header.php:38
+#: inc/builder/builder.php:167 inc/builder/builder.php:168
+#: inc/builder/builder.php:170
+msgid "Header"
+msgstr ""
+
+#: inc/builder/builder.php:45 inc/builder/builder.php:122
+#: inc/builder/builder.php:122
+msgid "Header Builder"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:163
+#: addons/widgets/medilax-service-info.php:271
+#: addons/widgets/medilax-service-info.php:379
+msgid "Header Color"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:183
+#: addons/widgets/medilax-service-info.php:291
+#: addons/widgets/medilax-service-info.php:399
+msgid "Header Margin"
+msgstr ""
+
+#: inc/builder/builder.php:54
+msgid "Header Name"
+msgstr ""
+
+#: addons/header/header.php:259
+msgid "Header Notice"
+msgstr ""
+
+#: inc/builder/builder.php:32 inc/builder/builder.php:41
+msgid "Header Option"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:195
+#: addons/widgets/medilax-service-info.php:303
+#: addons/widgets/medilax-service-info.php:411
+msgid "Header Padding"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:175
+#: addons/widgets/medilax-service-info.php:283
+#: addons/widgets/medilax-service-info.php:391
+msgid "Header Typography"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:245
+msgid "Heading Styling"
+msgstr ""
+
+#: inc/icons.php:12
+msgid "Healthcare"
+msgstr ""
+
+#: addons/header/header.php:501
+msgid "Height"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:168
+msgid "Here"
+msgstr ""
+
+#: addons/header/header.php:63 addons/header/header.php:107
+#: addons/header/header.php:120 addons/header/header.php:219
+#: addons/header/header.php:231 addons/header/header.php:250
+msgid "Hide"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:338
+msgid "Hospite Overall Rating,"
+msgstr ""
+
+#: addons/header/header.php:198
+msgid "Hotline Number"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:180
+msgid "Hover Bottom Color"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:359
+msgid "Hover Color"
+msgstr ""
+
+#: addons/header/header.php:147 addons/widgets/appointment-button.php:65
+#: addons/widgets/button.php:62 addons/widgets/doctor-single-image.php:127
+#: addons/widgets/medilax-about-us.php:211
+#: addons/widgets/medilax-doctors.php:134
+#: addons/widgets/medilax-image-with-video.php:77
+#: addons/widgets/medilax-service-info.php:83
+#: addons/widgets/medilax-work-process.php:87
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:241
+#: addons/widgets/medilax-about-us.php:1201 addons/widgets/medilax-cta.php:73
+#: addons/widgets/medilax-cta.php:128 addons/widgets/medilax-features.php:72
+#: addons/widgets/medilax-features.php:279
+#: addons/widgets/medilax-features.php:315
+#: addons/widgets/medilax-features.php:344 addons/widgets/medilax-skill.php:91
+#: addons/widgets/medilax-skill.php:436
+msgid "Icon"
+msgstr ""
+
+#: addons/header/header.php:423 addons/widgets/doctor-single-image.php:198
+#: addons/widgets/medilax-faq.php:111 addons/widgets/medilax-project.php:105
+#: addons/widgets/medilax-services.php:296
+#: addons/widgets/medilax-services.php:358 addons/widgets/medilax-skill.php:235
+msgid "Icon Background Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:220
+#: addons/widgets/medilax-faq.php:133 addons/widgets/medilax-project.php:127
+#: addons/widgets/medilax-skill.php:246
+msgid "Icon Background Hover Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:57
+msgid "Icon Class"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:187
+#: addons/widgets/medilax-blog.php:189 addons/widgets/medilax-blog.php:261
+#: addons/widgets/medilax-faq.php:100 addons/widgets/medilax-project.php:94
+#: addons/widgets/medilax-services.php:284
+#: addons/widgets/medilax-services.php:346 addons/widgets/medilax-skill.php:213
+msgid "Icon Color"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:321
+#: addons/widgets/medilax-services.php:383
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:209
+#: addons/widgets/medilax-faq.php:122 addons/widgets/medilax-project.php:116
+#: addons/widgets/medilax-services.php:309
+#: addons/widgets/medilax-services.php:371 addons/widgets/medilax-skill.php:224
+msgid "Icon Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:257
+msgid "Icon Ripple Effect Color"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:266 addons/widgets/medilax-skill.php:205
+msgid "Icon Settings"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:137
+msgid "Icon Shadow Color"
+msgstr ""
+
+#: addons/header/header.php:434
+msgid "Icon Shake Color"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:199 addons/widgets/medilax-blog.php:271
+msgid "Icon Size"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:40
+msgid "Image"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:268 addons/widgets/medilax-cta.php:100
+#: addons/widgets/medilax-features.php:99 addons/widgets/medilax-skill.php:118
+msgid "Image icon"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:50
+msgid "Image Style"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:58
+msgid ""
+"Incubate extensive scenarios without top-line quality vectors. "
+"Authoritatively engage"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:399
+#: addons/widgets/medilax-single-contact-info.php:74
+#: addons/widgets/medilax-single-contact-info.php:86
+msgid "info@yourdomain.com"
+msgstr ""
+
+#: inc/icons.php:13
+msgid "Injection"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:125
+msgid "Inner Border"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:115
+msgid "Inner Box"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:132
+msgid "Inner Box Radious"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:369
+msgid "Justify"
+msgstr ""
+
+#: inc/icons.php:14
+msgid "Laboratory Equipment"
+msgstr ""
+
+#: addons/header/header.php:823 addons/header/header.php:947
+msgid "Language"
+msgstr ""
+
+#: addons/widgets/button.php:78 addons/widgets/medilax-blog.php:357
+#: addons/widgets/medilax-blog.php:461 addons/widgets/section-title.php:139
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:235
+msgid "Line Color"
+msgstr ""
+
+#: addons/header/header.php:145 addons/widgets/appointment-button.php:63
+#: addons/widgets/button.php:60 addons/widgets/doctor-single-image.php:125
+#: addons/widgets/medilax-about-us.php:209
+#: addons/widgets/medilax-doctors.php:132
+#: addons/widgets/medilax-service-info.php:81
+#: addons/widgets/medilax-work-process.php:85
+msgid "Link"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:231
+msgid "Link Text Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:242
+msgid "Link Text Hover Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:254
+msgid "Link Text Typography"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:101
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat."
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:67
+msgid ""
+"Lorem ipsum is placeholder text commonly used in the graphic, print, and "
+"publishing industries for"
+msgstr ""
+
+#: inc/icons.php:15
+msgid "Medical kit"
+msgstr ""
+
+#: inc/icons.php:16
+msgid "Medical Mask"
+msgstr ""
+
+#: inc/icons.php:19
+msgid "Medical Quality of life"
+msgstr ""
+
+#: inc/icons.php:17
+msgid "Medical Results"
+msgstr ""
+
+#: inc/icons.php:18
+msgid "Medical Symbol"
+msgstr ""
+
+#: addons/addons.php:337 addons/widgets/medilax-about-us.php:1006
+#: addons/widgets/medilax-about-us.php:1160
+msgid "Medilax"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:60
+msgid "Medilax - Work Process Content"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:50
+msgid "Medilax - Work Process Title"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/about-me-widget.php:24
+msgid "Medilax :: About Me"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/about-us-widget.php:24
+msgid "Medilax :: About Us"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/contact-form.php:24
+msgid "Medilax :: Contact Form"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/contact-info-widget.php:21
+msgid "Medilax :: Contact Info"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/download-button.php:24
+msgid "Medilax :: Download Button"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/gallery-widget.php:24
+msgid "Medilax :: Gallery"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/product-category-filter.php:24
+msgid "Medilax :: Product Categories Filter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/product-tag-filter.php:24
+msgid "Medilax :: Product Tags Filter"
+msgstr ""
+
+#. Widget name will appear in UI
+#: inc/widgets/recent-post-widget.php:27
+msgid "Medilax :: Recent Posts"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:20
+msgid "Medilax About Us"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:20
+msgid "Medilax Blog"
+msgstr ""
+
+#: addons/widgets/button.php:20
+msgid "Medilax Button"
+msgstr ""
+
+#: addons/widgets/medilax-brand.php:19
+msgid "Medilax Client Logo"
+msgstr ""
+
+#: addons/addons.php:171 addons/addons.php:195 addons/addons.php:219
+msgid "Medilax Core"
+msgstr ""
+
+#: addons/widgets/medilax-skill.php:18
+msgid "Medilax Counter Up"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:20
+msgid "Medilax Doctors"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:20
+msgid "Medilax FAQ"
+msgstr ""
+
+#: addons/widgets/medilax-features.php:20
+msgid "Medilax Features"
+msgstr ""
+
+#: addons/addons.php:345
+msgid "Medilax Footer Elements"
+msgstr ""
+
+#: addons/addons.php:353
+msgid "Medilax Header Elements"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:21
+msgid "Medilax Image with Video"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:20
+msgid "Medilax Project"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:20
+msgid "Medilax Service"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:20
+msgid "Medilax Service Informations"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:20
+msgid "Medilax Single Contact Info"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:19 addons/widgets/medilax-tab.php:35
+#: addons/widgets/medilax-tab.php:63
+msgid "Medilax Tab"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:20
+msgid "Medilax Testimonials"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:20
+msgid "Medilax Work Processing"
+msgstr ""
+
+#: inc/builder/builder.php:112 inc/builder/builder.php:113
+msgid "Medixi Builder"
+msgstr ""
+
+#. Name of the plugin
+msgid "Medixi Core"
+msgstr ""
+
+#: inc/builder/builder.php:137
+msgid "Medixi Footer Builder"
+msgstr ""
+
+#: inc/builder/builder.php:169
+msgid "Medixi Header Builder"
+msgstr ""
+
+#: addons/header/header.php:447
+msgid "Menu Color"
+msgstr ""
+
+#: addons/header/header.php:457
+msgid "Menu Hover Color"
+msgstr ""
+
+#: addons/header/header.php:477
+msgid "Menu Margin"
+msgstr ""
+
+#: addons/header/header.php:489
+msgid "Menu Padding"
+msgstr ""
+
+#: addons/header/header.php:469
+msgid "Menu Typography"
+msgstr ""
+
+#: addons/header/header.php:369
+msgid "Menubar Styling"
+msgstr ""
+
+#: addons/widgets/middle-box.php:19 addons/widgets/middle-box.php:35
+msgid "Middle Box"
+msgstr ""
+
+#: inc/widgets/contact-info-widget.php:102
+msgid "Mobile :"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:65 addons/widgets/time-schedule.php:87
+msgid "Mon - Fri:"
+msgstr ""
+
+#: addons/header/header.php:86
+msgid "Mon - Fri: 8:00 am - 7:00 pm"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:123
+msgid "Moris Jonson"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:44
+msgid "My Time Schedule"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:77
+msgid "Name"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:262
+#: addons/widgets/medilax-testimonials.php:326
+msgid "Name Color"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:282
+#: addons/widgets/medilax-testimonials.php:348
+msgid "Name Margin"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:295
+#: addons/widgets/medilax-testimonials.php:361
+msgid "Name Padding"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:274
+#: addons/widgets/medilax-testimonials.php:340
+msgid "Name Typography"
+msgstr ""
+
+#: addons/widgets/contact-number.php:46 addons/widgets/medilax-about-us.php:372
+#: addons/widgets/medilax-about-us.php:390
+msgid "Need help? Contact Us"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:184 inc/medilaxcore-functions.php:331
+#: inc/medilaxcore-functions.php:482
+msgid "New Category Name"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:286
+msgid "New Doctor"
+msgstr ""
+
+#: inc/builder/builder.php:141
+msgid "New Footer"
+msgstr ""
+
+#: inc/builder/builder.php:173
+msgid "New Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:437
+msgid "New Project"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:139
+msgid "New Service"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:224 inc/medilaxcore-functions.php:371
+#: inc/medilaxcore-functions.php:522
+msgid "New Tag Name"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:20
+#: addons/widgets/medilax-newslatter.php:36
+msgid "Newsletter"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:66 inc/builder/builder.php:77
+msgid "No"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:188 inc/medilaxcore-functions.php:335
+#: inc/medilaxcore-functions.php:486
+msgid "No Categorys found."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:293
+msgid "No Doctors found in Trash."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:292
+msgid "No Doctors found."
+msgstr ""
+
+#: inc/builder/builder.php:148
+msgid "No Footer found in Trash."
+msgstr ""
+
+#: inc/builder/builder.php:147
+msgid "No Footer found."
+msgstr ""
+
+#: inc/builder/builder.php:180
+msgid "No Header found in Trash."
+msgstr ""
+
+#: inc/builder/builder.php:179
+msgid "No Header found."
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:59 addons/widgets/medilax-services.php:82
+msgid "No of Post to show"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:444
+msgid "No Projects found in Trash."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:443
+msgid "No Projects found."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:146
+msgid "No Services found in Trash."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:145
+msgid "No Services found."
+msgstr ""
+
+#: inc/medilaxcore-functions.php:228 inc/medilaxcore-functions.php:375
+#: inc/medilaxcore-functions.php:526
+msgid "No Tags found."
+msgstr ""
+
+#: addons/widgets/appointment-button.php:45
+msgid "Note Text"
+msgstr ""
+
+#: addons/header/header.php:523
+msgid "Notice Box Styling"
+msgstr ""
+
+#: addons/header/header.php:261
+msgid "Notice:"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:268
+msgid "Number Color"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:292
+msgid "Number Margin"
+msgstr ""
+
+#: inc/widgets/recent-post-widget.php:139
+msgid "Number of Posts to show:"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:308
+msgid "Number Padding"
+msgstr ""
+
+#: addons/widgets/contact-number.php:118
+#: addons/widgets/medilax-work-process.php:260
+msgid "Number Styling"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:284
+msgid "Number Typography"
+msgstr ""
+
+#: addons/widgets/offer-date.php:20
+msgid "Offer Date"
+msgstr ""
+
+#: addons/widgets/offer-date.php:36
+msgid "Offer Date Countdown"
+msgstr ""
+
+#: addons/widgets/offer-date.php:42
+msgid "Offer End Date With Time"
+msgstr ""
+
+#: addons/header/header.php:73
+msgid "Office Location"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:338
+msgid "on 8126 reviews."
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:89
+msgid "One Star"
+msgstr ""
+
+#: addons/header/header.php:84
+msgid "Opening Time"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:84 addons/widgets/medilax-doctors.php:91
+#: addons/widgets/medilax-project.php:59 addons/widgets/medilax-services.php:93
+msgid "Order"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:291
+msgid "Parent Doctors:"
+msgstr ""
+
+#: inc/builder/builder.php:146
+msgid "Parent Footer:"
+msgstr ""
+
+#: inc/builder/builder.php:178
+msgid "Parent Header:"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:442
+msgid "Parent Projects:"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:144
+msgid "Parent Services:"
+msgstr ""
+
+#: addons/widgets/contact-number.php:53 addons/widgets/medilax-about-us.php:379
+#: addons/widgets/medilax-single-contact-info.php:101
+msgid "Phone"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:238
+msgid "Phone Button Styling"
+msgstr ""
+
+#: addons/header/header.php:378 addons/widgets/medilax-doctors.php:549
+msgid "Phone Color"
+msgstr ""
+
+#: addons/header/header.php:389 addons/widgets/medilax-doctors.php:559
+msgid "Phone Hover Color"
+msgstr ""
+
+#: addons/header/header.php:411
+msgid "Phone Icon Color"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:579
+msgid "Phone Margin"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:591
+msgid "Phone Padding"
+msgstr ""
+
+#: addons/widgets/medilax-doctors.php:540
+msgid "Phone Styling"
+msgstr ""
+
+#: addons/header/header.php:402 addons/widgets/medilax-doctors.php:571
+msgid "Phone Typography"
+msgstr ""
+
+#: inc/widgets/about-us-widget.php:120
+msgid "Phone:"
+msgstr ""
+
+#: addons/addons.php:220
+msgid "PHP"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:411
+msgid "Play Button Styling"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:177 inc/medilaxcore-functions.php:324
+#: inc/medilaxcore-functions.php:475
+msgid "Popular Categorys"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:217 inc/medilaxcore-functions.php:364
+#: inc/medilaxcore-functions.php:515
+msgid "Popular Tags"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:44
+msgid "Post Per Page"
+msgstr ""
+
+#: inc/builder/builder.php:44 inc/builder/builder.php:88
+msgid "Pre Built"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:68
+msgid ""
+"Professionally impact distributed data via value-added experiences. Proacti "
+"incentivize 24/365 applications whereas turnkey total linkage. whiteboard "
+"multifunctional channels with interoperable value."
+msgstr ""
+
+#: addons/widgets/medilax-project.php:37
+msgid "Project"
+msgstr ""
+
+#: addons/widgets/medilax-project.php:45
+msgid "Project Style"
+msgstr ""
+
+#: addons/widgets/medilax-faq.php:148 addons/widgets/medilax-faq.php:204
+msgid "Question Style"
+msgstr ""
+
+#: inc/icons.php:20
+msgid "Quotation"
+msgstr ""
+
+#: inc/icons.php:21
+msgid "Quote"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:326
+#: addons/widgets/medilax-testimonials.php:85
+msgid "Rating"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:317
+msgid "Rating Area"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:303
+msgid "Rating Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:336
+msgid "Rating Content"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:346
+msgid "Rating Shape"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:99 addons/widgets/medilax-services.php:120
+#: addons/widgets/medilax-services.php:703
+#: addons/widgets/medilax-work-process.php:78
+msgid "Read More"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:76
+msgid "Read More Text"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:47
+msgid "Relax"
+msgstr ""
+
+#: addons/widgets/button.php:86 addons/widgets/medilax-blog.php:365
+#: addons/widgets/medilax-blog.php:469 addons/widgets/section-title.php:147
+msgid "Right"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:152
+msgid "Right Content"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:61
+#: addons/widgets/medilax-testimonials.php:128
+#: addons/widgets/medilax-testimonials.php:133
+msgid "Rosalina D. William"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:280
+#: addons/widgets/medilax-about-us.php:302
+#: addons/widgets/medilax-features.php:111
+#: addons/widgets/medilax-features.php:133
+msgid "Safe Cleaning Supplies"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:82
+msgid "Schedules"
+msgstr ""
+
+#: addons/header/header.php:834 addons/header/header.php:958
+msgid "Search"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:176 inc/medilaxcore-functions.php:323
+#: inc/medilaxcore-functions.php:474
+msgid "Search Categorys"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:290
+msgid "Search Doctors"
+msgstr ""
+
+#: inc/builder/builder.php:145
+msgid "Search Footer"
+msgstr ""
+
+#: inc/builder/builder.php:177
+msgid "Search Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:441
+msgid "Search Projects"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:143
+msgid "Search Services"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:216 inc/medilaxcore-functions.php:363
+#: inc/medilaxcore-functions.php:514
+msgid "Search Tags"
+msgstr ""
+
+#: addons/header/header.php:1046
+msgid "Search...."
+msgstr ""
+
+#: inc/widgets/download-button.php:118
+msgid "Second Button Text:"
+msgstr ""
+
+#: inc/widgets/download-button.php:122
+msgid "Second Button Url:"
+msgstr ""
+
+#: addons/widgets/content-header.php:61 addons/widgets/content-header.php:63
+#: addons/widgets/medilax-doctors.php:115 addons/widgets/section-title.php:125
+#: addons/widgets/section-title.php:127
+msgid "Section Description"
+msgstr ""
+
+#: addons/widgets/section-title.php:306
+msgid "Section Description Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:332
+msgid "Section Description Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:321
+msgid "Section Description Typography"
+msgstr ""
+
+#: addons/widgets/medilax-brand.php:43
+msgid "Section Style"
+msgstr ""
+
+#: addons/widgets/section-title.php:95 addons/widgets/section-title.php:97
+msgid "Section Subtitle"
+msgstr ""
+
+#: addons/widgets/section-title.php:266
+msgid "Section Subtitle Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:292
+msgid "Section Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:281
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:19 addons/widgets/section-title.php:35
+#: addons/widgets/section-title.php:70 addons/widgets/section-title.php:72
+msgid "Section Title"
+msgstr ""
+
+#: addons/widgets/section-title.php:197
+msgid "Section Title Color"
+msgstr ""
+
+#: addons/widgets/section-title.php:223
+msgid "Section Title Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:238
+msgid "Section Title Padding"
+msgstr ""
+
+#: addons/widgets/section-title.php:164
+msgid "Section Title Style"
+msgstr ""
+
+#: addons/widgets/section-title.php:212
+msgid "Section Title Typography"
+msgstr ""
+
+#: addons/widgets/section-title.php:172
+msgid "Section Wrapper Margin"
+msgstr ""
+
+#: addons/widgets/section-title.php:184
+msgid "Section Wrapper Padding"
+msgstr ""
+
+#: inc/icons.php:22
+msgid "Security"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:252 inc/medilaxcore-functions.php:406
+#: inc/medilaxcore-functions.php:554
+msgid "Select a category"
+msgstr ""
+
+#: addons/header/header.php:758
+msgid "Select A Menu"
+msgstr ""
+
+#: addons/header/header.php:275
+msgid "Select Medilax Menu"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:227 addons/widgets/medilax-cta.php:59
+#: addons/widgets/medilax-features.php:58 addons/widgets/medilax-skill.php:77
+msgid "Select Your Icon Type"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:185 inc/medilaxcore-functions.php:332
+#: inc/medilaxcore-functions.php:483
+msgid "Separate Categorys with commas"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:225 inc/medilaxcore-functions.php:372
+#: inc/medilaxcore-functions.php:523
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:37
+msgid "Service"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:37
+msgid "Service Informations"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:106
+msgid "Service Post Background Shape Image"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:45
+msgid "Service Style"
+msgstr ""
+
+#: addons/widgets/doctor-single-image.php:158
+msgid "Set Button Text"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:85
+msgid "Set Video Url"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:100
+msgid "Shape"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:113
+#: addons/widgets/medilax-contact-form.php:66
+#: addons/widgets/medilax-doctors.php:113
+msgid "Short Description"
+msgstr ""
+
+#: addons/widgets/medilax-newslatter.php:44
+msgid "Shortcode"
+msgstr ""
+
+#: addons/header/header.php:62 addons/header/header.php:106
+#: addons/header/header.php:119 addons/header/header.php:218
+#: addons/header/header.php:230 addons/header/header.php:249
+msgid "Show"
+msgstr ""
+
+#: addons/header/header.php:247
+msgid "Show Header Notice?"
+msgstr ""
+
+#: addons/header/header.php:104
+msgid "Show Language?"
+msgstr ""
+
+#: addons/header/header.php:228
+msgid "Show Offcanvas?"
+msgstr ""
+
+#: addons/header/header.php:117
+msgid "Show Search Icon?"
+msgstr ""
+
+#: addons/header/header.php:216
+msgid "Show Search?"
+msgstr ""
+
+#: addons/header/header.php:60
+msgid "Show Top Bar?"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:61
+msgid "Slide To Show"
+msgstr ""
+
+#: addons/header/header.php:133 addons/header/header.php:161
+#: addons/widgets/doctor-single-image.php:113
+msgid "Social Icon"
+msgstr ""
+
+#: addons/header/header.php:345
+msgid "Social Icon Color"
+msgstr ""
+
+#: addons/header/header.php:356
+msgid "Social Icon Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:63
+msgid "Specialist Name"
+msgstr ""
+
+#: inc/icons.php:23
+msgid "Stethoscope"
+msgstr ""
+
+#: inc/icons.php:24
+msgid "Stethoscope 2"
+msgstr ""
+
+#: addons/header/header.php:46
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:53
+#: addons/widgets/medilax-services.php:53
+msgid "Style Five"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:52
+#: addons/widgets/medilax-services.php:52
+msgid "Style Four"
+msgstr ""
+
+#: addons/header/header.php:49 addons/widgets/doctor-single-image.php:54
+#: addons/widgets/medilax-about-us.php:49 addons/widgets/medilax-brand.php:47
+#: addons/widgets/medilax-contact-form.php:49
+#: addons/widgets/medilax-doctors.php:49 addons/widgets/medilax-features.php:47
+#: addons/widgets/medilax-project.php:49 addons/widgets/medilax-services.php:49
+#: addons/widgets/medilax-single-contact-info.php:47
+#: addons/widgets/medilax-testimonials.php:48
+#: addons/widgets/section-title.php:47
+msgid "Style One"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:51
+#: addons/widgets/medilax-contact-form.php:51
+#: addons/widgets/medilax-doctors.php:51 addons/widgets/medilax-features.php:49
+#: addons/widgets/medilax-services.php:51
+#: addons/widgets/medilax-testimonials.php:50
+#: addons/widgets/section-title.php:49
+msgid "Style Three"
+msgstr ""
+
+#: addons/header/header.php:50 addons/widgets/doctor-single-image.php:55
+#: addons/widgets/medilax-about-us.php:50 addons/widgets/medilax-brand.php:48
+#: addons/widgets/medilax-contact-form.php:50
+#: addons/widgets/medilax-doctors.php:50 addons/widgets/medilax-features.php:48
+#: addons/widgets/medilax-project.php:50 addons/widgets/medilax-services.php:50
+#: addons/widgets/medilax-single-contact-info.php:48
+#: addons/widgets/medilax-testimonials.php:49
+#: addons/widgets/section-title.php:48
+msgid "Style Two"
+msgstr ""
+
+#: addons/widgets/section-title.php:105
+msgid "Subitle Tag"
+msgstr ""
+
+#: addons/widgets/content-header.php:43 addons/widgets/content-header.php:46
+#: addons/widgets/middle-box.php:43 addons/widgets/middle-box.php:46
+msgid "Subtitle"
+msgstr ""
+
+#: addons/widgets/content-header.php:82 addons/widgets/medilax-about-us.php:488
+#: addons/widgets/middle-box.php:139
+msgid "Subtitle Color"
+msgstr ""
+
+#: addons/widgets/content-header.php:101
+#: addons/widgets/medilax-about-us.php:508 addons/widgets/middle-box.php:158
+msgid "Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/content-header.php:113
+#: addons/widgets/medilax-about-us.php:520 addons/widgets/middle-box.php:170
+msgid "Subtitle Padding"
+msgstr ""
+
+#: addons/widgets/content-header.php:74 addons/widgets/middle-box.php:131
+msgid "Subtitle Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:479
+msgid "Subtitle Styling"
+msgstr ""
+
+#: addons/widgets/content-header.php:93 addons/widgets/medilax-about-us.php:500
+#: addons/widgets/middle-box.php:150
+msgid "Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:54
+msgid "Tab Description"
+msgstr ""
+
+#: addons/widgets/medilax-tab.php:45
+msgid "Tab Title"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:229 inc/medilaxcore-functions.php:376
+#: inc/medilaxcore-functions.php:527
+msgid "Tags"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:44
+msgid "Testimonial Style"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:36
+#: addons/widgets/medilax-testimonials.php:118
+msgid "Testimonials"
+msgstr ""
+
+#: addons/header/header.php:730 addons/widgets/appointment-button.php:132
+#: addons/widgets/button.php:155 addons/widgets/medilax-about-us.php:905
+#: addons/widgets/medilax-contact-form.php:354
+#: addons/widgets/medilax-doctors.php:723
+#: addons/widgets/medilax-newslatter.php:213
+#: addons/widgets/medilax-service-info.php:529
+#: addons/widgets/medilax-tab.php:141 addons/widgets/offer-date.php:84
+#: addons/widgets/time-schedule.php:215
+msgid "Text Color"
+msgstr ""
+
+#: addons/header/header.php:741 addons/widgets/appointment-button.php:143
+#: addons/widgets/button.php:166 addons/widgets/medilax-about-us.php:916
+#: addons/widgets/medilax-contact-form.php:365
+#: addons/widgets/medilax-doctors.php:734
+#: addons/widgets/medilax-newslatter.php:224
+#: addons/widgets/medilax-service-info.php:540
+#: addons/widgets/medilax-tab.php:152 addons/widgets/time-schedule.php:226
+msgid "Text Hover Color"
+msgstr ""
+
+#: addons/widgets/offer-date.php:96
+msgid "Text Typography"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:230 addons/widgets/medilax-cta.php:62
+#: addons/widgets/medilax-features.php:61 addons/widgets/medilax-skill.php:80
+msgid "Theme own Flat Icon"
+msgstr ""
+
+#: addons/header/header.php:286
+msgid "There are no menus in your site."
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:79
+msgid "This Field Only for style three !!"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is a helper plugin of medilax theme"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:91
+msgid "Three Star"
+msgstr ""
+
+#: addons/widgets/medilax-services.php:231
+msgid "Thumbnail Settings"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:72
+msgid "Time"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:569
+msgid "Time Duration"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:315
+msgid "Time Duration Settings"
+msgstr ""
+
+#: addons/widgets/time-schedule.php:20 addons/widgets/time-schedule.php:36
+msgid "Time Schedule"
+msgstr ""
+
+#: addons/widgets/contact-number.php:44 addons/widgets/content-header.php:52
+#: addons/widgets/content-header.php:55 addons/widgets/coupon-code.php:42
+#: addons/widgets/coupon-code.php:89 addons/widgets/medilax-about-us.php:103
+#: addons/widgets/medilax-about-us.php:278
+#: addons/widgets/medilax-about-us.php:370
+#: addons/widgets/medilax-about-us.php:388
+#: addons/widgets/medilax-contact-form.php:58
+#: addons/widgets/medilax-contact-form.php:60 addons/widgets/medilax-cta.php:42
+#: addons/widgets/medilax-doctors.php:103
+#: addons/widgets/medilax-doctors.php:106
+#: addons/widgets/medilax-features.php:109
+#: addons/widgets/medilax-work-process.php:48 addons/widgets/middle-box.php:52
+#: addons/widgets/middle-box.php:55 addons/widgets/time-schedule.php:42
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/contact-number.php:73 addons/widgets/contact-number.php:126
+#: addons/widgets/content-header.php:139
+#: addons/widgets/medilax-about-us.php:543
+#: addons/widgets/medilax-about-us.php:656 addons/widgets/medilax-blog.php:333
+#: addons/widgets/medilax-contact-form.php:128
+#: addons/widgets/medilax-doctors.php:253
+#: addons/widgets/medilax-doctors.php:382
+#: addons/widgets/medilax-features.php:155
+#: addons/widgets/medilax-project.php:314
+#: addons/widgets/medilax-service-info.php:216
+#: addons/widgets/medilax-service-info.php:324
+#: addons/widgets/medilax-service-info.php:432
+#: addons/widgets/medilax-services.php:409 addons/widgets/medilax-skill.php:312
+#: addons/widgets/medilax-work-process.php:141
+#: addons/widgets/middle-box.php:196
+msgid "Title Color"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:343 addons/widgets/medilax-services.php:419
+msgid "Title Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-blog.php:64
+msgid "Title Length"
+msgstr ""
+
+#: addons/widgets/contact-number.php:93 addons/widgets/contact-number.php:146
+#: addons/widgets/content-header.php:158
+#: addons/widgets/medilax-about-us.php:563
+#: addons/widgets/medilax-about-us.php:676 addons/widgets/medilax-blog.php:393
+#: addons/widgets/medilax-contact-form.php:149
+#: addons/widgets/medilax-doctors.php:274
+#: addons/widgets/medilax-doctors.php:402
+#: addons/widgets/medilax-features.php:175
+#: addons/widgets/medilax-project.php:334
+#: addons/widgets/medilax-service-info.php:236
+#: addons/widgets/medilax-service-info.php:344
+#: addons/widgets/medilax-service-info.php:452
+#: addons/widgets/medilax-services.php:439 addons/widgets/medilax-skill.php:333
+#: addons/widgets/medilax-work-process.php:165
+#: addons/widgets/middle-box.php:215
+msgid "Title Margin"
+msgstr ""
+
+#: addons/widgets/contact-number.php:105 addons/widgets/contact-number.php:158
+#: addons/widgets/content-header.php:170
+#: addons/widgets/medilax-about-us.php:575
+#: addons/widgets/medilax-about-us.php:688 addons/widgets/medilax-blog.php:405
+#: addons/widgets/medilax-contact-form.php:162
+#: addons/widgets/medilax-doctors.php:287
+#: addons/widgets/medilax-doctors.php:414
+#: addons/widgets/medilax-features.php:187
+#: addons/widgets/medilax-project.php:346
+#: addons/widgets/medilax-service-info.php:248
+#: addons/widgets/medilax-service-info.php:356
+#: addons/widgets/medilax-service-info.php:464
+#: addons/widgets/medilax-services.php:451 addons/widgets/medilax-skill.php:345
+#: addons/widgets/medilax-work-process.php:179
+#: addons/widgets/middle-box.php:227
+msgid "Title Padding"
+msgstr ""
+
+#: addons/widgets/content-header.php:131 addons/widgets/middle-box.php:188
+#: addons/widgets/section-title.php:43
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:535 addons/widgets/medilax-blog.php:325
+#: addons/widgets/medilax-contact-form.php:120
+#: addons/widgets/medilax-doctors.php:374
+#: addons/widgets/medilax-features.php:147
+#: addons/widgets/medilax-project.php:306
+#: addons/widgets/medilax-services.php:401 addons/widgets/medilax-skill.php:304
+#: addons/widgets/medilax-work-process.php:133
+msgid "Title Styling"
+msgstr ""
+
+#: addons/widgets/section-title.php:78
+msgid "Title Tag"
+msgstr ""
+
+#: addons/widgets/contact-number.php:85 addons/widgets/contact-number.php:138
+#: addons/widgets/content-header.php:150 addons/widgets/coupon-code.php:100
+#: addons/widgets/medilax-about-us.php:555
+#: addons/widgets/medilax-about-us.php:668 addons/widgets/medilax-blog.php:385
+#: addons/widgets/medilax-contact-form.php:141
+#: addons/widgets/medilax-doctors.php:265
+#: addons/widgets/medilax-doctors.php:394
+#: addons/widgets/medilax-features.php:167
+#: addons/widgets/medilax-project.php:326
+#: addons/widgets/medilax-service-info.php:228
+#: addons/widgets/medilax-service-info.php:336
+#: addons/widgets/medilax-service-info.php:444
+#: addons/widgets/medilax-services.php:431 addons/widgets/medilax-skill.php:325
+#: addons/widgets/medilax-work-process.php:155
+#: addons/widgets/middle-box.php:207
+msgid "Title Typography"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:144 inc/widgets/about-us-widget.php:110
+#: inc/widgets/contact-form.php:75 inc/widgets/download-button.php:105
+#: inc/widgets/gallery-widget.php:79 inc/widgets/product-category-filter.php:93
+#: inc/widgets/product-tag-filter.php:80 inc/widgets/recent-post-widget.php:135
+msgid "Title:"
+msgstr ""
+
+#: addons/header/header.php:323
+msgid "Topbar Content Color"
+msgstr ""
+
+#: addons/header/header.php:299
+msgid "Topbar Styling"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:54
+msgid "Treatment Durations"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:563
+msgid "Treatment Name"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:45
+msgid "Treatment Nmae"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:155
+msgid "Treatment Styling"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:207
+msgid "Treatment Types"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:90
+msgid "Two Star"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:66
+msgid "Type Dr. Name here"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:57
+msgid "Type Treatment Durations here"
+msgstr ""
+
+#: addons/widgets/medilax-service-info.php:48
+msgid "Type Treatment Name here"
+msgstr ""
+
+#: addons/header/header.php:722 addons/widgets/appointment-button.php:124
+#: addons/widgets/button.php:147 addons/widgets/medilax-about-us.php:897
+#: addons/widgets/medilax-contact-form.php:346
+#: addons/widgets/medilax-doctors.php:715
+#: addons/widgets/medilax-newslatter.php:205
+#: addons/widgets/medilax-service-info.php:521
+#: addons/widgets/time-schedule.php:207
+msgid "Typography"
+msgstr ""
+
+#: addons/widgets/medilax-testimonials.php:124
+msgid ""
+"Uniquely strategize 2.0 portals after fully researched vortals. Quickly "
+"repurpose front-end metrics through"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:182 inc/medilaxcore-functions.php:329
+#: inc/medilaxcore-functions.php:480
+msgid "Update Category"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:222 inc/medilaxcore-functions.php:369
+#: inc/medilaxcore-functions.php:520
+msgid "Update Tag"
+msgstr ""
+
+#: addons/widgets/middle-box.php:61
+msgid "Upload an Image Icon"
+msgstr ""
+
+#: inc/widgets/about-me-widget.php:153
+msgid "Upload Image"
+msgstr ""
+
+#: addons/header/header.php:187
+msgid "Upload Logo"
+msgstr ""
+
+#. Author of the plugin
+msgid "Vecurosoft"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:190
+msgid "vecurosoft"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:63
+msgid "Video Button"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:441
+#: addons/widgets/medilax-image-with-video.php:122
+msgid "Video Button Background Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:452
+#: addons/widgets/medilax-image-with-video.php:133
+msgid "Video Button Background Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:419
+#: addons/widgets/medilax-image-with-video.php:100
+msgid "Video Button Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:430
+#: addons/widgets/medilax-image-with-video.php:111
+msgid "Video Button Hover Color"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:463
+#: addons/widgets/medilax-image-with-video.php:144
+msgid "Video Button Ripple Effect Color"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:91
+msgid "Video Button Style"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:75
+msgid "Video Link"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:83
+msgid "Video Url?"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:288
+msgid "View Doctor"
+msgstr ""
+
+#: addons/widgets/appointment-button.php:47
+msgid "View Doctor’s Timetable"
+msgstr ""
+
+#: inc/builder/builder.php:143
+msgid "View Footer"
+msgstr ""
+
+#: inc/builder/builder.php:175
+msgid "View Header"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:439
+msgid "View Project"
+msgstr ""
+
+#: inc/medilaxcore-functions.php:141
+msgid "View Service"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:158
+msgid "Website Title"
+msgstr ""
+
+#: addons/widgets/medilax-single-contact-info.php:170
+msgid "Website URL"
+msgstr ""
+
+#: inc/builder/builder.php:128
+msgid "Welcome To Header And Footer Builder Of This Theme"
+msgstr ""
+
+#: addons/header/header.php:1067
+msgid "What are you looking for"
+msgstr ""
+
+#: addons/header/header.php:547
+msgid "Wishlist Styling"
+msgstr ""
+
+#: addons/widgets/medilax-work-process.php:37
+#: addons/widgets/medilax-work-process.php:111
+msgid "Work Process"
+msgstr ""
+
+#: addons/widgets/medilax-contact-form.php:68
+msgid "Write Description"
+msgstr ""
+
+#: addons/widgets/medilax-about-us.php:137
+msgid "Year Experience"
+msgstr ""
+
+#: addons/widgets/medilax-image-with-video.php:65 inc/builder/builder.php:76
+msgid "Yes"
+msgstr ""

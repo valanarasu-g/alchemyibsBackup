@@ -1,0 +1,22 @@
+[09-Aug-2024 07:05:52 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:05:52 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:05:52 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:05:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:05:57 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-list-table.php): failed to open stream: No such file or directory in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:05:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-list-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php on line 4
+[09-Aug-2024 07:06:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/config-validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/config-validator.php on line 3
+[09-Aug-2024 07:06:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/config-validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/config-validator.php on line 3
+[09-Aug-2024 07:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php on line 234
+[09-Aug-2024 07:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php on line 234

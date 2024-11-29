@@ -1,0 +1,144 @@
+.process-marked {
+  text-align: center;
+  margin-bottom: 17px;
+  transition: all ease 0.4s;
+  position: relative;
+
+  .link-btn {
+    color: $white-color;
+
+    &:hover {
+      color: $theme-color;
+    }
+  }
+
+  .process-icon {
+    margin-top: 25px;
+    border: 2px solid $white-color;
+    width: 150px;
+    height: 150px;
+    line-height: 150px;
+    position: relative;
+    display: inline-block;
+    margin-bottom: 33px;
+    border-radius: 50%;
+    z-index: 1;
+    color: $theme-color;
+    transition: all ease 0.4s;
+
+    i {
+      font-size: 52px;
+      line-height: inherit;
+    }
+
+    &:before {
+      content: '';
+      position: absolute;
+      top: 18px;
+      right: 18px;
+      bottom: 18px;
+      left: 18px;
+      background-color: $white-color;
+      transition: all ease 0.4s;
+      z-index: -1;
+      border-radius: inherit;
+      transform: scale(1);
+    }
+  }
+
+  .process-number {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: $theme-color;
+    color: $white-color;
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    font-optical-sizing: 18px;
+    font-weight: 500;
+    text-align: center;
+    transition: all ease 0.4s;
+  }
+
+  .process-title {
+    font-size: 24px;
+    border-bottom: 1px solid #1f3e5f;
+    padding-bottom: 23px;
+    margin-bottom: 25px;
+  }
+
+  .process-text {
+    max-width: 250px;
+    display: inline-block;
+    margin-bottom: 21px;
+  }
+
+  .process-shape {
+    position: absolute;
+    right: 0;
+    transform: translateX(50%);
+    top: 65px;
+  }
+
+  &:hover {
+    .process-number {
+      background-color: $white-color;
+      color: $theme-color;
+    }
+
+    .process-icon {
+      color: $white-color;
+
+      &:before {
+        background-color: $theme-color;
+      }
+    }
+
+    .link-btn {
+      color: $theme-color;
+    }
+  }
+}
+
+
+.process-nth {
+  position: relative;
+}
+
+@include lg {
+  .process-marked {
+    .process-shape {
+      max-width: 80px;
+    }
+  }
+}
+
+@include md {
+  .process-marked {
+    margin-bottom: 40px;
+
+    .process-title {
+      border-bottom: none;
+      padding-bottom: 0;
+      margin-bottom: 18px;
+    }
+
+    .process-shape {
+      display: none;
+    }
+  }
+
+
+  .process-nth {
+    &:last-child {
+      .process-marked { 
+        margin-bottom: 17px;
+      }
+    }
+  }
+
+}

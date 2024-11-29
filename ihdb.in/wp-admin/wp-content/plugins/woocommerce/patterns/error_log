@@ -1,0 +1,624 @@
+[27-Jun-2024 21:45:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php on line 21
+[27-Jun-2024 21:45:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php on line 21
+[27-Jun-2024 21:45:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php on line 28
+[27-Jun-2024 21:45:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php on line 28
+[27-Jun-2024 21:45:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php on line 24
+[27-Jun-2024 21:45:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php on line 24
+[27-Jun-2024 21:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php on line 10
+[27-Jun-2024 21:45:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php on line 10
+[27-Jun-2024 21:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php on line 19
+[27-Jun-2024 21:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php on line 19
+[27-Jun-2024 21:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php on line 10
+[27-Jun-2024 21:45:13 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php on line 10
+[27-Jun-2024 21:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php on line 10
+[27-Jun-2024 21:45:15 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php on line 10
+[27-Jun-2024 21:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php on line 12
+[27-Jun-2024 21:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php on line 12
+[27-Jun-2024 21:45:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php on line 25
+[27-Jun-2024 21:45:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php on line 25
+[27-Jun-2024 21:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php on line 19
+[27-Jun-2024 21:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php on line 19
+[27-Jun-2024 21:45:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php on line 57
+[27-Jun-2024 21:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php on line 57
+[27-Jun-2024 21:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php on line 16
+[27-Jun-2024 21:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php on line 16
+[27-Jun-2024 21:45:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php on line 57
+[27-Jun-2024 21:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php on line 57
+[27-Jun-2024 21:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php on line 74
+[27-Jun-2024 21:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php on line 74
+[27-Jun-2024 21:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php on line 73
+[27-Jun-2024 21:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php on line 73
+[27-Jun-2024 21:45:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php on line 40
+[27-Jun-2024 21:45:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php on line 40
+[27-Jun-2024 21:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php on line 14
+[27-Jun-2024 21:45:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php on line 14
+[27-Jun-2024 21:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php on line 13
+[27-Jun-2024 21:45:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php on line 13
+[27-Jun-2024 21:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php on line 50
+[27-Jun-2024 21:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php on line 50
+[27-Jun-2024 21:45:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php on line 24
+[27-Jun-2024 21:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php on line 24
+[27-Jun-2024 21:45:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php on line 10
+[27-Jun-2024 21:45:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php on line 10
+[27-Jun-2024 21:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php on line 17
+[27-Jun-2024 21:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php on line 17
+[27-Jun-2024 21:45:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php on line 13
+[27-Jun-2024 21:45:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php on line 13
+[27-Jun-2024 21:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php on line 11
+[27-Jun-2024 21:45:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php on line 11
+[27-Jun-2024 21:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php on line 14
+[27-Jun-2024 21:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php on line 14
+[27-Jun-2024 21:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php on line 14
+[27-Jun-2024 21:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php on line 14
+[27-Jun-2024 21:45:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php on line 10
+[27-Jun-2024 21:45:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php on line 10
+[27-Jun-2024 21:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php on line 15
+[27-Jun-2024 21:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php on line 15
+[27-Jun-2024 21:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php on line 18
+[27-Jun-2024 21:46:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php on line 18
+[27-Jun-2024 21:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php on line 10
+[27-Jun-2024 21:46:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php on line 10
+[27-Jun-2024 21:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php on line 21
+[27-Jun-2024 21:46:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php on line 21
+[27-Jun-2024 21:46:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php on line 14
+[27-Jun-2024 21:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php on line 14
+[27-Jun-2024 21:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php on line 43
+[27-Jun-2024 21:46:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php on line 43
+[27-Jun-2024 21:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php on line 10
+[27-Jun-2024 21:46:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php on line 10
+[27-Jun-2024 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php on line 21
+[27-Jun-2024 21:46:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php on line 21
+[27-Jun-2024 21:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-search-form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-search-form.php on line 9
+[27-Jun-2024 21:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-search-form.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-search-form.php on line 9
+[27-Jun-2024 21:46:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/related-products.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/related-products.php on line 17
+[27-Jun-2024 21:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/related-products.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/related-products.php on line 17
+[27-Jun-2024 21:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/shop-by-price.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/shop-by-price.php on line 22
+[27-Jun-2024 21:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/shop-by-price.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/shop-by-price.php on line 22
+[27-Jun-2024 21:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/small-discount-banner-with-image.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/small-discount-banner-with-image.php on line 20
+[27-Jun-2024 21:46:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/small-discount-banner-with-image.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/small-discount-banner-with-image.php on line 20
+[27-Jun-2024 21:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/social-follow-us-in-social-media.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/social-follow-us-in-social-media.php on line 10
+[27-Jun-2024 21:46:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/social-follow-us-in-social-media.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/social-follow-us-in-social-media.php on line 10
+[27-Jun-2024 21:46:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/store-info-alt-image-and-text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/store-info-alt-image-and-text.php on line 10
+[27-Jun-2024 21:46:45 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/store-info-alt-image-and-text.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/store-info-alt-image-and-text.php on line 10
+[27-Jun-2024 21:46:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-3-columns.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-3-columns.php on line 20
+[27-Jun-2024 21:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-3-columns.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-3-columns.php on line 20
+[27-Jun-2024 21:46:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-single.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-single.php on line 20
+[27-Jun-2024 21:46:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-single.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/testimonials-single.php on line 20
+[29-Jun-2024 15:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php on line 21
+[29-Jun-2024 15:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/banner.php on line 21
+[29-Jun-2024 15:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php on line 28
+[29-Jun-2024 15:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner-with-image.php on line 28
+[29-Jun-2024 15:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php on line 24
+[29-Jun-2024 15:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/discount-banner.php on line 24
+[29-Jun-2024 15:17:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php on line 10
+[29-Jun-2024 15:17:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-cover-image.php on line 10
+[29-Jun-2024 15:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php on line 19
+[29-Jun-2024 15:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-focus.php on line 19
+[29-Jun-2024 15:17:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php on line 10
+[29-Jun-2024 15:17:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-category-triple.php on line 10
+[29-Jun-2024 15:17:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php on line 10
+[29-Jun-2024 15:17:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/featured-products-fresh-and-tasty.php on line 10
+[29-Jun-2024 15:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php on line 12
+[29-Jun-2024 15:17:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/filters.php on line 12
+[29-Jun-2024 15:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php on line 25
+[29-Jun-2024 15:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large-dark.php on line 25
+[29-Jun-2024 15:17:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php on line 19
+[29-Jun-2024 15:17:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-large.php on line 19
+[29-Jun-2024 15:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php on line 57
+[29-Jun-2024 15:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-dark.php on line 57
+[29-Jun-2024 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php on line 16
+[29-Jun-2024 15:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple-menu.php on line 16
+[29-Jun-2024 15:18:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php on line 57
+[29-Jun-2024 15:18:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-simple.php on line 57
+[29-Jun-2024 15:18:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php on line 74
+[29-Jun-2024 15:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus-dark.php on line 74
+[29-Jun-2024 15:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php on line 73
+[29-Jun-2024 15:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-2-menus.php on line 73
+[29-Jun-2024 15:18:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php on line 40
+[29-Jun-2024 15:18:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/footer-with-3-menus.php on line 40
+[29-Jun-2024 15:18:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php on line 14
+[29-Jun-2024 15:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-essential-dark.php on line 14
+[29-Jun-2024 15:18:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php on line 13
+[29-Jun-2024 15:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large-dark.php on line 13
+[29-Jun-2024 15:18:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php on line 50
+[29-Jun-2024 15:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/header-large.php on line 50
+[29-Jun-2024 15:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php on line 24
+[29-Jun-2024 15:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-3-split.php on line 24
+[29-Jun-2024 15:19:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php on line 10
+[29-Jun-2024 15:19:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-chessboard.php on line 10
+[29-Jun-2024 15:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php on line 17
+[29-Jun-2024 15:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/hero-product-split.php on line 17
+[29-Jun-2024 15:19:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php on line 13
+[29-Jun-2024 15:19:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/just-arrived-full-hero.php on line 13
+[29-Jun-2024 15:19:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php on line 11
+[29-Jun-2024 15:19:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/no-products-found.php on line 11
+[29-Jun-2024 15:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php on line 14
+[29-Jun-2024 15:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-4-columns.php on line 14
+[29-Jun-2024 15:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php on line 14
+[29-Jun-2024 15:19:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-5-columns.php on line 14
+[29-Jun-2024 15:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php on line 10
+[29-Jun-2024 15:20:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-banner.php on line 10
+[29-Jun-2024 15:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php on line 15
+[29-Jun-2024 15:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collection-featured-products-5-columns.php on line 15
+[29-Jun-2024 15:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php on line 18
+[29-Jun-2024 15:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collection.php on line 18
+[29-Jun-2024 15:20:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php on line 10
+[29-Jun-2024 15:20:54 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-featured-collections.php on line 10
+[29-Jun-2024 15:20:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php on line 21
+[29-Jun-2024 15:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-collections-newest-arrivals.php on line 21
+[29-Jun-2024 15:21:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php on line 14
+[29-Jun-2024 15:21:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-details-pattern.php on line 14
+[29-Jun-2024 15:21:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php on line 43
+[29-Jun-2024 15:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-featured-2-columns.php on line 43
+[29-Jun-2024 15:21:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php on line 10
+[29-Jun-2024 15:21:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Automattic\WooCommerce\Blocks\AIContent\PatternsHelper' not found in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-hero-2-col-2-row.php on line 10
+[29-Jun-2024 15:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php on line 21
+[29-Jun-2024 15:21:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/patterns/product-listing-with-gallery-and-description.php on line 21

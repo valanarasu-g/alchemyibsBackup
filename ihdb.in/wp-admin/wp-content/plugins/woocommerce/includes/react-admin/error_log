@@ -1,0 +1,8 @@
+[09-Aug-2024 07:45:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125
+[09-Aug-2024 07:45:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/ihdb/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/woocommerce/includes/react-admin/connect-existing-pages.php on line 125

@@ -1,0 +1,72 @@
+.contact-info-table {
+  td {
+    border-bottom: 1px dashed #dfdfe0;
+    border-top: none;
+    padding-left: 0;
+    padding-right: 10px;
+
+    + td {
+      padding-right: 0;
+      text-align: right;
+    }
+  }
+}
+
+form.wpcf7-form.sent {
+  .wpcf7-response-output {
+    margin: 30px 0 0 0;
+  }
+}
+
+.wpcf7 form {
+  .wpcf7-response-output {
+    margin: 1.5em 0.5em 0;
+    padding: 0.2em 1em;
+  }
+
+  span.wpcf7-list-item {
+    margin-top: 20px;
+    .wpcf7-list-item-label {
+      position: relative;
+      padding-left: 30px;
+      cursor: pointer;
+      display: block;
+      &::before {
+        content: "";
+        font-family: var(--icon-font);
+        font-weight: 700;
+        position: absolute;
+        left: 0;
+        top: 4px;
+        background-color: var(--white-color);
+        border: 1px solid var(--border-color);
+        height: 18px;
+        width: 18px;
+        line-height: 18px;
+        text-align: center;
+        font-size: 12px;
+      }
+    }
+		input[type="checkbox"] {
+			&:checked {
+				~ .wpcf7-list-item-label {
+					&:before {
+						content: "\f00c";
+						color: $theme-color;
+						border-color: $theme-color;
+            font-family: var(--icon-font);
+					}
+				}
+			}
+		}
+
+
+  }
+}
+
+
+@include md {
+  .contact-map.mt-70 {
+    margin-top: 10px;
+  }
+}

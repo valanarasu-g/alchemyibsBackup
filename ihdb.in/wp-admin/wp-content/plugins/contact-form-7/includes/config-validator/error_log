@@ -1,0 +1,16 @@
+[09-Aug-2024 07:06:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[09-Aug-2024 07:06:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/actions.php on line 3
+[09-Aug-2024 07:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3
+[09-Aug-2024 07:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function path_join() in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-content/plugins/contact-form-7/includes/config-validator/validator.php on line 3

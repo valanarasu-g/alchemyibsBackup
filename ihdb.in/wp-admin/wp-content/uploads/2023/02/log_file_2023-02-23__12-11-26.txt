@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Medilax Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://wordpress.vecurosoft.com/medixi
+Data file = /var/customers/webs/wordpress/medixi/wp-content/themes/medilax/inc/demo-data/medilax-demo.xml
+Widget file = /var/customers/webs/wordpress/medixi/wp-content/themes/medilax/inc/demo-data/medilax-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+medilax_opt -> /var/customers/webs/wordpress/medixi/wp-content/themes/medilax/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Categories - Imported
+Medilax :: Recent Posts - Popular Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Page Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer One : 
+
+Medilax :: About Us - About Us - Imported
+
+Footer Two : 
+
+Navigation Menu - Services - Imported
+
+Footer Three : 
+
+Medilax :: Gallery - Gallery Posts - Imported
+
+Footer Four : 
+
+Custom HTML - Opening Hours - Imported
+
+WooCommerce Sidebar : 
+
+Cart - Cart - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Rating - Average rating - Imported
+Medilax :: Product Tags Filter - No Title - Imported
+Active Product Filters - Active filters - Imported
+Medilax :: Product Categories Filter - No Title - Imported
+
+mega-menu : Sidebar does not exist in theme (moving widget to Inactive)
+
+Calendar - No Title - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: medilax_opt finished successfully!
+
+---ocdi/after_import---
+

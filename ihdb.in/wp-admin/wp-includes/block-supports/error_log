@@ -1,0 +1,128 @@
+[06-Jun-2024 19:39:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/background.php on line 131
+[06-Jun-2024 19:39:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/background.php on line 131
+[16-Sep-2024 08:34:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 08:34:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 18:51:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Sep-2024 18:51:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 04:19:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 04:19:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 04:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[21-Sep-2024 04:22:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 12:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 12:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 12:23:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 12:23:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 21:01:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[24-Sep-2024 21:01:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[13-Oct-2024 17:28:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[13-Oct-2024 17:28:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[13-Oct-2024 21:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[13-Oct-2024 21:00:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Oct-2024 13:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[16-Oct-2024 13:29:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[17-Oct-2024 13:11:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[17-Oct-2024 13:12:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[17-Oct-2024 13:25:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[17-Oct-2024 13:25:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[28-Oct-2024 21:42:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[28-Oct-2024 21:42:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[28-Oct-2024 21:48:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[28-Oct-2024 21:48:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php:268
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/block-style-variations.php on line 268
+[25-Nov-2024 04:36:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/background.php on line 111
+[25-Nov-2024 04:36:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/ihdb/public_html/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/ihdb/public_html/wp-includes/block-supports/background.php on line 111

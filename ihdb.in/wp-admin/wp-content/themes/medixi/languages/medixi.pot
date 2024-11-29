@@ -1,0 +1,2565 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Medixi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-01 06:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: medixi"
+
+#: inc/hooks/hooks-functions.php:343 inc/hooks/hooks-functions.php:669
+msgid " Comment"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:345 inc/hooks/hooks-functions.php:671
+msgid " Comments"
+msgstr ""
+
+#: comments.php:55
+msgid ""
+" Save my name, email, and website in this browser for the next time I "
+"comment."
+msgstr ""
+
+#: woocommerce/cart/cart.php:149
+msgid " Update cart"
+msgstr ""
+
+#: search.php:71 inc/hooks/hooks-functions.php:337
+#: inc/hooks/hooks-functions.php:662
+msgid " Views"
+msgstr ""
+
+#: inc/medixi-functions.php:216
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:509
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:21
+msgid "&laquo;"
+msgstr ""
+
+#: inc/wp_bootstrap_pagination.php:22
+msgid "&raquo;"
+msgstr ""
+
+#. %s location.
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/medixi-functions.php:567
+msgid "0"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:609
+#: inc/medixi-framework/medixi-options/medixi-options.php:632
+#: inc/medixi-framework/medixi-options/medixi-options.php:778
+#: inc/medixi-framework/medixi-options/medixi-options.php:940
+#: inc/medixi-framework/medixi-options/medixi-options.php:1127
+#: inc/medixi-framework/medixi-options/medixi-options.php:1193
+msgid "1 Column"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:613
+#: inc/medixi-framework/medixi-options/medixi-options.php:636
+#: inc/medixi-framework/medixi-options/medixi-options.php:782
+#: inc/medixi-framework/medixi-options/medixi-options.php:944
+#: inc/medixi-framework/medixi-options/medixi-options.php:1131
+#: inc/medixi-framework/medixi-options/medixi-options.php:1197
+msgid "2 Column Left"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:617
+#: inc/medixi-framework/medixi-options/medixi-options.php:640
+#: inc/medixi-framework/medixi-options/medixi-options.php:786
+#: inc/medixi-framework/medixi-options/medixi-options.php:948
+#: inc/medixi-framework/medixi-options/medixi-options.php:1135
+#: inc/medixi-framework/medixi-options/medixi-options.php:1201
+msgid "2 Column Right"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1150
+#: inc/medixi-framework/medixi-options/medixi-options.php:1260
+#: inc/medixi-framework/medixi-options/medixi-options.php:1306
+#: inc/medixi-framework/medixi-options/medixi-options.php:1352
+msgid "2 Columns"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1154
+#: inc/medixi-framework/medixi-options/medixi-options.php:1264
+#: inc/medixi-framework/medixi-options/medixi-options.php:1310
+#: inc/medixi-framework/medixi-options/medixi-options.php:1356
+msgid "3 Columns"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1158
+#: inc/medixi-framework/medixi-options/medixi-options.php:1268
+#: inc/medixi-framework/medixi-options/medixi-options.php:1314
+#: inc/medixi-framework/medixi-options/medixi-options.php:1360
+msgid "4 Columns"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1060
+msgid "404"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1053
+msgid "404 Image"
+msgstr ""
+
+#: templates/header-menu-bottom.php:204
+msgid "404 PAGE"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1045
+msgid "404 Page"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1162
+#: inc/medixi-framework/medixi-options/medixi-options.php:1170
+msgid "5 Columns"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1166
+#: inc/medixi-framework/medixi-options/medixi-options.php:1174
+#: inc/medixi-framework/medixi-options/medixi-options.php:1272
+#: inc/medixi-framework/medixi-options/medixi-options.php:1318
+#: inc/medixi-framework/medixi-options/medixi-options.php:1364
+msgid "6 Columns"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1739
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:209
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:198
+#: inc/medixi-framework/medixi-options/medixi-options.php:203
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:106
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:84
+msgid "Add"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:77
+msgid "Add a review"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:209
+#: inc/medixi-framework/medixi-meta/medixi-config.php:376
+msgid "Add Another Social Profile"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:28
+msgid "Add Blog Sidebar Widgets Here."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1586
+msgid "Add Copyright Text"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1384
+msgid "Add Gallery Image"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1385
+msgid "Add gallery Image and url."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:277
+msgid "Add Icon"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:181
+msgid "Add Image"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:39
+msgid "Add Page Sidebar Widgets Here."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1440
+msgid "Add social icon and url."
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:61
+msgid "Additional information"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:317
+msgid "Admin Label"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:323
+msgid "Admin Login Logo"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:330
+msgid "Any CSS your write here will run in admin."
+msgstr ""
+
+#: woocommerce/cart/cart.php:142 woocommerce/checkout/form-coupon.php:33
+#: woocommerce/checkout/form-coupon.php:33
+msgid "Apply coupon"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:439
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:452
+msgid "Availability:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:66 woocommerce/checkout/review-order.php:57
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+#: woocommerce/single-product-reviews.php:118
+msgid "Average"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:239
+msgid "Back To Top"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:246
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:272
+msgid "Back To Top Button Background Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:288
+msgid "Back To Top Button Border Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:280
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:799
+#: inc/medixi-framework/medixi-options/medixi-options.php:1214
+msgid "Below Thumbnail"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/myaccount/my-address.php:35
+#: woocommerce/order/order-details-customer.php:29
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:832
+msgid "Biography Info"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:597
+msgid "Blog"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:671
+msgid "Blog Custom Title"
+msgstr ""
+
+#: templates/header-menu-bottom.php:280
+msgid "Blog Details"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:807
+msgid "Blog Details Custom Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:723
+msgid "Blog Excerpt / Content Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:882
+msgid "Blog Meta Hover Text Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:868
+msgid "Blog Meta Icon Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:875
+msgid "Blog Meta Text Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:653
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:659
+msgid "Blog Page Title Setting"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:751
+msgid "Blog Pagination Active Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:744
+msgid "Blog Pagination Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:759
+msgid "Blog Pagination Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:801
+msgid "Blog Post Title Position"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:678
+msgid "Blog Posts Excerpt"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:26
+#: inc/medixi-framework/medixi-options/medixi-options.php:963
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:709
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:716
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:401
+msgid "Blood Pressure"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:124
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/medixi-functions.php:513
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1026
+msgid "Breadcrumb Active Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1018
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1035
+msgid "Breadcrumb Divider Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1009
+msgid "Breadcrumb Hide/Show"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1003
+msgid "Breadcrumb Image"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1096
+msgid "Button Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1104
+msgid "Button Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:460
+#: inc/medixi-framework/medixi-options/medixi-options.php:1072
+msgid "Button Text"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:466
+msgid "Button URL?"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+msgid "Calculate shipping"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:24 inc/hooks/hooks-functions.php:37
+msgid "Cancel Preloader"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:25
+msgid "Cart Totals"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:915
+msgid "Category"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:176
+msgid "Category Image"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:165
+msgid "Category Metabox"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:476
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/cart/cart-shipping.php:76
+msgid "Change address"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:72
+msgid "check to display page breadcrumb area."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:96
+msgid "check to display Page Title."
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:550
+msgid "Checkout"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:606
+msgid ""
+"Choose blog layout from here. If you use this option then you will able to "
+"change three type of blog layout ( Default Left Sidebar Layour ). "
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:775
+msgid ""
+"Choose blog single page layout from here. If you use this option then you "
+"will able to change three type of blog single page layout ( Default Left "
+"Sidebar Layour ). "
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1036
+msgid "Choose breadcrumb divider color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1027
+msgid ""
+"Choose page header breadcrumb text active color here.If you user this option "
+"then you will able to set page breadcrumb active color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1019
+msgid ""
+"Choose page header breadcrumb text color here.If you user this option then "
+"you will able to set page breadcrumb color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1189
+msgid "Choose product single page sidebar."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1123
+msgid "Choose shop page sidebar"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:936
+msgid ""
+"Choose your page layout. If you use this option then you will able to choose "
+"three type of page layout ( Default no sidebar ). "
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:76
+msgid "City"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:454
+msgid "Click Show To Display Cart?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:422
+msgid "Click Show To Display Social Icon?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:445
+msgid "Click Show To Display Wishlist?"
+msgstr ""
+
+#: woocommerce/ti-addedtowishlist-dialogbox.php:36
+msgid "Close"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:83
+msgid "CMB2"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:55
+msgid "CMB2 Conditional Scripts"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:906
+msgid "Comment Count"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:442
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:146
+#: inc/woo-hooks/medixi-woo-hooks.php:197
+#: inc/woo-hooks/medixi-woo-hooks.php:270
+#: inc/woo-hooks/medixi-woo-hooks.php:339
+msgid "Company name (optional)"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:402
+msgid "Computer Mouse"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:89
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:145
+msgid "Container"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:146
+msgid "Container Fluid"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:833
+msgid ""
+"Control biography info from here. If you use this option then you will able "
+"to show or hide biography info ( Default setting Show )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:660
+msgid ""
+"Control blog page title setting. If you use this option then you can able to "
+"show default or custom blog page title ( Default Blog )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:654
+msgid ""
+"Control blog page title show / hide. If you use this option then you will "
+"able to show / hide your blog page title ( Default Setting Show )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:802
+msgid "Control blog post title position from here."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:376
+msgid "Control Header Topbar By Show Or Hide System."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:842
+msgid ""
+"Control post navigation from here. If you use this option then you will able "
+"to show or hide post navigation ( Default setting Show )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:824
+msgid ""
+"Control post share options from here. If you use this option then you will "
+"able to show or hide post share options."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1217
+msgid "Control product details title position from here."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:691
+msgid "Control read more text from here."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:851
+msgid ""
+"Control related post from here. If you use this option then you will able to "
+"show or hide related post ( Default setting Show )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:679
+msgid ""
+"Control the number of characters you want to show in the blog page for each "
+"post.. If you use this option then you can able to control your blog post "
+"characters from here ( Default show 10 )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1585
+msgid "Copyright Text"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1346
+msgid "Cross sell Product Column"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1328
+msgid "Cross sell product Hide/Show"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1337
+msgid "Cross sell products number"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1630
+msgid "CSS Code"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:663
+#: inc/medixi-framework/medixi-options/medixi-options.php:694
+msgid "Custom"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:255
+msgid "Custom Back To Top Button"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:265
+msgid "Custom Back To Top Button Icon"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1623
+msgid "Custom Css"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:329
+msgid "Custom CSS For admin"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:260
+#: inc/medixi-framework/medixi-meta/medixi-config.php:266
+msgid "Custom Icon"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:118
+msgid "Custom Page Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:112
+msgid "Custom Title"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:388
+msgid "customer review"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:662
+#: inc/medixi-framework/medixi-options/medixi-options.php:693
+msgid "Default"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:111
+msgid "Default Title"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:16
+msgid "Demo Preview Imgae"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1500
+#: inc/medixi-framework/medixi-options/medixi-options.php:1510
+#: inc/medixi-framework/medixi-options/medixi-options.php:1555
+#: inc/medixi-framework/medixi-options/medixi-options.php:1572
+msgid "Disable"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:250
+#: inc/medixi-framework/medixi-options/medixi-options.php:259
+#: inc/medixi-framework/medixi-options/medixi-options.php:308
+#: inc/medixi-framework/medixi-options/medixi-options.php:818
+#: inc/medixi-framework/medixi-options/medixi-options.php:892
+#: inc/medixi-framework/medixi-options/medixi-options.php:901
+#: inc/medixi-framework/medixi-options/medixi-options.php:910
+#: inc/medixi-framework/medixi-options/medixi-options.php:919
+#: inc/medixi-framework/medixi-options/medixi-options.php:975
+msgid "Disabled"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:403
+msgid "Discuss"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Display Name"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1645
+msgid "Documentation"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:404
+msgid "ECG"
+msgstr ""
+
+#: inc/medixi-functions.php:224 woocommerce/myaccount/my-address.php:84
+msgid "Edit"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:405
+msgid "Electrocardiogram"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:69
+msgid "Elementor"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:98
+#: inc/medixi-framework/medixi-meta/medixi-config.php:357
+msgid "Email"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:156
+#: inc/woo-hooks/medixi-woo-hooks.php:207
+#: inc/woo-hooks/medixi-woo-hooks.php:282
+#: inc/woo-hooks/medixi-woo-hooks.php:351
+msgid "Email address"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:249
+#: inc/medixi-framework/medixi-options/medixi-options.php:258
+#: inc/medixi-framework/medixi-options/medixi-options.php:307
+#: inc/medixi-framework/medixi-options/medixi-options.php:817
+#: inc/medixi-framework/medixi-options/medixi-options.php:891
+#: inc/medixi-framework/medixi-options/medixi-options.php:900
+#: inc/medixi-framework/medixi-options/medixi-options.php:909
+#: inc/medixi-framework/medixi-options/medixi-options.php:918
+#: inc/medixi-framework/medixi-options/medixi-options.php:974
+#: inc/medixi-framework/medixi-options/medixi-options.php:1499
+#: inc/medixi-framework/medixi-options/medixi-options.php:1509
+#: inc/medixi-framework/medixi-options/medixi-options.php:1554
+#: inc/medixi-framework/medixi-options/medixi-options.php:1571
+msgid "Enabled"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:91
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Enter Coupon Code"
+msgstr ""
+
+#: comments.php:53
+msgid "Enter E-mail Address *"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:85
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: comments.php:52
+msgid "Enter Your Name *"
+msgstr ""
+
+#: inc/medixi-breadcrumbs.php:130
+msgid "Error 404"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:170
+msgid "Extra Info"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:136
+#: inc/woo-hooks/medixi-woo-hooks.php:187
+#: inc/woo-hooks/medixi-woo-hooks.php:258
+#: inc/woo-hooks/medixi-woo-hooks.php:327
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "First Name"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:261
+#: inc/medixi-framework/medixi-meta/medixi-config.php:286
+msgid "Flat Icon"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1469
+msgid "Footer"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1516
+msgid "Footer Background"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1578
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1569
+msgid "Footer Bottom?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1486
+#: inc/medixi-framework/medixi-options/medixi-options.php:1489
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1601
+msgid "Footer Copyright Ancor Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1609
+msgid "Footer Copyright Ancor Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1593
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:72
+msgid "Footer Four"
+msgstr ""
+
+#: inc/theme-setup.php:36
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:48
+msgid "Footer One"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:64
+msgid "Footer Three"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1562
+msgid "Footer Top Logo"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1552
+msgid "Footer Top?"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:56
+msgid "Footer Two"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1507
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1538
+msgid "Footer Widget Anchor Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1545
+msgid "Footer Widget Anchor Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1531
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1524
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:72
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:147
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1377
+msgid "Gallery"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:338
+msgid "Genaral Informations"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:217
+msgid "General"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:89
+msgid "Global Settings"
+msgstr ""
+
+#: 404.php:23
+msgid "Go Back Home"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+#: woocommerce/single-product-reviews.php:117
+msgid "Good"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/essential-scripts.php:103
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:406
+msgid "Group"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:101
+msgid "GTranslate"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:981
+msgid "H1"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:982
+msgid "H2"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:983
+msgid "H3"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:984
+msgid "H4"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:985
+msgid "H5"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:986
+msgid "H6"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:342
+#: inc/medixi-framework/medixi-options/medixi-options.php:365
+msgid "Header"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:353
+msgid "Header Builder"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:453
+msgid "Header Cart?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:473
+msgid "Header Logo"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:521
+msgid "Header Menu"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:355
+msgid "Header Options"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:428
+msgid "Header Social Icon Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:421
+msgid "Header Social Icon?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:375
+msgid "Header Topbar?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:444
+msgid "Header Wishlist?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:407
+msgid "Healthcare"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:78
+#: inc/medixi-framework/medixi-meta/medixi-config.php:102
+#: inc/medixi-framework/medixi-options/medixi-options.php:374
+#: inc/medixi-framework/medixi-options/medixi-options.php:400
+#: inc/medixi-framework/medixi-options/medixi-options.php:410
+#: inc/medixi-framework/medixi-options/medixi-options.php:420
+#: inc/medixi-framework/medixi-options/medixi-options.php:443
+#: inc/medixi-framework/medixi-options/medixi-options.php:452
+#: inc/medixi-framework/medixi-options/medixi-options.php:652
+#: inc/medixi-framework/medixi-options/medixi-options.php:826
+#: inc/medixi-framework/medixi-options/medixi-options.php:835
+#: inc/medixi-framework/medixi-options/medixi-options.php:844
+#: inc/medixi-framework/medixi-options/medixi-options.php:853
+#: inc/medixi-framework/medixi-options/medixi-options.php:1240
+#: inc/medixi-framework/medixi-options/medixi-options.php:1286
+#: inc/medixi-framework/medixi-options/medixi-options.php:1332
+msgid "Hide"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1010
+msgid ""
+"Hide / Show breadcrumb from all pages and posts ( Default settings hide )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1329
+msgid "Hide / Show cross sell product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1237
+msgid "Hide / Show related product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1283
+msgid "Hide / Show upsell product in single page (Default Settings Show)"
+msgstr ""
+
+#: inc/medixi-breadcrumbs.php:27
+msgid "Home"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wordpress.vecurosoft.com/medixi/"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1456
+msgid "Icon (example: fa fa-facebook) "
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:216
+#: inc/medixi-framework/medixi-meta/medixi-config.php:383
+msgid "Icon Class"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:254
+msgid "Icon Type"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:256
+msgid ""
+"If you select \"Disabled\", it will show default design for \"back to top\" "
+"button."
+msgstr ""
+
+#: woocommerce/cart/cart.php:28 woocommerce/checkout/review-order.php:23
+msgid "Image"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:73
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:443
+msgid "In Stock"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:408
+msgid "Injection"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:324
+msgid "It belongs to the back-end of your website to log-in to admin panel."
+msgstr ""
+
+#: templates/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:409
+msgid "Laboratory Equipment"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:401
+msgid "Language?"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:141
+#: inc/woo-hooks/medixi-woo-hooks.php:192
+#: inc/woo-hooks/medixi-woo-hooks.php:264
+#: inc/woo-hooks/medixi-woo-hooks.php:333
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Last Name"
+msgstr ""
+
+#: templates/header-menu-bottom.php:178 templates/header-menu-bottom.php:187
+msgid "Latest News"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:47
+msgid "LayerSlider"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:605
+#: inc/medixi-framework/medixi-options/medixi-options.php:774
+msgid "Layout"
+msgstr ""
+
+#: comments.php:61
+msgid "Leave A Comment"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:30
+msgid "Log In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:69
+msgid "Log in"
+msgstr ""
+
+#: comments.php:65
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:69
+msgid "Login"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:481
+msgid "Logo"
+msgstr ""
+
+#: inc/medixi-functions.php:60
+msgid "logo"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:489
+msgid "Logo Dimensions (Width/Height)."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:500
+msgid "Logo Top and Bottom Margin."
+msgstr ""
+
+#: woocommerce/global/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:95
+msgid "Mailchimp"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1414
+msgid "Mailchimp API Key"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1420
+msgid "Mailchimp List ID"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:231
+msgid "Map Api Key"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:410
+msgid "Medical kit"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:411
+msgid "Medical Mask"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:414
+msgid "Medical Quality of life"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:412
+msgid "Medical Results"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:413
+msgid "Medical Symbol"
+msgstr ""
+
+#. Name of the theme
+msgid "Medixi"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:39
+msgid "Medixi Core"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:20
+msgid "Medixi Demo"
+msgstr ""
+
+#: inc/demo-data/demo-import.php:72
+msgid "Medixi Demo Import"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1471
+msgid "medixi Footer"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:85
+#: inc/medixi-framework/medixi-options/medixi-options.php:86
+msgid "Medixi Options"
+msgstr ""
+
+#. Description of the theme
+msgid "Medixi – Health &amp; Medical WordPress Theme"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:272
+#: inc/medixi-framework/medixi-options/medixi-options.php:1587
+msgid "Medixi."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:528
+msgid "Menu Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:535
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:860
+msgid "Meta Data"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:31
+#: woocommerce/order/order-details-customer.php:48
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70 woocommerce/checkout/review-order.php:61
+msgid "Name"
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:90
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+#: woocommerce/single-product-reviews.php:119
+msgid "Not that bad"
+msgstr ""
+
+#: templates/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:573
+msgid "Offcanvas"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:580
+msgid "Offcanvas Panel Background"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:80
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:587
+msgid "Offcanvas Title Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:383
+msgid "Office Address"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:391
+msgid "Office Hour"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:798
+#: inc/medixi-framework/medixi-options/medixi-options.php:1213
+msgid "On Header"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:63
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: 404.php:21
+msgid "Oops! That page can't be found"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:98
+msgid "Order Total"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:453
+msgid "Out Of Stock"
+msgstr ""
+
+#: inc/medixi-functions.php:126
+#: inc/medixi-framework/medixi-options/medixi-options.php:928
+msgid "Page"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:71
+msgid "Page Breadcrumb Area"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:84
+msgid "Page Breadcrumb Settings"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:133
+msgid "Page Layout"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:65
+msgid "Page Meta"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:90
+msgid "Page Settings"
+msgstr ""
+
+#: inc/medixi-widgets-reg.php:37
+#: inc/medixi-framework/medixi-options/medixi-options.php:962
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1065
+msgid "Page Subtitle"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:95
+#: inc/medixi-framework/medixi-options/medixi-options.php:1058
+msgid "Page Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:107
+msgid "Page Title Settings"
+msgstr ""
+
+#: inc/medixi-functions.php:122
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/global/form-login.php:37 woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:102
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:42
+msgid "Password Change"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1631
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+#: woocommerce/single-product-reviews.php:116
+msgid "Perfect"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:151
+#: inc/woo-hooks/medixi-woo-hooks.php:202
+#: inc/woo-hooks/medixi-woo-hooks.php:276
+#: inc/woo-hooks/medixi-woo-hooks.php:345
+msgid "Phone"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:350
+msgid "Phone Number"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1089
+msgid "Pick a subtitle color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1081
+msgid "Pick a title color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1097
+msgid "Pick Button Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1105
+msgid "Pick Button Hover Color"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:627
+msgid "Post Column"
+msgstr ""
+
+#: comments.php:68
+msgid "Post Comment"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:888
+msgid "Post Date"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:51
+msgid "Post Format Audio"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:45
+msgid "Post Format Video"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:841
+msgid "Post Navigation"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Post Review"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:40
+msgid "Post Thumb Controller"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:57
+msgid "Post Thumbnail For Slider"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:897
+msgid "Post Views"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:182
+#: inc/woo-hooks/medixi-woo-hooks.php:233
+#: inc/woo-hooks/medixi-woo-hooks.php:313
+#: inc/woo-hooks/medixi-woo-hooks.php:382
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1487
+msgid "Pre-built Footer"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1477
+msgid "Pre-built Footer / Footer Builder"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:352
+msgid "Prebuilt"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:297
+#: inc/medixi-framework/medixi-options/medixi-options.php:304
+msgid "Preloader"
+msgstr ""
+
+#: woocommerce/cart/cart.php:79 woocommerce/checkout/review-order.php:25
+#: woocommerce/checkout/review-order.php:70
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Price/Unit"
+msgstr ""
+
+#: inc/theme-setup.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:528
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/cart/cart.php:49 woocommerce/checkout/review-order.php:40
+msgid "Product"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1145
+msgid "Product Column"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1222
+#: inc/medixi-framework/medixi-options/medixi-options.php:1229
+msgid "Product Details Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1216
+msgid "Product Details Title Position"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/checkout/review-order.php:24
+msgid "Product Name"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1182
+msgid "Product Per Page"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1188
+msgid "Product Single Page sidebar"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:85
+#: woocommerce/checkout/review-order.php:26
+#: woocommerce/checkout/review-order.php:76
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:415
+msgid "Quotation"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:416
+msgid "Quote"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+#: woocommerce/single-product-reviews.php:115
+msgid "Rate&hellip;"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:715 inc/hooks/hooks-functions.php:718
+msgid "Read More"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:730
+msgid "Read More Button Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:737
+msgid "Read More Button Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:701
+msgid "Read More Text"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:690
+msgid "Read More Text Setting"
+msgstr ""
+
+#: templates/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:76
+msgid "Redux Framework"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:114
+#: woocommerce/myaccount/form-login.php:114
+msgid "Register"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:850
+msgid "Related Post"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1254
+msgid "Related Product Column"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1236
+msgid "Related product Hide/Show"
+msgstr ""
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1245
+msgid "Related products number"
+msgstr ""
+
+#: woocommerce/global/form-login.php:46 woocommerce/myaccount/form-login.php:62
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:112
+msgid "Remove"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:210
+#: inc/medixi-framework/medixi-meta/medixi-config.php:377
+msgid "Remove Social Profile"
+msgstr ""
+
+#: woocommerce/cart/cart.php:120 woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: inc/medixi-functions.php:223
+msgid "Reply"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1074
+msgid "Return To Home"
+msgstr ""
+
+#: woocommerce/ti-wishlist-empty.php:33
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:33
+msgid "Return to shop"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: inc/medixi-functions.php:718
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:619
+msgid "Search"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:618
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search Here"
+msgstr ""
+
+#: templates/header-menu-bottom.php:196
+msgid "Search Result"
+msgstr ""
+
+#: inc/medixi-breadcrumbs.php:128
+msgid "Search results for: "
+msgstr ""
+
+#: inc/medixi-functions.php:602
+msgid "Search...."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:411
+msgid "Search?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1738
+msgid "Section via hook"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:417
+msgid "Security"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:31
+msgid "Select a country / region&hellip"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:287
+msgid "Select an icon name form the dropdown menu"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:255
+msgid "Select an option form the dropdown menu"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:56
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1501
+msgid "Select Footer"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:356
+msgid "Select header options."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:366
+msgid "Select header."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:935
+msgid "Select layout"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:990
+msgid ""
+"Select page title tag. If you use this option then you can able to change "
+"title tag H1 - H6 ( Default tag H1 )"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:125
+msgid "Select Show to display breadcrumb area"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:628
+msgid ""
+"Select your blog post column from here. If you use this option then you will "
+"able to select three type of blog post layout ( Default Two Column )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:242
+msgid "Service :: Additional Informations"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:273
+msgid "Set Back to top button Background Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:289
+msgid "Set Back to top button border Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:281
+msgid "Set Back to top Icon Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:724
+msgid "Set Blog Excerpt / Content Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:883
+msgid "Set Blog Meta Hover Text Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:869
+msgid "Set Blog Meta Icon Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:876
+msgid "Set Blog Meta Text Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:672
+msgid ""
+"Set blog page custom title form here. If you use this option then you will "
+"able to set your won title text."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:752
+msgid "Set Blog Pagination Active Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:745
+msgid "Set Blog Pagination Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:760
+msgid "Set Blog Pagination Hover Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:710
+msgid "Set Blog Title Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:717
+msgid "Set Blog Title Hover Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:461
+msgid "Set Button Text"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1073
+msgid "Set Button Text "
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:467
+msgid "Set Button URL Here"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:177
+msgid "Set Category Image"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1517
+msgid "Set footer background."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1602
+msgid "Set footer copyright ancor color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1610
+msgid "Set footer copyright ancor Hover color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1594
+msgid "Set footer copyright text color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:429
+msgid "Set Header Social Icon Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1338
+msgid ""
+"Set how many cross sell products you want to show in single product page."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1246
+msgid "Set how many related products you want to show in single product page."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1292
+msgid "Set how many upsells products you want to show in single product page."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:491
+msgid "Set logo dimensions to choose width, height, and unit."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:503
+msgid "Set logo top and bottom margin."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1415
+msgid "Set mailchimp api key."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1421
+msgid "Set mailchimp list id."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:232
+msgid "Set Map Api Key"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:529
+msgid "Set Menu Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:536
+msgid "Set Menu Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:582
+msgid "Set Offcanvas Panel Background Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:588
+msgid "Set Offcanvas Title color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:141
+msgid ""
+"Set page layout container,container fluid,fullwidth or both. It's work only "
+"in template builder page."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:959
+msgid ""
+"Set page sidebar. If you use this option then you will able to set three "
+"type of sidebar ( Default no sidebar )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1066
+msgid "Set Page Subtitle "
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1059
+msgid "Set Page Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:702
+msgid ""
+"Set read moer text here. If you use this option then you will able to set "
+"your won text."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:731
+msgid "Set Read More Button Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:738
+msgid "Set Read More Button Hover Color."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1122
+msgid "Set Shop Page Sidebar."
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:222
+#: inc/medixi-framework/medixi-meta/medixi-config.php:389
+msgid "Set social profile link."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:564
+msgid "Set Submenu Border Top Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:543
+msgid "Set Submenu Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:550
+msgid "Set Submenu Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:557
+msgid "Set Submenu Icon Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:226
+msgid "Set Theme Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:997
+msgid "Set Title Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1347
+msgid "Set your woocommerce cross sell product column."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1146
+msgid "Set your woocommerce product column."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1255
+msgid "Set your woocommerce related product column."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1301
+msgid "Set your woocommerce upsell product column."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1004
+msgid ""
+"Setting page header background. If you use this option then you will able to "
+"set Background Color, Background Image, Background Repeat, Background Size, "
+"Background Attachment, Background Position."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:823
+msgid "Share Options"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:51 woocommerce/cart/cart-totals.php:52
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/order/order-details-customer.php:46
+msgid "Shipping address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:78
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:75
+#, php-format
+msgid "Shipping to %s."
+msgstr ""
+
+#: templates/header-menu-bottom.php:231
+#: inc/medixi-framework/medixi-options/medixi-options.php:1223
+#: inc/medixi-framework/medixi-options/medixi-options.php:1230
+msgid "Shop Details"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: inc/medixi-functions.php:637
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:248
+#: inc/medixi-framework/medixi-meta/medixi-config.php:344
+msgid "Short Descriptions"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:77
+#: inc/medixi-framework/medixi-meta/medixi-config.php:101
+#: inc/medixi-framework/medixi-options/medixi-options.php:373
+#: inc/medixi-framework/medixi-options/medixi-options.php:399
+#: inc/medixi-framework/medixi-options/medixi-options.php:409
+#: inc/medixi-framework/medixi-options/medixi-options.php:419
+#: inc/medixi-framework/medixi-options/medixi-options.php:442
+#: inc/medixi-framework/medixi-options/medixi-options.php:451
+#: inc/medixi-framework/medixi-options/medixi-options.php:651
+#: inc/medixi-framework/medixi-options/medixi-options.php:825
+#: inc/medixi-framework/medixi-options/medixi-options.php:834
+#: inc/medixi-framework/medixi-options/medixi-options.php:843
+#: inc/medixi-framework/medixi-options/medixi-options.php:852
+#: inc/medixi-framework/medixi-options/medixi-options.php:1239
+#: inc/medixi-framework/medixi-options/medixi-options.php:1285
+#: inc/medixi-framework/medixi-options/medixi-options.php:1331
+msgid "Show"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:402
+msgid "Show Or Hide Language Switcher?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:412
+msgid "Show Or Hide Search Switcher?"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:958
+msgid "Sidebar Settings"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+#, php-format
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:766
+msgid "Single Blog Page"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:474
+msgid "SKU:"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1431
+#: inc/medixi-framework/medixi-options/medixi-options.php:1434
+msgid "Social"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1457
+msgid "Social Icon Class"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1458
+msgid "Social Icon Title"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:369
+msgid "Social Network:"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:197
+#: inc/medixi-framework/medixi-meta/medixi-config.php:206
+#: inc/medixi-framework/medixi-meta/medixi-config.php:364
+#: inc/medixi-framework/medixi-meta/medixi-config.php:373
+msgid "Social Profile"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:224
+#: inc/medixi-framework/medixi-meta/medixi-config.php:391
+msgid "Social Profile link"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1439
+msgid "Social Profile Links"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:208
+#: inc/medixi-framework/medixi-meta/medixi-config.php:375
+msgid "Social Profile {#}"
+msgstr ""
+
+#: templates/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:139
+msgid "Sort By"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:50
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:67
+msgid "State / County"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:418
+msgid "Stethoscope"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:419
+msgid "Stethoscope 2"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:563
+msgid "Submenu Border Top Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:542
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:549
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:556
+msgid "Submenu Icon Color"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Submit"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1406
+msgid "Subscribe"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1088
+msgid "Subtitle Color"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29 woocommerce/cart/cart-totals.php:30
+#: woocommerce/cart/mini-cart.php:75 woocommerce/checkout/review-order.php:98
+#: woocommerce/checkout/review-order.php:99
+msgid "Subtotal"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:972
+msgid ""
+"Switch enabled to display page title. Fot this option you will able to show "
+"/ hide page title.  Default setting Enabled"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:305
+msgid "Switch Enabled to Display Preloader."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:247
+msgid "Switch On to Display back to top button."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:916
+msgid "Switch On to Display Category."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:907
+msgid "Switch On to Display Comment Count."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:889
+msgid "Switch On to Display Post Date."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:898
+msgid "Switch On to Display Post Views."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:815
+msgid "Switch On to Display Tags."
+msgstr ""
+
+#: templates/content-single.php:77
+msgid "Tag:"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:814
+msgid "Tags"
+msgstr ""
+
+#: templates/content-single.php:75
+msgid "Tags:"
+msgstr ""
+
+#. Name of the template
+msgid "Template Builder"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:512
+msgid "Text Logo"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1067
+msgid "The page you've requested is not available."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:225
+msgid "Theme Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:197
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:202
+msgid "Theme Information 2"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:87
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:808
+msgid "This title will show in Breadcrumb title."
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:114
+msgid "TI WooCommerce Wishlist"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:971
+msgid "Title"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:996
+#: inc/medixi-framework/medixi-options/medixi-options.php:1080
+msgid "Title Color"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:989
+msgid "Title Tag"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:99 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:107 woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:82
+#: woocommerce/checkout/review-order.php:144
+#: woocommerce/checkout/review-order.php:145
+msgid "Total"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks.php:177
+#: inc/woo-hooks/medixi-woo-hooks.php:228
+#: inc/woo-hooks/medixi-woo-hooks.php:307
+#: inc/woo-hooks/medixi-woo-hooks.php:376
+msgid "Town / City"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"Unfortunately, something went wrong and this page does not exist. Try using "
+"the search or return to the previous page."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+msgid "Update"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:267
+msgid "Upload a custom Icon or enter image URL."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:483
+msgid "Upload your site logo for header ( recommendation png format )."
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1282
+msgid "Upsell product Hide/Show"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1300
+msgid "Upsells Product Column"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1291
+msgid "Upsells products number"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:52
+msgid "Use This Field When Post Format Audio"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:46
+msgid "Use This Field When Post Format Video"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:58
+msgid "Use This Field When You Want A Slider In Post Thumbnail"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:92
+msgid "User Name"
+msgstr ""
+
+#: inc/medixi-framework/medixi-meta/medixi-config.php:191
+msgid "User Profile Metabox"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:272
+#: inc/medixi-framework/medixi-options/medixi-options.php:1587
+msgid "Vecuro"
+msgstr ""
+
+#. Author of the theme
+msgid "Vecurosoft"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:513
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+#: woocommerce/single-product-reviews.php:120
+msgid "Very poor"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:543
+msgid "View cart"
+msgstr ""
+
+#: inc/medixi-functions.php:623
+msgid "What are you looking for"
+msgstr ""
+
+#: inc/medixi-functions.php:527
+msgid "What are you looking for?"
+msgstr ""
+
+#: woocommerce/ti-wishlist-empty.php:25
+msgid "Wishlist is currently empty."
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:107
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:1115
+msgid "Woocommerce Page"
+msgstr ""
+
+#: inc/medixi-framework/plugins-activation/medixi-active-plugins.php:120
+msgid "WPC Smart Quick View for WooCommerce"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:266
+msgid "Write Icon Class Here"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:384
+msgid "Write Office Address Here"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:392
+msgid "Write Office Hour Here"
+msgstr ""
+
+#: comments.php:59
+msgid "Write Your Comment *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:124
+msgid "Write your comments"
+msgstr ""
+
+#: inc/medixi-framework/medixi-options/medixi-options.php:513
+msgid ""
+"Write your logo text use as logo ( You can use span tag for text color )."
+msgstr ""
+
+#: inc/hooks/hooks-functions.php:400
+msgid "Written by"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:80
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:28
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:26
+msgid "You may be interested in"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:100
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:630
+#: woocommerce/cart/cart-empty.php:30 woocommerce/cart/mini-cart.php:103
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: inc/medixi-functions.php:231
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Your E-mail"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:37
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:64
+msgid "Your email address will not be published. Required fields are marked *"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Your Name"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+#: woocommerce/single-product-reviews.php:114
+msgid "Your Rating"
+msgstr ""
+
+#: inc/woo-hooks/medixi-woo-hooks-functions.php:503
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/ti-wishlist-empty.php:23
+msgid "Your Wishlist is currently empty."
+msgstr ""

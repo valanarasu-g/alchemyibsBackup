@@ -1,0 +1,140 @@
+
+---Downloaded files---
+The import files for: Medixi Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://stage.peerfect.space/theme3
+Data file = /home/stage/public_html/theme3/wp-content/themes/medixi/inc/demo-data/medixi-demo.xml
+Widget file = /home/stage/public_html/theme3/wp-content/themes/medixi/inc/demo-data/medixi-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+medixi_opt -> /home/stage/public_html/theme3/wp-content/themes/medixi/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Imported
+Categories - Categories - Imported
+Medilax :: Recent Posts - Popular Posts - Imported
+Tag Cloud - Popular Tags - Imported
+
+Page Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer One : 
+
+Medilax :: About Us - About Us - Imported
+
+Footer Two : 
+
+Navigation Menu - Services - Imported
+
+Footer Three : 
+
+Block - No Title - Imported
+
+Footer Four : 
+
+Medilax :: Gallery - Gallery Posts - Imported
+
+Offcanvas Sidebar : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+Medixi :: Social Icon - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: medixi_opt finished successfully!
+
+---ocdi/after_import---
+
