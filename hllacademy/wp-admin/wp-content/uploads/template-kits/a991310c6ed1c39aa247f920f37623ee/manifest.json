@@ -1,0 +1,984 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "MedEase",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kitpro.site",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pharmacist",
+            "screenshot": "screenshots\/pharmacist.jpg",
+            "source": "templates\/pharmacist.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/pharmacist\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Membership",
+            "screenshot": "screenshots\/membership.jpg",
+            "source": "templates\/membership.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/membership\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Detail",
+            "screenshot": "screenshots\/blog-detail.jpg",
+            "source": "templates\/blog-detail.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/blog-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Complete Form",
+            "screenshot": "screenshots\/complete-form.jpg",
+            "source": "templates\/complete-form.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/complete-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletters Form",
+            "screenshot": "screenshots\/newsletters-form.jpg",
+            "source": "templates\/newsletters-form.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/newsletters-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Form",
+            "screenshot": "screenshots\/footer-form.jpg",
+            "source": "templates\/footer-form.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/footer-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/kitpro.site\/medease\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.21.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.36",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.5.0",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "young-female-pharmacist-posing-while-working-in-a-2023-11-27-05-32-01-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/young-female-pharmacist-posing-while-working-in-a-2023-11-27-05-32-01-utc-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 232135,
+            "dimensions": [
+                2300,
+                1530
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "pharmacists-working-in-the-pharmacy-store-2023-11-27-05-31-29-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/pharmacists-working-in-the-pharmacy-store-2023-11-27-05-31-29-utc-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 229387,
+            "dimensions": [
+                2200,
+                1468
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "happy-man-pharmacist-and-paper-bag-for-customer-i-2023-11-27-05-06-18-utc.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/happy-man-pharmacist-and-paper-bag-for-customer-i-2023-11-27-05-06-18-utc-800x518.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 181754,
+            "dimensions": [
+                2200,
+                1424
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Logo-1-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Logo-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog-detail.json",
+                    "name": "Blog Detail"
+                }
+            ],
+            "filesize": 15181,
+            "dimensions": [
+                642,
+                183
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-2-2.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Logo-2-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog-detail.json",
+                    "name": "Blog Detail"
+                }
+            ],
+            "filesize": 20515,
+            "dimensions": [
+                642,
+                183
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-3-3.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Logo-3-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog-detail.json",
+                    "name": "Blog Detail"
+                }
+            ],
+            "filesize": 10777,
+            "dimensions": [
+                642,
+                183
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "Logo-4-4.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Logo-4-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/blog-detail.json",
+                    "name": "Blog Detail"
+                }
+            ],
+            "filesize": 15622,
+            "dimensions": [
+                642,
+                183
+            ],
+            "image_source": "cc0",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "grid-2-01.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/grid-2-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 13633,
+            "dimensions": [
+                300,
+                89
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "CEO.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/CEO.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 109986,
+            "dimensions": [
+                700,
+                700
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "pharmacists-working-in-the-pharmacy-store-2023-11-27-05-31-29-utc-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/pharmacists-working-in-the-pharmacy-store-2023-11-27-05-31-29-utc-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 170930,
+            "dimensions": [
+                768,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "045-consultation.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/045-consultation.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 31333,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "033-first-aid-kit.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/033-first-aid-kit.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 8640,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "020-pharmacy.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/020-pharmacy.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22076,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "026-medicine.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/026-medicine.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 11764,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "016-gloves.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/016-gloves.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 16204,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "029-formula.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/029-formula.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 22791,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "031-pharmacy.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/031-pharmacy.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 12123,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Testi-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Testi-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 110996,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Testi-2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Testi-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 150976,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 135258,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "grid-01.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/grid-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 14393,
+            "dimensions": [
+                300,
+                84
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-2.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 145198,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-3.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 142341,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-4.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 163788,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-5.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 155317,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-6.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 128101,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Team-7.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Team-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/pharmacist.json",
+                    "name": "Pharmacist"
+                }
+            ],
+            "filesize": 124520,
+            "dimensions": [
+                744,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Image-1.jpg",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Image-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/membership.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 134268,
+            "dimensions": [
+                762,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "017-placeholder.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/017-placeholder.png",
+            "templates": [
+                {
+                    "source": "templates\/membership.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 30848,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "005-online-pharmacy.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/005-online-pharmacy.png",
+            "templates": [
+                {
+                    "source": "templates\/membership.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 12451,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "033-first-aid-kit-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/033-first-aid-kit-1.png",
+            "templates": [
+                {
+                    "source": "templates\/membership.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 8640,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "016-gloves-1.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/016-gloves-1.png",
+            "templates": [
+                {
+                    "source": "templates\/membership.json",
+                    "name": "Membership"
+                }
+            ],
+            "filesize": 16204,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/XDVHJBRW4K"
+        },
+        {
+            "filename": "Logo-MedEase-01.png",
+            "thumbnail_url": "https:\/\/kitpro.site\/medease\/wp-content\/uploads\/sites\/271\/2024\/09\/Logo-MedEase-01-800x243.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 113009,
+            "dimensions": [
+                2500,
+                760
+            ],
+            "image_source": "commercial_license",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/gradient-pharmacy-logo-template_28700011.htm#fromView=search&page=1&position=2&uuid=5f1177c9-0b75-4f5e-aa66-3f96fa278c74"
+        }
+    ]
+}

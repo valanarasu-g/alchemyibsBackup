@@ -1,0 +1,314 @@
+section.blockchain .grid-block{
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+section.blockchain .content h2{
+    font-size: 2.1vw;
+    font-weight: bold;
+    font-family: 'montserrat_semibold';
+    margin-bottom: 2.9vw;
+}
+section.blockchain .content p{
+    color: #6C6C6C;
+    font-size: .85vw;
+    line-height: 1.8;
+    margin-bottom: .9vw;
+    font-family: 'montserrat_light';
+}
+section.blockchain .content{
+    position: relative;
+}
+section.blockchain .content ul{
+    margin: 4.1vw 0 3.7vw 0;
+    list-style: none;
+    padding: 0;
+    height: 15.5vw;
+    overflow: hidden;
+    overflow-y: auto;
+    
+}
+section.blockchain .content .overlay{
+    position: relative;
+}
+section.blockchain .content .overlay::after {
+    content: '';
+    position: absolute;
+    top: -8.5vw;
+    background: linear-gradient(180deg, rgba(249, 249, 249, 0) 0%, rgba(249, 249, 249, 0.81) 40.1%, #F9F9F9 90.16%);
+    height: 6vw;
+    width: 37vw;
+  }
+section.blockchain .content ul::-webkit-scrollbar{
+    width: .36vw;
+}
+section.blockchain .content ul::-webkit-scrollbar-thumb {
+    background: #E0E0E0;
+    border-radius: 20px;
+  }
+section.blockchain .content ul::-webkit-scrollbar-track {
+    background: #F0F0F0;
+    border-radius: 20px;
+}
+section.blockchain .content ul a{
+    pointer-events: none;
+    color: #0A0909;
+    display: block;
+    font-family: 'montserrat_semibold';
+    font-size: .94vw;
+    margin-bottom: 1.6vw;
+    padding: unset;
+    border: unset;   
+}
+section.blockchain .content ul a:last-child{
+    margin-bottom: 5vw;
+}
+
+section.blockchain .content ul a img{
+    width: 1.1vw;
+    margin-right: .7vw;
+    margin-left: .2vw;
+}
+section.blockchain .content a{
+    letter-spacing: -0.004em;
+    color: #EF0D33;
+    font-family: 'montserrat_semibold';
+    font-size: .82vw;
+    padding: .9vw 1.7vw;
+    border: 2px solid #E56E75;
+}
+section.blockchain .slider-block{
+    position: relative; 
+}
+section.blockchain .slider{
+   
+    margin: 4.7vw 1vw 4.5vw 8.5vw;
+    overflow: hidden;
+    width: 29.3vw;
+}
+section.blockchain .slider-block .service-left-arrow{
+    left: 5.5vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow{
+    position: absolute;
+    top: 21vw;
+    left: 35vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow2{
+    left: 5.5vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow2{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow3{
+    left: 5.5vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow3{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow4{
+    left: 5.5vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow4{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow5{
+    left: 5.4vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow5{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow6{
+    left: 5.5vw;
+    position: absolute;
+    top: 21vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow6{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+.content-para{
+    color: #6C6C6C;
+    font-size: .85vw;
+    line-height: 1.8;
+    margin-bottom: .9vw;
+    font-family: 'montserrat_light';
+}
+section.blockchain .slider-block .service-left-arrow7{
+    position: absolute;
+    top: 21vw;
+    left: 5.5vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow7{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow8{
+    position: absolute;
+    top: 21vw;
+    left: 5.5vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow8{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-left-arrow9{
+    position: absolute;
+    top: 21vw;
+    left: 5.5vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider-block .service-right-arrow9{
+    position: absolute;
+    top: 21vw;
+    right: -2vw;
+    cursor: pointer;
+    width: 5.5vw;
+    z-index: 1;
+}
+section.blockchain .slider .card{
+    width: 28.9vw!important;
+    padding: .5vw .5vw 2vw;
+    background: #fff;
+    box-shadow: 0 9px 30px rgba(0,0,0,.05);
+    border-radius: 9px;
+    margin-bottom: 3vw;
+    margin-left: .3vw;
+}
+section.blockchain .slider .card img{
+    width: 29vw;
+    height: 13.4vw;
+    object-fit: cover;
+    border-radius: 7px;
+}
+section.blockchain .slider .card h4{
+    margin-bottom: .6vw;
+    padding: 0 1vw;
+    margin-top: 1.4vw;
+    text-align: center;
+    font-size: 1.256vw;
+    font-family: 'montserrat_semibold';
+    letter-spacing: -0.004em;
+    color: #0A0909;
+}
+section.blockchain .slider .card p{
+    color: #6C6C6C;
+    font-size: .85vw;
+    line-height: 1.7;
+    margin-bottom: 1.3vw;
+    font-family: 'montserrat_light';
+    text-align: justify;
+    padding: 0 1.7vw;
+}
+section.blockchain .slider .card ul{
+    margin: 0 0 1.7vw 0;
+    padding: 0 1vw;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+section.blockchain .slider .card ul li{
+    padding: 1.2vw 1.4vw;
+    background: #FFFFFF;
+    box-shadow: 0px 9px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 9px;
+}
+section.blockchain .slider .card ul li p{
+    padding: unset;
+    margin-bottom: .6vw;
+    font-size: .53vw;
+    letter-spacing: 0.05em;
+    font-family: 'montserrat_regular';
+    text-transform: uppercase;
+    color: #DB333C;
+}
+section.blockchain .slider .card ul li span{
+    font-family: 'montserrat_semibold';
+    font-size: 1.76vw;
+    text-align: center;
+    display: block;
+}
+section.blockchain .slider .card a{
+    cursor: pointer;
+    color: #EF0D33;
+    font-family: 'montserrat_semibold';
+    font-size: .72vw;
+    padding: 1.4vw 3.8vw;
+    letter-spacing: -0.004em;
+    text-transform: uppercase;
+    border: 2px solid #E56E75;
+    display: inline-block;
+    margin-left: 8vw;
+    font-weight: 700;
+    line-height: 0;
+}

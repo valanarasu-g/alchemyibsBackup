@@ -1,0 +1,22 @@
+[14-Nov-2024 14:37:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Widget_Base' not found in /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/widgets/hello-world-widget.php:4
+Stack trace:
+#0 /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/custom-elementor-widgets.php(16): require_once()
+#1 /home/hllacademy/public_html/wp-includes/class-wp-hook.php(324): custom_elementor_widget_load('')
+#2 /home/hllacademy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /home/hllacademy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/hllacademy/public_html/wp-settings.php(559): do_action('plugins_loaded')
+#5 /home/hllacademy/public_html/wp-config.php(102): require_once('/home/hllacadem...')
+#6 /home/hllacademy/public_html/wp-load.php(50): require_once('/home/hllacadem...')
+#7 /home/hllacademy/public_html/wp-admin/admin.php(34): require_once('/home/hllacadem...')
+#8 /home/hllacademy/public_html/wp-admin/plugins.php(10): require_once('/home/hllacad in /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/widgets/hello-world-widget.php on line 4
+[14-Nov-2024 14:38:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Elementor\Widget_Base' not found in /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/widgets/hello-world-widget.php:4
+Stack trace:
+#0 /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/custom-elementor-widgets.php(16): require_once()
+#1 /home/hllacademy/public_html/wp-includes/class-wp-hook.php(324): custom_elementor_widget_load('')
+#2 /home/hllacademy/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 /home/hllacademy/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#4 /home/hllacademy/public_html/wp-settings.php(559): do_action('plugins_loaded')
+#5 /home/hllacademy/public_html/wp-config.php(102): require_once('/home/hllacadem...')
+#6 /home/hllacademy/public_html/wp-load.php(50): require_once('/home/hllacadem...')
+#7 /home/hllacademy/public_html/wp-admin/admin.php(34): require_once('/home/hllacadem...')
+#8 /home/hllacademy/public_html/wp-admin/plugins.php(10): require_once('/home/hllacad in /home/hllacademy/public_html/wp-content/plugins/custom-elementor-widgets/widgets/hello-world-widget.php on line 4

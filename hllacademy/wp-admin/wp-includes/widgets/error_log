@@ -1,0 +1,28 @@
+[11-Nov-2024 07:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Nov-2024 21:17:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2024 09:54:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2024 16:51:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Nov-2024 06:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Dec-2024 02:41:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Dec-2024 21:00:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17

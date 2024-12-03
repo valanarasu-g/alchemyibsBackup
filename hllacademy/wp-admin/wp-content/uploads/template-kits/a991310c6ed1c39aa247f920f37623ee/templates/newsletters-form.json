@@ -1,0 +1,101 @@
+{
+    "version": "0.4",
+    "title": "Newsletters Form",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "703a2bf0",
+            "settings": {
+                "flex_direction": "column",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=92ffefd"
+                }
+            },
+            "elements": [
+                {
+                    "id": "6fc455bd",
+                    "settings": {
+                        "mf_input_label": "Email",
+                        "mf_input_name": "mf-email",
+                        "mf_input_placeholder": "Your Email",
+                        "mf_input_validation_warning_message": "This field is required.",
+                        "mf_input_background_background": "classic",
+                        "mf_input_border_border": "solid",
+                        "mf_input_border_width": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "1",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "mf_input_label_typography_typography": "globals\/typography?id=8712b60",
+                            "mf_input_label_color": "globals\/colors?id=primary",
+                            "mf_input_background_color": "globals\/colors?id=98ec332",
+                            "mf_input_color": "globals\/colors?id=primary",
+                            "mf_input_color_hover": "globals\/colors?id=primary",
+                            "mf_input_color_focus": "globals\/colors?id=primary",
+                            "mf_input_border_color": "globals\/colors?id=accent",
+                            "mf_input_placeholder_color": "globals\/colors?id=7c10ab5"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-email",
+                    "elType": "widget"
+                },
+                {
+                    "id": "65cc811e",
+                    "settings": {
+                        "mf_btn_text": "Submit Button",
+                        "mf_btn_align": "justify",
+                        "mf_btn_align_tablet": "justify",
+                        "mf_btn_align_mobile": "justify",
+                        "mf_hidden_input": [],
+                        "mf_btn_bg_color_background": "classic",
+                        "mf_btn_box_shadow_group_box_shadow_type": "yes",
+                        "mf_btn_box_shadow_group_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 0,
+                            "spread": 0,
+                            "color": "rgba(0,0,0,0.5)"
+                        },
+                        "__globals__": {
+                            "mf_btn_bg_color_color": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "widgetType": "mf-button",
+                    "elType": "widget"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}

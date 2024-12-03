@@ -1,0 +1,8 @@
+[23-Nov-2024 20:27:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/hllacademy/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-content/plugins/hello.php on line 69
+[24-Nov-2024 21:12:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/hllacademy/public_html/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/hllacademy/public_html/wp-content/plugins/hello.php on line 69
