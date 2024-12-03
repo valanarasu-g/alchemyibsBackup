@@ -1,0 +1,212 @@
+[23-Jun-2024 00:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Jun-2024 00:44:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Jun-2024 00:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Jun-2024 00:44:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Jun-2024 00:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:44:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Jun-2024 00:44:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Jun-2024 00:44:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Salsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Jun-2024 00:44:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Salsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Jun-2024 00:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Jun-2024 00:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Jun-2024 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Jun-2024 00:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Jun-2024 00:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Jun-2024 00:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Jun-2024 00:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Jun-2024 00:44:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Jun-2024 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Jun-2024 00:44:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Jun-2024 00:44:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Jun-2024 00:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Jun-2024 00:44:38 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HSalsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[23-Jun-2024 00:44:39 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HSalsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[23-Jun-2024 00:49:10 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Jun-2024 00:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/BLAKE2b.php on line 12
+[23-Jun-2024 00:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Jun-2024 00:49:12 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[23-Jun-2024 00:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519_H' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[23-Jun-2024 00:49:21 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Jun-2024 00:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[23-Jun-2024 00:49:22 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Salsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Jun-2024 00:49:23 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Salsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[23-Jun-2024 00:49:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Jun-2024 00:49:26 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[23-Jun-2024 00:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Jun-2024 00:49:29 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[23-Jun-2024 00:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Jun-2024 00:49:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[23-Jun-2024 00:49:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Jun-2024 00:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[23-Jun-2024 00:49:34 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Jun-2024 00:49:35 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Curve25519' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[23-Jun-2024 00:49:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Jun-2024 00:49:36 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HChaCha20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[23-Jun-2024 00:49:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HSalsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10
+[23-Jun-2024 00:49:37 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_HSalsa20' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10

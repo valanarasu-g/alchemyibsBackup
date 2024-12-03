@@ -1,0 +1,352 @@
+{
+    "version": "0.4",
+    "title": "Testimonials Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-testimonial",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1fc87d8a",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-salon-therapy-treatment-PZURJ69_2.jpg",
+                    "id": 429
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_attachment": "fixed"
+            },
+            "elements": [
+                {
+                    "id": "7ef2f66",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "align": "center",
+                        "margin": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "14",
+                            "bottom": "0",
+                            "left": "14",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7cc53de4",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-spa-logo-template-H9V6JEB.png",
+                                    "id": 435
+                                },
+                                "image_size": "full",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "rotateIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "134713ec",
+                            "settings": {
+                                "title": "What Our Client Says",
+                                "align": "center",
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 500
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "73a9d5da",
+                            "settings": {
+                                "ekit_testimonial_style": "style4",
+                                "ekit_testimonial_wartermark_enable": "",
+                                "ekit_testimonial_wartermarks": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "ekit_testimonial_wartermark_custom_position": "",
+                                "ekit_testimonial_data": [
+                                    {
+                                        "client_name": "Sarah Allison",
+                                        "designation": "Art Director",
+                                        "review": "Duis vestibulum porta dictum. In ut diam nec magna aliquet eleifend in quis \neros pellentesque rutrum tellus erat, ac iaculis neque placerat ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/smiling-lady-in-eyeglasses-and-dress-standing-with-SBAK95C.jpg",
+                                            "id": 441
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "ekit_testimonial_background_group_background": "classic",
+                                        "ekit_testimonial_background_group_color": "#02010100",
+                                        "_id": "8d407c3"
+                                    },
+                                    {
+                                        "client_name": "Adeline Eliana",
+                                        "designation": "Therapist",
+                                        "review": "Duis vestibulum porta dictum. In ut diam nec magna aliquet eleifend in quis \neros pellentesque rutrum tellus erat, ac iaculis neque placerat ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/woman-doctor-sitting-at-the-table-P5HE2KB.jpg",
+                                            "id": 440
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "ekit_testimonial_background_group_background": "classic",
+                                        "ekit_testimonial_background_group_color": "#02010100",
+                                        "_id": "abf784c"
+                                    },
+                                    {
+                                        "client_name": "Clara Melanie",
+                                        "designation": "Beautician",
+                                        "review": "Duis vestibulum porta dictum. In ut diam nec magna aliquet eleifend in quis \neros pellentesque rutrum tellus erat, ac iaculis neque placerat ",
+                                        "client_photo": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/portrait-of-a-beautiful-woman-PTC6RNT.jpg",
+                                            "id": 439
+                                        },
+                                        "client_logo": {
+                                            "url": "",
+                                            "id": ""
+                                        },
+                                        "ekit_testimonial_background_group_background": "classic",
+                                        "ekit_testimonial_background_group_color": "#02010100",
+                                        "_id": "ba32986"
+                                    }
+                                ],
+                                "ekit_testimonial_layout_shadow_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "rgba(0,0,0,0.5)"
+                                },
+                                "ekit_testimonial_section_wraper_horizontal_alignment": "center",
+                                "ekit_testimonial_description_typography_typography": "custom",
+                                "ekit_testimonial_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_description_typography_font_weight": "normal",
+                                "ekit_testimonial_description_typography_font_style": "italic",
+                                "ekit_testimonial_description_typography_line_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_title_separator_width": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_name_typography_typography": "custom",
+                                "ekit_testimonial_client_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_name_typography_font_weight": "normal",
+                                "ekit_testimonial_client_name_spacing_bottom": {
+                                    "unit": "px",
+                                    "size": 6,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_designation_typography_typography": "custom",
+                                "ekit_testimonial_designation_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_image_size": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_testimonial_description_typography_typography": "",
+                                    "ekit_testimonial_description_color": "globals\/colors?id=text",
+                                    "ekit_testimonial_section_wathermark_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_designation_normal_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_client_dot_active_background_color": "globals\/colors?id=primary",
+                                    "ekit_testimonial_client_dot_background_color": "globals\/colors?id=text"
+                                },
+                                "ekit_testimonial_layout_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "45",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_layout_shadow_box_shadow_type": "yes",
+                                "ekit_testimonial_section_wathermark_typography": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_image_margin_bottom": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_author_container_top": {
+                                    "unit": "px",
+                                    "size": -112,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_speed": 3000,
+                                "ekit_testimonial_show_dot": "yes",
+                                "ekit_testimonial_left_arrows": {
+                                    "value": "icon icon-arrow-left",
+                                    "library": "ekiticons"
+                                },
+                                "ekit_testimonial_description_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_author_container_top_tablet": {
+                                    "unit": "px",
+                                    "size": -78,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_bottom_mobile": {
+                                    "unit": "px",
+                                    "size": -35,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_width": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_height": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_border_radius": {
+                                    "unit": "%",
+                                    "top": "50",
+                                    "right": "50",
+                                    "bottom": "50",
+                                    "left": "50",
+                                    "isLinked": true
+                                },
+                                "ekit_testimonial_client_dot_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_client_dot_background_background": "classic",
+                                "ekit_testimonial_client_dot_active_background_background": "classic",
+                                "ekit_testimonial_client_dot_active_scale": {
+                                    "unit": "px",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_nav_font_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "ekit_testimonial_nav_border_normal_border": "solid",
+                                "ekit_testimonial_nav_border_normal_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_animation": "fadeInUp",
+                                "_animation_delay": 700,
+                                "ekit_testimonial_description_color": "#000000",
+                                "ekit_testimonial_section_wathermark_color": "#D9AB52",
+                                "ekit_testimonial_designation_normal_color": "#D9AB52",
+                                "ekit_testimonial_client_dot_active_background_color": "#D9AB52",
+                                "ekit_testimonial_rating_enable": "",
+                                "ekit_testimonial_section_wraper_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "30",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_testimonial_section_wraper_use_height": "",
+                                "ekit_testimonial_section_height": {
+                                    "unit": "px",
+                                    "size": 111,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-testimonial",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

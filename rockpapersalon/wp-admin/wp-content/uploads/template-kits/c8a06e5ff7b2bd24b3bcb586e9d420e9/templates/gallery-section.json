@@ -1,0 +1,459 @@
+{
+    "version": "0.4",
+    "title": "Gallery Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4232c472",
+            "settings": {
+                "overflow": "hidden",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "726a57c1",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight"
+                    },
+                    "elements": [
+                        {
+                            "id": "4ccf3244",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "13484c7d",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2e5dbbfd",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "_position": "absolute",
+                                                "_offset_x": {
+                                                    "size": 0,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y": {
+                                                    "size": 3,
+                                                    "unit": "px"
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "2b57525b",
+                                            "settings": {
+                                                "title": "Feel the difference",
+                                                "header_size": "h6",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "60",
+                                                    "isLinked": false
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "4f3df0a5",
+                            "settings": {
+                                "title": "Know About Our Ewa Beauty Spa",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "35c34f15",
+            "settings": {
+                "layout": "full_width",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "animation_delay": 500
+            },
+            "elements": [
+                {
+                    "id": "2d25db35",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "6f2227f1",
+                            "settings": {
+                                "ekit_img_accordion_items": [
+                                    {
+                                        "ekit_img_accordion_title": "Healthy Life",
+                                        "_id": "61e3de4",
+                                        "ekit_img_accordion_active": "",
+                                        "ekit_img_accordion_bg": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-UE76HB4_gallery_3.jpg",
+                                            "id": 780
+                                        },
+                                        "ekit_img_accordion_enable_button": "",
+                                        "ekit_img_accordion_button_label": "Read More",
+                                        "ekit_img_accordion_enable_pupup": "yes",
+                                        "ekit_img_accordion_enable_project_link": "yes",
+                                        "ekit_img_accordion_enable_icon": "",
+                                        "ekit_img_accordion_title_icons": {
+                                            "value": ""
+                                        },
+                                        "ekit_img_accordion_title_icon_position": "left",
+                                        "ekit_img_accordion_pup_up_icons": {
+                                            "value": "icon icon-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_img_accordion_project_link": {
+                                            "url": "",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "ekit_img_accordion_project_link_icons": {
+                                            "value": "icon icon icon-link",
+                                            "library": "ekiticons"
+                                        }
+                                    },
+                                    {
+                                        "ekit_img_accordion_icon": "icon icon-minus",
+                                        "_id": "a33aecb",
+                                        "ekit_img_accordion_bg": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/taking-pleasure-PY74FWE_gallery_5.jpg",
+                                            "id": 778
+                                        },
+                                        "ekit_img_accordion_title": "Sunny Days",
+                                        "ekit_img_accordion_enable_button": "",
+                                        "ekit_img_accordion_button_label": "Read More",
+                                        "ekit_img_accordion_enable_pupup": "yes",
+                                        "ekit_img_accordion_enable_project_link": "yes",
+                                        "ekit_img_accordion_active": "no",
+                                        "ekit_img_accordion_enable_icon": "",
+                                        "ekit_img_accordion_title_icons": {
+                                            "value": ""
+                                        },
+                                        "ekit_img_accordion_title_icon_position": "left",
+                                        "ekit_img_accordion_pup_up_icons": {
+                                            "value": "icon icon-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_img_accordion_project_link": {
+                                            "url": "",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "ekit_img_accordion_project_link_icons": {
+                                            "value": "icon icon icon-link",
+                                            "library": "ekiticons"
+                                        }
+                                    },
+                                    {
+                                        "ekit_img_accordion_link": "#",
+                                        "_id": "17185f9",
+                                        "ekit_img_accordion_active": "yes",
+                                        "ekit_img_accordion_bg": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-procedure-PUBSGAZ_gallery_1.jpg",
+                                            "id": 782
+                                        },
+                                        "ekit_img_accordion_title": "The Power of Mindfullness",
+                                        "ekit_img_accordion_title_icons": {
+                                            "value": "far fa-calendar-plus",
+                                            "library": "fa-regular"
+                                        },
+                                        "ekit_img_accordion_enable_button": "",
+                                        "ekit_img_accordion_button_label": "Read More",
+                                        "ekit_img_accordion_enable_pupup": "yes",
+                                        "ekit_img_accordion_enable_project_link": "yes",
+                                        "ekit_img_accordion_project_link": {
+                                            "url": "#",
+                                            "is_external": true,
+                                            "nofollow": true,
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_img_accordion_enable_icon": "",
+                                        "ekit_img_accordion_title_icon_position": "left",
+                                        "ekit_img_accordion_pup_up_icons": {
+                                            "value": "icon icon-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_img_accordion_project_link_icons": {
+                                            "value": "icon icon icon-link",
+                                            "library": "ekiticons"
+                                        }
+                                    },
+                                    {
+                                        "ekit_img_accordion_button_label": "Read More",
+                                        "_id": "108d96c",
+                                        "ekit_img_accordion_bg": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/beautician-make-stone-massage-spa-for-woman-at-PPP6HHS_gallery_2.jpg",
+                                            "id": 781
+                                        },
+                                        "ekit_img_accordion_title": "Think Positive",
+                                        "ekit_img_accordion_enable_button": "",
+                                        "ekit_img_accordion_enable_pupup": "yes",
+                                        "ekit_img_accordion_enable_project_link": "yes",
+                                        "ekit_img_accordion_active": "no",
+                                        "ekit_img_accordion_enable_icon": "",
+                                        "ekit_img_accordion_title_icons": {
+                                            "value": ""
+                                        },
+                                        "ekit_img_accordion_title_icon_position": "left",
+                                        "ekit_img_accordion_pup_up_icons": {
+                                            "value": "icon icon-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_img_accordion_project_link": {
+                                            "url": "",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "ekit_img_accordion_project_link_icons": {
+                                            "value": "icon icon icon-link",
+                                            "library": "ekiticons"
+                                        }
+                                    },
+                                    {
+                                        "ekit_img_accordion_button_label": "Read More",
+                                        "ekit_img_accordion_bg": {
+                                            "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-concept-PUHBVFJ_gallery_4.jpg",
+                                            "id": 779
+                                        },
+                                        "ekit_img_accordion_title": "Living the Dream",
+                                        "ekit_img_accordion_enable_button": "",
+                                        "ekit_img_accordion_enable_pupup": "yes",
+                                        "ekit_img_accordion_enable_project_link": "yes",
+                                        "_id": "52a6c70",
+                                        "ekit_img_accordion_active": "no",
+                                        "ekit_img_accordion_enable_icon": "",
+                                        "ekit_img_accordion_title_icons": {
+                                            "value": ""
+                                        },
+                                        "ekit_img_accordion_title_icon_position": "left",
+                                        "ekit_img_accordion_pup_up_icons": {
+                                            "value": "icon icon-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_img_accordion_project_link": {
+                                            "url": "",
+                                            "is_external": true,
+                                            "nofollow": true
+                                        },
+                                        "ekit_img_accordion_project_link_icons": {
+                                            "value": "icon icon icon-link",
+                                            "library": "ekiticons"
+                                        }
+                                    }
+                                ],
+                                "ekit_img_accordion_min_height": {
+                                    "unit": "px",
+                                    "size": 480,
+                                    "sizes": []
+                                },
+                                "ekit_img_accordion_bg_active_color_color": "#D9AB5263",
+                                "ekit_img_accordion_title_color": "",
+                                "ekit_img_accordion_section_img_accordion_content_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_img_accordion_section_img_accordion_content_position": "flex-end",
+                                "ekit_img_accordion_section_img_accordion_icon_left_spacing": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "ekit_img_accordion_pup_up_icon_color_hover": "#D9AB52",
+                                "ekit_img_accordion_pup_up_project_color_hover": "#D9AB52",
+                                "__globals__": {
+                                    "ekit_img_accordion_pup_up_icon_color_hover": "globals\/colors?id=primary",
+                                    "ekit_img_accordion_pup_up_project_color_hover": "globals\/colors?id=primary",
+                                    "ekit_img_accordion_title_color": "",
+                                    "ekit_img_accordion_bg_active_color_color": ""
+                                },
+                                "ekit_img_accordion_section_img_accordion_icon_title": {
+                                    "unit": "px",
+                                    "top": "25",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_img_accordion_title_typography_group_typography": "custom",
+                                "ekit_img_accordion_title_typography_group_font_family": "Marcellus",
+                                "ekit_img_accordion_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "ekit_img_accordion_title_typography_group_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "ekit_img_accordion_title_typography_group_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_img_accordion_title_typography_group_font_weight": "400"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-image-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

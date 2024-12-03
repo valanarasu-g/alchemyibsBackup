@@ -1,0 +1,349 @@
+{
+    "version": "0.4",
+    "title": "Services Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-services",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "4a84ed66",
+            "settings": {
+                "structure": "30",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "695a466e",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "4a6050b3",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_1.png",
+                                    "id": 196
+                                },
+                                "ekit_icon_box_title_text": "BODY TREATMENTS",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, con\ntetur adipiscing elit proin at ",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_global_link": {
+                                    "url": "#",
+                                    "is_external": true,
+                                    "nofollow": true,
+                                    "custom_attributes": ""
+                                },
+                                "ekit_icon_box_title_size": "h6",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_infobox_bg_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_group_color": "#02010100",
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_bg_hover_group_background": "classic",
+                                "ekit_icon_box_infobox_bg_hover_group_color": "#FFFFFF",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 40,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.05)"
+                                },
+                                "_z_index": 2,
+                                "_animation": "fadeInLeft",
+                                "__globals__": {
+                                    "ekit_icon_title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5774bc37",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "35930611",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_flower.png",
+                                    "id": 181
+                                },
+                                "image_size": "full",
+                                "_z_index": 1,
+                                "_animation": "bounceIn",
+                                "_animation_delay": 1000,
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -45,
+                                    "unit": "px"
+                                },
+                                "_offset_x_mobile": {
+                                    "size": "",
+                                    "unit": "px"
+                                },
+                                "_offset_x_end": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_offset_x_end_tablet": {
+                                    "unit": "px",
+                                    "size": 125,
+                                    "sizes": []
+                                },
+                                "_offset_y": {
+                                    "size": -45,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": "",
+                                    "unit": "px"
+                                },
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 82,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ac78ea1",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_2.png",
+                                    "id": 197
+                                },
+                                "ekit_icon_box_title_text": "RELAXING MASSAGE",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, con\ntetur adipiscing elit proin at ",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_global_link": {
+                                    "url": "#",
+                                    "is_external": true,
+                                    "nofollow": true,
+                                    "custom_attributes": ""
+                                },
+                                "ekit_icon_box_title_size": "h6",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 40,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.05)"
+                                },
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "_z_index": 2,
+                                "_animation": "fadeInUp",
+                                "__globals__": {
+                                    "ekit_icon_title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7aa0d203",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "443b019f",
+                            "settings": {
+                                "ekit_icon_box_enable_header_icon": "image",
+                                "ekit_icon_box_header_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_3.png",
+                                    "id": 198
+                                },
+                                "ekit_icon_box_title_text": "RELAXATION SPA",
+                                "ekit_icon_box_description_text": "Lorem ipsum dolor sit amet, con\ntetur adipiscing elit proin at ",
+                                "ekit_icon_box_btn_text": "Learn more ",
+                                "ekit_icon_box_global_link": {
+                                    "url": "#",
+                                    "is_external": true,
+                                    "nofollow": true,
+                                    "custom_attributes": ""
+                                },
+                                "ekit_icon_box_title_size": "h6",
+                                "ekit_icon_box_badge_title": "EXCLUSIVE",
+                                "ekit_icon_title_bottom_space": {
+                                    "unit": "px",
+                                    "top": "5",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": "20"
+                                },
+                                "ekit_icon_box_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false,
+                                    "size": 15
+                                },
+                                "ekit_icon_box_infobox_bg_padding": {
+                                    "unit": "px",
+                                    "top": "50",
+                                    "right": "40",
+                                    "bottom": "50",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "ekit_icon_box_iocnbox_border_group_border": "solid",
+                                "ekit_icon_box_iocnbox_border_group_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow_type": "yes",
+                                "ekit_icon_box_infobox_box_shadow_hv_group_box_shadow": {
+                                    "horizontal": 0,
+                                    "vertical": 0,
+                                    "blur": 40,
+                                    "spread": 0,
+                                    "color": "rgba(0, 0, 0, 0.05)"
+                                },
+                                "_z_index": 2,
+                                "_animation": "fadeInRight",
+                                "_background_background": "classic",
+                                "_background_color": "#02010100",
+                                "_background_hover_background": "classic",
+                                "_background_hover_color": "#FFFFFF",
+                                "__globals__": {
+                                    "ekit_icon_title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-icon-box",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

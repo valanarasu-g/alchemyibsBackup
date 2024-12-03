@@ -1,0 +1,3354 @@
+{
+    "version": "0.4",
+    "title": "Packages",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "2efb0a40",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8.jpg",
+                    "id": 943
+                },
+                "background_position": "top right",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "180",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "90",
+                    "right": "0",
+                    "bottom": "90",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "26b55254",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2e273604",
+                            "settings": {
+                                "title": "Spa Packages",
+                                "header_size": "h1",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "55eac3eb",
+            "settings": {
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "369d1d6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "5f668279",
+                            "settings": {
+                                "title": "Ewa Packages",
+                                "header_size": "h6",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "522f0024",
+                            "settings": {
+                                "title": "Our Most Popular Packages",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6dae192d",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "32e94bf9",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "299a278c",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 30,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6d4b7906",
+            "settings": {
+                "structure": "30",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "12816e5d",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 40,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.05)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "10e8ffae",
+                            "settings": {
+                                "ekit_pricing_table_title": "Honeymoon Package",
+                                "ekit_pricing_table_subtitle": "3 Hours \/ 180 minutes",
+                                "ekit_pricing_icon_type": "image",
+                                "ekit_pricing_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/woman-having-a-back-oil-massage-PHW7JXQ.jpg",
+                                    "id": 490
+                                },
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "3.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "a8edb00",
+                                        "ekit_pricing_list": "Lymphatic massage",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": ""
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "c6fff91",
+                                        "ekit_pricing_list": "Chocolate rub",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "1d24881",
+                                        "ekit_pricing_list": "Milk Moisturizer",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Ritual foot bath",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "ccd40e8"
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Balinese Costume",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "c641b34"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "Book Now",
+                                "ekit_pricing_btn_icons__switch": "",
+                                "ekit_pricing_title_typography_group_typography": "custom",
+                                "ekit_pricing_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_typography_group_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_text_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "8",
+                                    "bottom": "20",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_price_typography_group_typography": "custom",
+                                "ekit_pricing_price_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_text_color": "#D9AB52",
+                                "ekit_pricing_period_text_color_hover": "#FFFFFF",
+                                "ekit_pricing_period_typography_group_typography": "custom",
+                                "ekit_pricing_period_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_typography_group_font_weight": "normal",
+                                "ekit_pricing_currency_size_typography": "custom",
+                                "ekit_pricing_currency_size_font_family": "Marcellus",
+                                "ekit_pricing_tag_text_color": "#D9AB52",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_tag_bg_color_color": "#FFFBEF",
+                                "ekit_pricing_tag_hover_color": "#FFFFFF",
+                                "ekit_pricing_tag_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_tag_bg_hover_color_group_color": "#D9AB52",
+                                "ekit_pricing_tag_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_typography_group_typography": "custom",
+                                "ekit_pricing_btn_typography_group_font_weight": "normal",
+                                "ekit_pricing_btn_typography_group_text_transform": "uppercase",
+                                "ekit_pricing_btn_typography_group_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_text_color": "",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "ekit_pricing_btn_hover_color": "#FFFFFF",
+                                "ekit_pricing_btn_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "30",
+                                    "bottom": "7",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_style": "solid",
+                                "ekit_pricing_btn_border_dimensions": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_btn_text_color": "",
+                                    "ekit_pricing_btn_bg_color_group_color": "",
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_tag_bg_hover_color_group_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_pricing_body_bg_sp": "",
+                                    "ekit_pricing_btn_hover_color": "",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "70e4bc99",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 40,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.05)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "62094f87",
+                            "settings": {
+                                "ekit_pricing_table_title": "Refreshing Package",
+                                "ekit_pricing_table_subtitle": "2 Hours \/ 180 minutes",
+                                "ekit_pricing_icon_type": "image",
+                                "ekit_pricing_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/classical-body-massage-at-physiotherapist-office-QG537XZ.jpg",
+                                    "id": 489
+                                },
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "5.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "a8edb00",
+                                        "ekit_pricing_list": "Lymphatic massage",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": ""
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "c6fff91",
+                                        "ekit_pricing_list": "Chocolate rub",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "1d24881",
+                                        "ekit_pricing_list": "Milk Moisturizer",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Ritual foot bath",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "ccd40e8"
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Balinese Costume",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "c641b34"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "Book Now",
+                                "ekit_pricing_btn_icons__switch": "",
+                                "ekit_pricing_title_typography_group_typography": "custom",
+                                "ekit_pricing_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_typography_group_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_text_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "8",
+                                    "bottom": "20",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_price_typography_group_typography": "custom",
+                                "ekit_pricing_price_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_text_color": "#D9AB52",
+                                "ekit_pricing_period_text_color_hover": "#FFFFFF",
+                                "ekit_pricing_period_typography_group_typography": "custom",
+                                "ekit_pricing_period_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_typography_group_font_weight": "normal",
+                                "ekit_pricing_currency_size_typography": "custom",
+                                "ekit_pricing_currency_size_font_family": "Marcellus",
+                                "ekit_pricing_tag_text_color": "#D9AB52",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_tag_bg_color_color": "#FFFBEF",
+                                "ekit_pricing_tag_hover_color": "#FFFFFF",
+                                "ekit_pricing_tag_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_tag_bg_hover_color_group_color": "#D9AB52",
+                                "ekit_pricing_tag_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_typography_group_typography": "custom",
+                                "ekit_pricing_btn_typography_group_font_weight": "normal",
+                                "ekit_pricing_btn_typography_group_text_transform": "uppercase",
+                                "ekit_pricing_btn_typography_group_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_text_color": "",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "ekit_pricing_btn_hover_color": "#FFFFFF",
+                                "ekit_pricing_btn_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "30",
+                                    "bottom": "7",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_style": "solid",
+                                "ekit_pricing_btn_border_dimensions": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_btn_text_color": "",
+                                    "ekit_pricing_btn_bg_color_group_color": "",
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_tag_bg_hover_color_group_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_pricing_body_bg_sp": "",
+                                    "ekit_pricing_btn_hover_color": "",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "69353be2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "border_width": {
+                            "unit": "px",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 0,
+                            "blur": 40,
+                            "spread": 0,
+                            "color": "rgba(0, 0, 0, 0.05)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "15",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "50",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7c76f8b6",
+                            "settings": {
+                                "ekit_pricing_table_title": "Relaxing Package",
+                                "ekit_pricing_table_subtitle": "4 Hours \/ 180 minutes",
+                                "ekit_pricing_icon_type": "image",
+                                "ekit_pricing_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/taking-pleasure-PY74FWE_2.jpg",
+                                    "id": 488
+                                },
+                                "ekit_pricing_currency_icon": "$",
+                                "ekit_pricing_table_price": "4.99",
+                                "ekit_pricing_table_duration": "\/ Month",
+                                "ekit_pricing_content_style": "list",
+                                "ekit_pricing_table_content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam",
+                                "ekit_pricing_table_content_repeater": [
+                                    {
+                                        "item": "15 Email Account",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "a8edb00",
+                                        "ekit_pricing_list": "Lymphatic massage",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_pricing_list_icon_color": ""
+                                        }
+                                    },
+                                    {
+                                        "item": "100 GB Space",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "c6fff91",
+                                        "ekit_pricing_list": "Chocolate rub",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "_id": "1d24881",
+                                        "ekit_pricing_list": "Milk Moisturizer",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        }
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Ritual foot bath",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "ccd40e8"
+                                    },
+                                    {
+                                        "item": "1 Domain Name",
+                                        "check_icon": "icon icon-tick",
+                                        "ekit_pricing_list": "Balinese Costume",
+                                        "ekit_pricing_check_icons": {
+                                            "value": "icon icon-tick",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_pricing_list_content_typography_group": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "_id": "c641b34"
+                                    }
+                                ],
+                                "ekit_pricing_btn_text": "Book Now",
+                                "ekit_pricing_btn_icons__switch": "",
+                                "ekit_pricing_title_typography_group_typography": "custom",
+                                "ekit_pricing_title_typography_group_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_typography_group_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_title_text_padding": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_tag_text_padding": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "8",
+                                    "bottom": "20",
+                                    "left": "8",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_price_typography_group_typography": "custom",
+                                "ekit_pricing_price_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_text_color": "#D9AB52",
+                                "ekit_pricing_period_text_color_hover": "#FFFFFF",
+                                "ekit_pricing_period_typography_group_typography": "custom",
+                                "ekit_pricing_period_typography_group_font_family": "Marcellus",
+                                "ekit_pricing_period_typography_group_font_weight": "normal",
+                                "ekit_pricing_currency_size_typography": "custom",
+                                "ekit_pricing_currency_size_font_family": "Marcellus",
+                                "ekit_pricing_tag_text_color": "#D9AB52",
+                                "ekit_pricing_tag_bg_color_background": "classic",
+                                "ekit_pricing_tag_bg_color_color": "#FFFBEF",
+                                "ekit_pricing_tag_hover_color": "#FFFFFF",
+                                "ekit_pricing_tag_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_tag_bg_hover_color_group_color": "#D9AB52",
+                                "ekit_pricing_tag_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_typography_group_typography": "custom",
+                                "ekit_pricing_btn_typography_group_font_weight": "normal",
+                                "ekit_pricing_btn_typography_group_text_transform": "uppercase",
+                                "ekit_pricing_btn_typography_group_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1.5,
+                                    "sizes": []
+                                },
+                                "ekit_pricing_btn_text_color": "",
+                                "ekit_pricing_btn_bg_color_group_background": "classic",
+                                "ekit_pricing_btn_hover_color": "#FFFFFF",
+                                "ekit_pricing_btn_bg_hover_color_group_background": "classic",
+                                "ekit_pricing_text_padding": {
+                                    "unit": "px",
+                                    "top": "7",
+                                    "right": "30",
+                                    "bottom": "7",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "ekit_pricing_btn_border_style": "solid",
+                                "ekit_pricing_btn_border_dimensions": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "ekit_pricing_btn_border_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_pricing_btn_text_color": "",
+                                    "ekit_pricing_btn_bg_color_group_color": "",
+                                    "ekit_pricing_tag_bg_color_color": "globals\/colors?id=secondary",
+                                    "ekit_pricing_tag_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_period_text_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_tag_bg_hover_color_group_color": "globals\/colors?id=primary",
+                                    "ekit_pricing_pricing_body_bg_sp": "",
+                                    "ekit_pricing_btn_hover_color": "",
+                                    "ekit_pricing_btn_bg_hover_color_group_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-pricing",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1ba287fc",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8_bg.jpg",
+                    "id": 1003
+                },
+                "background_position": "top right",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#000000",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "120",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "20",
+                    "bottom": "70",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "505cae4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "24f36a4",
+                            "settings": {
+                                "title": "Our Spa Services",
+                                "header_size": "h6",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "152b6b33",
+                            "settings": {
+                                "title": "The Art Of Perfect Spa Therapy",
+                                "align": "center",
+                                "title_color": "#FFFFFF"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "56ae8301",
+                            "settings": {
+                                "editor": "<p>Donec nec nisi sit amet nulla eleifend porta vestibulum eu dolor. Curabitur posuere velit id fringilla imperdiet. Aliquam condimentum ornare diam vulputate euismod.<\/p>",
+                                "align": "center",
+                                "text_color": "#FFFFFF",
+                                "_margin": {
+                                    "unit": "%",
+                                    "top": "0",
+                                    "right": "16",
+                                    "bottom": "-1.5",
+                                    "left": "16",
+                                    "isLinked": false
+                                },
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1f2f01d2",
+                            "settings": {
+                                "text": "Book An Appointment",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6c424696",
+            "settings": {
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "371a6dc6",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6338029a",
+                            "settings": {
+                                "title": "Our Experts",
+                                "header_size": "h6",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7bfdefb0",
+                            "settings": {
+                                "title": "Ewa Beauty Spa Therapists",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "92be29e",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_4.png",
+                                    "id": 747
+                                },
+                                "image_size": "full",
+                                "_animation": "rotateInDownLeft",
+                                "_animation_delay": 500,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 236,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_x": {
+                                    "size": -419,
+                                    "unit": "px"
+                                },
+                                "_offset_orientation_v": "end",
+                                "_offset_y_end": {
+                                    "size": -325.1829999999999927240423858165740966796875,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "618ef4d8",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_5.png",
+                                    "id": 749
+                                },
+                                "image_size": "tk_preview",
+                                "_animation": "rotateInDownRight",
+                                "_animation_delay": 1000,
+                                "_element_width": "initial",
+                                "_element_width_mobile": "initial",
+                                "_element_custom_width": {
+                                    "unit": "px",
+                                    "size": 96,
+                                    "sizes": []
+                                },
+                                "_element_custom_width_mobile": {
+                                    "unit": "px",
+                                    "size": 60,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "size": 70,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end": {
+                                    "size": -47,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end_mobile": {
+                                    "size": -3,
+                                    "unit": "px"
+                                },
+                                "_offset_y": {
+                                    "size": -67,
+                                    "unit": "px"
+                                },
+                                "_offset_y_mobile": {
+                                    "size": -73,
+                                    "unit": "px"
+                                },
+                                "_offset_y_end": {
+                                    "size": -471,
+                                    "unit": "px"
+                                },
+                                "hide_tablet": "hidden-tablet",
+                                "_z_index": 2,
+                                "_offset_orientation_v": "end"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4516f0ae",
+            "settings": {
+                "overflow": "hidden",
+                "structure": "40",
+                "margin": {
+                    "unit": "px",
+                    "top": "25",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "5",
+                    "bottom": "0",
+                    "left": "5",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "z_index": 1
+            },
+            "elements": [
+                {
+                    "id": "1080d2f1",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "-15",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "20",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "13a096bf",
+                            "settings": {
+                                "ekit_team_style": "long_height_hover",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/smiling-beautiful-doctor-at-hospital-45KQMWM_team_1.jpg",
+                                    "id": 732
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_name": "Elizabeth Sofia",
+                                "ekit_team_position": "Spa Therapist",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "_id": "3b1b188",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        }
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Facebook",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "79051ba"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-google-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Google Plus",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "62af478"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Linked in",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "252e00a"
+                                    }
+                                ],
+                                "ekit_team_chose_popup": "",
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_background_content_hover_background": "classic",
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_name_margin": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_team_position_margin_bottom": {
+                                    "unit": "px",
+                                    "size": -10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-13",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_team_background_content_normal_color": "globals\/colors?id=primary",
+                                    "ekit_team_background_content_hover_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4d3e2cd7",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "33025460",
+                            "settings": {
+                                "ekit_team_style": "long_height_hover",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/medical-physician-doctor-woman-over-white-backgrou-TMRDQF6_team_2.jpg",
+                                    "id": 731
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_name": "Elizabeth Sofia",
+                                "ekit_team_position": "Spa Therapist",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "_id": "3b1b188",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        }
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Facebook",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "79051ba"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-google-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Google Plus",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "62af478"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Linked in",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "252e00a"
+                                    }
+                                ],
+                                "ekit_team_chose_popup": "",
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_background_content_hover_background": "classic",
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_name_margin": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_team_position_margin_bottom": {
+                                    "unit": "px",
+                                    "size": -10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-13",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_team_background_content_normal_color": "globals\/colors?id=primary",
+                                    "ekit_team_background_content_hover_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7206e5fc",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "39271884",
+                            "settings": {
+                                "ekit_team_style": "long_height_hover",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/skin-treatment-VE6494S_team_3.jpg",
+                                    "id": 730
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_name": "Elizabeth Sofia",
+                                "ekit_team_position": "Spa Therapist",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "_id": "3b1b188",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        }
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Facebook",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "79051ba"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-google-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Google Plus",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "62af478"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Linked in",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "252e00a"
+                                    }
+                                ],
+                                "ekit_team_chose_popup": "",
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_background_content_hover_background": "classic",
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_name_margin": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_team_position_margin_bottom": {
+                                    "unit": "px",
+                                    "size": -10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-13",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_team_background_content_normal_color": "globals\/colors?id=primary",
+                                    "ekit_team_background_content_hover_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3fd94b40",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "33bfdcad",
+                            "settings": {
+                                "ekit_team_style": "long_height_hover",
+                                "ekit_team_image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/young-beautiful-vietnamese-woman-9W5XYKS_team_4.jpg",
+                                    "id": 729
+                                },
+                                "ekit_team_thumbnail_size": "full",
+                                "ekit_team_name": "Elizabeth Sofia",
+                                "ekit_team_position": "Spa Therapist",
+                                "ekit_team_short_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_social_icons": [
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "_id": "3b1b188",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-twitter-1",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Twitter",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        }
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Facebook",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "79051ba"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "icon icon-google-plus",
+                                            "library": "ekiticons"
+                                        },
+                                        "ekit_team_label": "Google Plus",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "62af478"
+                                    },
+                                    {
+                                        "icon": "icon icon-facebook",
+                                        "label": "Facebook",
+                                        "ekit_team_icons": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "ekit_team_label": "Linked in",
+                                        "ekit_team_link": {
+                                            "url": "#",
+                                            "is_external": "",
+                                            "nofollow": "",
+                                            "custom_attributes": ""
+                                        },
+                                        "ekit_team_socialmedia_icon_bg_color": "#A1A1A100",
+                                        "ekit_team_socialmedia_border_border": "solid",
+                                        "ekit_team_socialmedia_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_icon_hover_color": "#000000",
+                                        "ekit_team_socialmedia_icon_hover_bg_color": "#FFFFFF",
+                                        "ekit_team_socialmedia_border_hover_border": "solid",
+                                        "ekit_team_socialmedia_border_hover_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "ekit_team_socialmedia_border_hover_color": "#FFFFFF",
+                                        "__globals__": {
+                                            "ekit_team_socialmedia_icon_hover_color": ""
+                                        },
+                                        "_id": "252e00a"
+                                    }
+                                ],
+                                "ekit_team_chose_popup": "",
+                                "ekit_team_description": "A small river named Duden flows by their place and supplies it with the necessary",
+                                "ekit_team_phone": "+1 (859) 254-6589",
+                                "ekit_team_email": "info@example.com",
+                                "ekit_team_background_content_hover_background": "classic",
+                                "ekit_team_image_weight": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "ekit_team_name_margin": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "ekit_team_position_margin_bottom": {
+                                    "unit": "px",
+                                    "size": -10,
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-13",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_team_background_content_normal_color": "globals\/colors?id=primary",
+                                    "ekit_team_background_content_hover_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-team",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "42a4b1c4",
+            "settings": {
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "110",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "15e35aad",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "72c8e745",
+                            "settings": {
+                                "title": "Spa Packages",
+                                "header_size": "h6",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "31a748a3",
+                            "settings": {
+                                "title": "Ewa Beauty Spa Packages",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "517dee61",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "structure": "40",
+                "padding": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": "40",
+                    "bottom": "0",
+                    "left": "40",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "",
+                    "right": 0,
+                    "bottom": "",
+                    "left": 0,
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "14686a0d",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "209a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-PXFNR47.jpg",
+                                    "id": 685
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5b6630f0",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "align": "flex-end",
+                        "background_background": "classic",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=secondary"
+                        },
+                        "_inline_size_tablet": 50,
+                        "_inline_size_mobile": 100,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "z_index": 99,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "3fbef3ca",
+                            "settings": {
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "80",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "animation": "rotateInDownLeft",
+                                "animation_delay": 500
+                            },
+                            "elements": [
+                                {
+                                    "id": "26f0f9f",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "_inline_size_mobile": 100,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "20",
+                                            "bottom": "40",
+                                            "left": "20",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4108c864",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_2.png",
+                                                    "id": 197
+                                                },
+                                                "image_size": "full",
+                                                "align": "right",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1f2aa9a5",
+                                            "settings": {
+                                                "title": "Half Day Spa Packages",
+                                                "header_size": "h4",
+                                                "align": "right",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "0",
+                                                    "bottom": "5",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3a1bb9d7",
+                                            "settings": {
+                                                "editor": "<p>Donec nec nisi sit amet nulla eleif end porta vestibulum eu dolor posue<\/p>",
+                                                "align": "right",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1d58adca",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_flower.png",
+                                                    "id": 181
+                                                },
+                                                "image_size": "full",
+                                                "_element_width": "initial",
+                                                "_position": "absolute",
+                                                "_offset_orientation_h": "end",
+                                                "_offset_x_end": {
+                                                    "size": -133.25,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y": {
+                                                    "unit": "px",
+                                                    "size": 111,
+                                                    "sizes": []
+                                                },
+                                                "_element_custom_width": {
+                                                    "unit": "px",
+                                                    "size": 82,
+                                                    "sizes": []
+                                                },
+                                                "_offset_x_end_tablet": {
+                                                    "size": 247.5,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y_tablet": {
+                                                    "size": 408,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_x_end_mobile": {
+                                                    "size": 195,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_orientation_v": "end",
+                                                "_offset_y_mobile": {
+                                                    "size": 328,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y_end_tablet": {
+                                                    "size": -179,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y_end_mobile": {
+                                                    "size": -80,
+                                                    "unit": "px"
+                                                },
+                                                "hide_tablet": "hidden-tablet",
+                                                "hide_mobile": "hidden-phone",
+                                                "_animation": "rotateIn",
+                                                "_animation_delay": 1000,
+                                                "_offset_y_end": {
+                                                    "size": 128,
+                                                    "unit": "px"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7ae47aa3",
+                                            "settings": {
+                                                "title": "FROM $49",
+                                                "header_size": "h6",
+                                                "align": "right",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-30",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=primary"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4678cad9",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "align": "flex-end",
+                        "background_background": "classic",
+                        "background_color": "#FDF3DF",
+                        "__globals__": {
+                            "background_color": ""
+                        },
+                        "_inline_size_tablet": 50,
+                        "z_index": 1,
+                        "animation": "fadeIn"
+                    },
+                    "elements": [
+                        {
+                            "id": "12919660",
+                            "settings": {
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "20",
+                                    "bottom": "0",
+                                    "left": "80",
+                                    "isLinked": false
+                                },
+                                "padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "animation": "rotateInDownRight",
+                                "animation_delay": 500
+                            },
+                            "elements": [
+                                {
+                                    "id": "4b250a45",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "40",
+                                            "right": "20",
+                                            "bottom": "40",
+                                            "left": "20",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7f5f9d08",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_2.png",
+                                                    "id": 197
+                                                },
+                                                "image_size": "full",
+                                                "align": "left",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "27bdd24b",
+                                            "settings": {
+                                                "title": "Full Day Spa Packages",
+                                                "header_size": "h4",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "16",
+                                                    "right": "0",
+                                                    "bottom": "5",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "45d1e888",
+                                            "settings": {
+                                                "editor": "<p>Donec nec nisi sit amet nulla eleif end porta vestibulum eu dolor posue<\/p>",
+                                                "align": "left",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "1af2885f",
+                                            "settings": {
+                                                "title": "FROM $89",
+                                                "header_size": "h6",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "-30",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=primary"
+                                                },
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "116e56f4",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "44a8584a",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-aromatherapy-with-azalea-flowers-and-herbal-PWCDSU8.jpg",
+                                    "id": 684
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeInRight"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "493623d5",
+            "settings": {
+                "background_background": "classic",
+                "margin": {
+                    "unit": "px",
+                    "top": "-120",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "z_index": 99,
+                "animation": "fadeInUp",
+                "animation_delay": 1000
+            },
+            "elements": [
+                {
+                    "id": "70ff878",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "51478e68",
+                            "settings": {
+                                "text": "Check All Packages",
+                                "align": "center",
+                                "__globals__": {
+                                    "background_color": "",
+                                    "button_text_color": "",
+                                    "hover_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "312add1a",
+            "settings": {
+                "overflow": "hidden",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "animation": "fadeInUp",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "160",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "40",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "70b60a6a",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "padding": {
+                            "unit": "%",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "614c4aa9",
+                            "settings": {
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "17e2b487",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4d5072c1",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "px",
+                                                    "size": 50,
+                                                    "sizes": []
+                                                },
+                                                "text": "Divider",
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "_position": "absolute",
+                                                "_offset_x": {
+                                                    "size": 0,
+                                                    "unit": "px"
+                                                },
+                                                "_offset_y": {
+                                                    "size": 3,
+                                                    "unit": "px"
+                                                },
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "6cc6f475",
+                                            "settings": {
+                                                "title": "Feel the difference",
+                                                "header_size": "h6",
+                                                "typography_typography": "custom",
+                                                "typography_font_size": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "typography_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": 1,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "60",
+                                                    "isLinked": false
+                                                },
+                                                "_border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "__globals__": {
+                                                    "title_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "8c0217b",
+                            "settings": {
+                                "title": "Ewa Beauty Spa Experience",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "_animation": "fadeInUp"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5190d51f",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "10",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "12f7adbe",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "a8d05be",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in justo pharetra, molestie ex at, euismod libero aliquam congue dignissim sem non egestas nunc imperdiet odio est.<\/p><p>Rhoncus dolor tempor id. Fusce quis turpis non magna elementum porta non vitae velit. In in scelerisque ante.<\/p>",
+                                "_animation": "fadeInLeft",
+                                "_animation_delay": 500
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2f842914",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInRight",
+                        "animation_delay": 500,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "955102c",
+                            "settings": {
+                                "ekit_progressbar_title": "Facial Therapy",
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_bar_margin": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_track_color_background": "classic",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Marcellus",
+                                "ekit_progressbar_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_typography_font_weight": "normal",
+                                "ekit_progressbar_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.5,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_typography": "custom",
+                                "ekit_progressbar_percent_typography_font_family": "Marcellus",
+                                "__globals__": {
+                                    "ekit_progressbar_background_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4d2cdb09",
+                            "settings": {
+                                "ekit_progressbar_title": "Relaxing Therapy",
+                                "ekit_progressbar_percentage": 65,
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_bar_margin": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_track_color_background": "classic",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Marcellus",
+                                "ekit_progressbar_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_typography_font_weight": "normal",
+                                "ekit_progressbar_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.5,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_typography": "custom",
+                                "ekit_progressbar_percent_typography_font_family": "Marcellus",
+                                "__globals__": {
+                                    "ekit_progressbar_background_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "370bc44e",
+                            "settings": {
+                                "ekit_progressbar_title": "Body Care Treatment",
+                                "ekit_progressbar_percentage": 80,
+                                "ekit_progressbar_background_background": "classic",
+                                "ekit_progressbar_bar_margin": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_track_color_background": "classic",
+                                "ekit_progressbar_title_typography_typography": "custom",
+                                "ekit_progressbar_title_typography_font_family": "Marcellus",
+                                "ekit_progressbar_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_title_typography_font_weight": "normal",
+                                "ekit_progressbar_title_typography_letter_spacing": {
+                                    "unit": "px",
+                                    "size": 0.5,
+                                    "sizes": []
+                                },
+                                "ekit_progressbar_percent_typography_typography": "custom",
+                                "ekit_progressbar_percent_typography_font_family": "Marcellus",
+                                "__globals__": {
+                                    "ekit_progressbar_background_color": "globals\/colors?id=secondary",
+                                    "ekit_progressbar_track_color_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-progressbar",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+[03-May-2024 09:51:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[03-May-2024 09:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[03-May-2024 09:51:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[11-May-2024 00:19:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[11-May-2024 00:20:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[11-May-2024 00:20:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

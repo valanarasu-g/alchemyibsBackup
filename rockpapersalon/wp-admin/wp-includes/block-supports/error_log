@@ -1,0 +1,136 @@
+[03-May-2024 09:24:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/align.php on line 59
+[03-May-2024 09:24:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131
+[03-May-2024 09:24:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/border.php on line 170
+[03-May-2024 09:24:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/colors.php on line 138
+[03-May-2024 09:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[03-May-2024 09:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/dimensions.php on line 164
+[03-May-2024 09:24:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/duotone.php on line 36
+[03-May-2024 09:25:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/elements.php on line 231
+[03-May-2024 09:25:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[03-May-2024 09:25:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/layout.php on line 855
+[03-May-2024 09:25:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/position.php on line 145
+[03-May-2024 09:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/settings.php on line 151
+[03-May-2024 09:25:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/shadow.php on line 75
+[03-May-2024 09:25:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/spacing.php on line 83
+[03-May-2024 09:25:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/typography.php on line 653
+[10-May-2024 23:54:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/align.php on line 59
+[10-May-2024 23:54:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131
+[10-May-2024 23:54:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/border.php on line 170
+[10-May-2024 23:54:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/colors.php on line 138
+[10-May-2024 23:54:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[10-May-2024 23:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/dimensions.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/dimensions.php on line 164
+[10-May-2024 23:54:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/duotone.php on line 36
+[10-May-2024 23:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/elements.php on line 231
+[10-May-2024 23:54:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/generated-classname.php on line 66
+[10-May-2024 23:55:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/layout.php:855
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/layout.php on line 855
+[10-May-2024 23:55:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/position.php on line 145
+[10-May-2024 23:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/settings.php on line 151
+[10-May-2024 23:55:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/shadow.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/shadow.php on line 75
+[10-May-2024 23:55:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/spacing.php on line 83
+[10-May-2024 23:55:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/typography.php:653
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/typography.php on line 653
+[23-Jun-2024 00:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131
+[23-Jun-2024 00:25:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131
+[23-Jun-2024 00:29:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131
+[23-Jun-2024 00:29:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-supports/background.php on line 131

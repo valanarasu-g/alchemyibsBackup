@@ -1,0 +1,68 @@
+[03-May-2024 10:04:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[03-May-2024 10:06:04 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[03-May-2024 10:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[03-May-2024 10:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[03-May-2024 10:07:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[03-May-2024 10:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[03-May-2024 10:07:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[03-May-2024 10:07:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[03-May-2024 10:07:57 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[03-May-2024 10:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[11-May-2024 00:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/capabilities.php on line 3
+[11-May-2024 00:35:43 UTC] PHP Fatal error:  Trait 'WPCF7_SWV_SchemaHolder' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/contact-form.php on line 3
+[11-May-2024 00:35:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/controller.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 7
+[11-May-2024 00:36:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/file.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/file.php on line 87
+[11-May-2024 00:37:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/mail.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 3
+[11-May-2024 00:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/rest-api.php on line 3
+[11-May-2024 00:38:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WPCF7_FormTag' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/shortcodes.php on line 94
+[11-May-2024 00:38:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/special-mail-tags.php on line 7
+[11-May-2024 00:38:16 UTC] PHP Fatal error:  Trait 'WPCF7_PocketHolder' not found in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/submission.php on line 6
+[11-May-2024 00:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3

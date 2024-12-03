@@ -1,0 +1,32 @@
+[03-May-2024 09:23:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[03-May-2024 09:23:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[10-May-2024 23:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[10-May-2024 23:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[23-Jun-2024 00:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[23-Jun-2024 00:25:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/pattern-overrides.php on line 47
+[23-Jun-2024 00:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php on line 70
+[23-Jun-2024 00:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-bindings/post-meta.php on line 70

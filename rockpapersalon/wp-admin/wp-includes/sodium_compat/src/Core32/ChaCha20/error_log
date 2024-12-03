@@ -1,0 +1,32 @@
+[23-Jun-2024 00:49:13 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[23-Jun-2024 00:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[23-Jun-2024 00:49:14 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[23-Jun-2024 00:49:15 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[23-Jun-2024 00:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[23-Jun-2024 00:49:43 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/Ctx.php on line 10
+[23-Jun-2024 00:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10
+[23-Jun-2024 00:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_ChaCha20_Ctx' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php on line 10

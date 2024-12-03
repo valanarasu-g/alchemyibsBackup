@@ -1,0 +1,56 @@
+[03-May-2024 09:23:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[03-May-2024 09:23:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[03-May-2024 09:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[03-May-2024 09:23:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[03-May-2024 09:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[03-May-2024 09:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[03-May-2024 09:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[10-May-2024 23:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[10-May-2024 23:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-May-2024 23:53:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-May-2024 23:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-May-2024 23:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-May-2024 23:53:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-May-2024 23:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rockpapersalon/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

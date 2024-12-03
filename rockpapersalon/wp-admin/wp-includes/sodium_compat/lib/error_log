@@ -1,0 +1,24 @@
+[03-May-2024 09:52:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[11-May-2024 00:22:18 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[23-Jun-2024 00:45:32 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[23-Jun-2024 00:45:33 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[23-Jun-2024 00:45:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[23-Jun-2024 00:45:55 UTC] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6

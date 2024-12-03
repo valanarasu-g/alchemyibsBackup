@@ -1,0 +1,12 @@
+[03-May-2024 10:10:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/constant-contact.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/constant-contact.php on line 8
+[03-May-2024 10:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/contact-form-properties.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/contact-form-properties.php on line 3
+[03-May-2024 10:10:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/doi.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/constant-contact/doi.php on line 9

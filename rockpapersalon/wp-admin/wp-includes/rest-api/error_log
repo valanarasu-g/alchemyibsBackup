@@ -1,0 +1,8 @@
+[03-May-2024 09:42:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rockpapersalon/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[11-May-2024 00:13:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rockpapersalon/public_html/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

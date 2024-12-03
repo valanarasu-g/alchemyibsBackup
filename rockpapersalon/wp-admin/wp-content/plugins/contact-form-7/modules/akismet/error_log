@@ -1,0 +1,4 @@
+[03-May-2024 10:09:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wpcf7_include_module_file() in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/rockpapersalon/public_html/wp-content/plugins/contact-form-7/modules/akismet/akismet.php on line 8

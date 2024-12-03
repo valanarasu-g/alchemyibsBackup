@@ -1,0 +1,2173 @@
+{
+    "manifest_version": "1.0.15",
+    "title": "Ewa - Beauty & Spa Salon Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Section",
+            "screenshot": "screenshots\/header-section.jpg",
+            "source": "templates\/header-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/header-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Section",
+            "screenshot": "screenshots\/footer-section.jpg",
+            "source": "templates\/footer-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/footer-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Packages",
+            "screenshot": "screenshots\/packages.jpg",
+            "source": "templates\/packages.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/packages\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/404\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Hero Image Section",
+            "screenshot": "screenshots\/hero-image-section.jpg",
+            "source": "templates\/hero-image-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/hero-image-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Section",
+            "screenshot": "screenshots\/about-section.jpg",
+            "source": "templates\/about-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/about-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Section",
+            "screenshot": "screenshots\/services-section.jpg",
+            "source": "templates\/services-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/services-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery Section",
+            "screenshot": "screenshots\/gallery-section.jpg",
+            "source": "templates\/gallery-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/gallery-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Callout Section",
+            "screenshot": "screenshots\/callout-section.jpg",
+            "source": "templates\/callout-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/callout-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Packages Section",
+            "screenshot": "screenshots\/packages-section.jpg",
+            "source": "templates\/packages-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/packages-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team Section",
+            "screenshot": "screenshots\/team-section.jpg",
+            "source": "templates\/team-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/team-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Section 2",
+            "screenshot": "screenshots\/pricing-section-2.jpg",
+            "source": "templates\/pricing-section-2.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/pricing-section-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Section",
+            "screenshot": "screenshots\/pricing-section.jpg",
+            "source": "templates\/pricing-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/pricing-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Featured Services Section",
+            "screenshot": "screenshots\/featured-services-section.jpg",
+            "source": "templates\/featured-services-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/featured-services-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials Section",
+            "screenshot": "screenshots\/testimonials-section.jpg",
+            "source": "templates\/testimonials-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/testimonials-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Popular Services Section",
+            "screenshot": "screenshots\/popular-services-section.jpg",
+            "source": "templates\/popular-services-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/popular-services-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Title Section",
+            "screenshot": "screenshots\/title-section.jpg",
+            "source": "templates\/title-section.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/title-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Fun Facts",
+            "screenshot": "screenshots\/fun-facts.jpg",
+            "source": "templates\/fun-facts.json",
+            "preview_url": "https:\/\/kinforce.net\/ewa\/template-kit\/fun-facts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.2.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Image Hover Effects - Elementor Addon",
+            "version": "1.3.1",
+            "file": "image-hover-effects-addon-for-elementor\/image-hover-effects-addon-for-elementor.php",
+            "author": "Blocksera"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header-section.json",
+                    "name": "Header Section"
+                }
+            ],
+            "filesize": 3198,
+            "dimensions": [
+                111,
+                38
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-spa-logo-template-H9V6JEB"
+        },
+        {
+            "filename": "footer_logo.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/footer_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 3087,
+            "dimensions": [
+                52,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-spa-logo-template-H9V6JEB"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leaf_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_6.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                }
+            ],
+            "filesize": 35177,
+            "dimensions": [
+                188,
+                173
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leafs_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leafs_2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 3557,
+            "dimensions": [
+                76,
+                45
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leafs.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leafs.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-section.json",
+                    "name": "Footer Section"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 8922,
+            "dimensions": [
+                90,
+                217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "spa-salon-therapy-treatment-PZURJ69.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-salon-therapy-treatment-PZURJ69-600x313.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 60681,
+            "dimensions": [
+                1920,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-salon-therapy-treatment-PZURJ69"
+        },
+        {
+            "filename": "makeup-artist-applies-skintone-PXU6989.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/makeup-artist-applies-skintone-PXU6989-600x523.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 310770,
+            "dimensions": [
+                1147,
+                999
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/makeup-artist-applies-skintone-PXU6989"
+        },
+        {
+            "filename": "hero-content-bg.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/hero-content-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/hero-image-section.json",
+                    "name": "Hero Image Section"
+                }
+            ],
+            "filesize": 928,
+            "dimensions": [
+                1,
+                1
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services-section.json",
+                    "name": "Services Section"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 4433,
+            "dimensions": [
+                96,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_flower.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_flower.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services-section.json",
+                    "name": "Services Section"
+                },
+                {
+                    "source": "templates\/packages-section.json",
+                    "name": "Packages Section"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                }
+            ],
+            "filesize": 8571,
+            "dimensions": [
+                82,
+                82
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/services-section.json",
+                    "name": "Services Section"
+                },
+                {
+                    "source": "templates\/packages-section.json",
+                    "name": "Packages Section"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 4731,
+            "dimensions": [
+                82,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/services-section.json",
+                    "name": "Services Section"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 4573,
+            "dimensions": [
+                85,
+                73
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "taking-pleasure-PY74FWE-1.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/taking-pleasure-PY74FWE-1-600x541.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                }
+            ],
+            "filesize": 98187,
+            "dimensions": [
+                800,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/taking-pleasure-PY74FWE"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leaf_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/about-section.json",
+                    "name": "About Section"
+                }
+            ],
+            "filesize": 20726,
+            "dimensions": [
+                143,
+                168
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "spa-setting-PT7UYC2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-setting-PT7UYC2-600x228.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/fun-facts.json",
+                    "name": "Fun Facts"
+                }
+            ],
+            "filesize": 219777,
+            "dimensions": [
+                1920,
+                728
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-setting-PT7UYC2"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/fun-facts.json",
+                    "name": "Fun Facts"
+                }
+            ],
+            "filesize": 3511,
+            "dimensions": [
+                53,
+                62
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/fun-facts.json",
+                    "name": "Fun Facts"
+                }
+            ],
+            "filesize": 3105,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/fun-facts.json",
+                    "name": "Fun Facts"
+                }
+            ],
+            "filesize": 2397,
+            "dimensions": [
+                68,
+                51
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "elements-50-spa-line-green-black-icons-EGVMGU_7.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-50-spa-line-green-black-icons-EGVMGU_7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/fun-facts.json",
+                    "name": "Fun Facts"
+                }
+            ],
+            "filesize": 1761,
+            "dimensions": [
+                38,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-50-spa-line-green-black-icons-EGVMGU"
+        },
+        {
+            "filename": "spa-PDY2KUT.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-PDY2KUT.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/popular-services-section.json",
+                    "name": "Popular Services Section"
+                }
+            ],
+            "filesize": 65380,
+            "dimensions": [
+                220,
+                219
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-PDY2KUT"
+        },
+        {
+            "filename": "hands-of-a-woman-with-pink-manicure-on-nails-and-P59Y7G3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/hands-of-a-woman-with-pink-manicure-on-nails-and-P59Y7G3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/popular-services-section.json",
+                    "name": "Popular Services Section"
+                }
+            ],
+            "filesize": 62269,
+            "dimensions": [
+                220,
+                219
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hands-of-a-woman-with-pink-manicure-on-nails-and-P59Y7G3"
+        },
+        {
+            "filename": "tangerines-with-leaves-and-bottle-of-essential-PTDT8VP.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/tangerines-with-leaves-and-bottle-of-essential-PTDT8VP.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/popular-services-section.json",
+                    "name": "Popular Services Section"
+                }
+            ],
+            "filesize": 58776,
+            "dimensions": [
+                220,
+                219
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tangerines-with-leaves-and-bottle-of-essential-PTDT8VP"
+        },
+        {
+            "filename": "spa-salon-therapy-treatment-PZURJ69_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-salon-therapy-treatment-PZURJ69_2-600x267.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-section-2.json",
+                    "name": "Pricing Section 2"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 80359,
+            "dimensions": [
+                1920,
+                855
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-salon-therapy-treatment-PZURJ69"
+        },
+        {
+            "filename": "elements-spa-logo-template-H9V6JEB.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-spa-logo-template-H9V6JEB.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 2436,
+            "dimensions": [
+                47,
+                38
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-spa-logo-template-H9V6JEB"
+        },
+        {
+            "filename": "smiling-lady-in-eyeglasses-and-dress-standing-with-SBAK95C.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/smiling-lady-in-eyeglasses-and-dress-standing-with-SBAK95C.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 5422,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-lady-in-eyeglasses-and-dress-standing-with-SBAK95C"
+        },
+        {
+            "filename": "woman-doctor-sitting-at-the-table-P5HE2KB.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/woman-doctor-sitting-at-the-table-P5HE2KB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 5877,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-doctor-sitting-at-the-table-P5HE2KB"
+        },
+        {
+            "filename": "portrait-of-a-beautiful-woman-PTC6RNT.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/portrait-of-a-beautiful-woman-PTC6RNT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/testimonials-section.json",
+                    "name": "Testimonials Section"
+                }
+            ],
+            "filesize": 4204,
+            "dimensions": [
+                100,
+                100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-beautiful-woman-PTC6RNT"
+        },
+        {
+            "filename": "woman-having-a-back-oil-massage-PHW7JXQ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/woman-having-a-back-oil-massage-PHW7JXQ-600x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                }
+            ],
+            "filesize": 96208,
+            "dimensions": [
+                800,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-having-a-back-oil-massage-PHW7JXQ"
+        },
+        {
+            "filename": "beautiful-young-woman-at-a-spa-salon-PFVKV9T.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/beautiful-young-woman-at-a-spa-salon-PFVKV9T-600x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                }
+            ],
+            "filesize": 158247,
+            "dimensions": [
+                800,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-young-woman-at-a-spa-salon-PFVKV9T"
+        },
+        {
+            "filename": "classical-body-massage-at-physiotherapist-office-QG537XZ.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/classical-body-massage-at-physiotherapist-office-QG537XZ-600x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                }
+            ],
+            "filesize": 89262,
+            "dimensions": [
+                800,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/classical-body-massage-at-physiotherapist-office-QG537XZ"
+        },
+        {
+            "filename": "taking-pleasure-PY74FWE_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/taking-pleasure-PY74FWE_2-600x525.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/featured-services-section.json",
+                    "name": "Featured Services Section"
+                }
+            ],
+            "filesize": 117989,
+            "dimensions": [
+                800,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/taking-pleasure-PY74FWE"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leaf_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/pricing-section.json",
+                    "name": "Pricing Section"
+                }
+            ],
+            "filesize": 29159,
+            "dimensions": [
+                207,
+                329
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "spa-PXFNR47.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-PXFNR47-600x944.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/packages-section.json",
+                    "name": "Packages Section"
+                }
+            ],
+            "filesize": 124115,
+            "dimensions": [
+                800,
+                1258
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-PXFNR47"
+        },
+        {
+            "filename": "spa-aromatherapy-with-azalea-flowers-and-herbal-PWCDSU8.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-aromatherapy-with-azalea-flowers-and-herbal-PWCDSU8-600x944.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/packages-section.json",
+                    "name": "Packages Section"
+                }
+            ],
+            "filesize": 188703,
+            "dimensions": [
+                800,
+                1258
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-aromatherapy-with-azalea-flowers-and-herbal-PWCDSU8"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leaf_4.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 37541,
+            "dimensions": [
+                236,
+                232
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "elements-summer-sale-banner-NK5W2VA_leaf_5.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/elements-summer-sale-banner-NK5W2VA_leaf_5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 4835,
+            "dimensions": [
+                96,
+                77
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-summer-sale-banner-NK5W2VA"
+        },
+        {
+            "filename": "smiling-beautiful-doctor-at-hospital-45KQMWM_team_1.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/smiling-beautiful-doctor-at-hospital-45KQMWM_team_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 26174,
+            "dimensions": [
+                285,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-beautiful-doctor-at-hospital-45KQMWM"
+        },
+        {
+            "filename": "medical-physician-doctor-woman-over-white-backgrou-TMRDQF6_team_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/medical-physician-doctor-woman-over-white-backgrou-TMRDQF6_team_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 21020,
+            "dimensions": [
+                285,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/medical-physician-doctor-woman-over-white-backgrou-TMRDQF6"
+        },
+        {
+            "filename": "skin-treatment-VE6494S_team_3.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/skin-treatment-VE6494S_team_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 24699,
+            "dimensions": [
+                285,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/skin-treatment-VE6494S"
+        },
+        {
+            "filename": "young-beautiful-vietnamese-woman-9W5XYKS_team_4.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/young-beautiful-vietnamese-woman-9W5XYKS_team_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team-section.json",
+                    "name": "Team Section"
+                }
+            ],
+            "filesize": 34144,
+            "dimensions": [
+                285,
+                420
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-vietnamese-woman-9W5XYKS"
+        },
+        {
+            "filename": "spa-UE76HB4_gallery_3.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-UE76HB4_gallery_3-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-section.json",
+                    "name": "Gallery Section"
+                }
+            ],
+            "filesize": 213719,
+            "dimensions": [
+                1170,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-UE76HB4"
+        },
+        {
+            "filename": "taking-pleasure-PY74FWE_gallery_5.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/taking-pleasure-PY74FWE_gallery_5-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-section.json",
+                    "name": "Gallery Section"
+                }
+            ],
+            "filesize": 195398,
+            "dimensions": [
+                1170,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/taking-pleasure-PY74FWE"
+        },
+        {
+            "filename": "spa-procedure-PUBSGAZ_gallery_1.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-procedure-PUBSGAZ_gallery_1-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-section.json",
+                    "name": "Gallery Section"
+                }
+            ],
+            "filesize": 198911,
+            "dimensions": [
+                1170,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/spa-procedure-PUBSGAZ"
+        },
+        {
+            "filename": "beautician-make-stone-massage-spa-for-woman-at-PPP6HHS_gallery_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/beautician-make-stone-massage-spa-for-woman-at-PPP6HHS_gallery_2-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-section.json",
+                    "name": "Gallery Section"
+                }
+            ],
+            "filesize": 186361,
+            "dimensions": [
+                1170,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautician-make-stone-massage-spa-for-woman-at-PPP6HHS"
+        },
+        {
+            "filename": "spa-concept-PUHBVFJ_gallery_4.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/spa-concept-PUHBVFJ_gallery_4-600x430.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/gallery-section.json",
+                    "name": "Gallery Section"
+                }
+            ],
+            "filesize": 301181,
+            "dimensions": [
+                1170,
+                838
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-concept-PUHBVFJ"
+        },
+        {
+            "filename": "dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8_bg.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8_bg-600x257.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/callout-section.json",
+                    "name": "Callout Section"
+                }
+            ],
+            "filesize": 325525,
+            "dimensions": [
+                1920,
+                821
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8"
+        },
+        {
+            "filename": "dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/08\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8-600x103.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/title-section.json",
+                    "name": "Title Section"
+                }
+            ],
+            "filesize": 32572,
+            "dimensions": [
+                1920,
+                329
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/dried-and-fresh-chamomile-flowers-and-leaves-on-PA55XK8"
+        },
+        {
+            "filename": "signature.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/signature.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2662,
+            "dimensions": [
+                141,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_2.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_2.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1494,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_3.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_3.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1727,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_1.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_1.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1290,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_13.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_13.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1587,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_10.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_10.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1751,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_7.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_7.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1379,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "elements-20-therapy-icons-line-CBUYJDK_6.png",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/elements-20-therapy-icons-line-CBUYJDK_6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 1492,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elements-20-therapy-icons-line-CBUYJDK"
+        },
+        {
+            "filename": "spa-PDY2KUT_gallery_3.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/spa-PDY2KUT_gallery_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 92358,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-PDY2KUT"
+        },
+        {
+            "filename": "woman-having-a-back-oil-massage-PHW7JXQ_gallery_1.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/woman-having-a-back-oil-massage-PHW7JXQ_gallery_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 65678,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-having-a-back-oil-massage-PHW7JXQ"
+        },
+        {
+            "filename": "spa-UE76HB4_gallery_4.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/spa-UE76HB4_gallery_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 85119,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-UE76HB4"
+        },
+        {
+            "filename": "beautician-make-stone-massage-spa-for-woman-at-P47V58R_gallery_8.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/beautician-make-stone-massage-spa-for-woman-at-P47V58R_gallery_8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 143069,
+            "dimensions": [
+                600,
+                1249
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautician-make-stone-massage-spa-for-woman-at-P47V58R"
+        },
+        {
+            "filename": "spa-with-pink-herbal-salt-and-clover-flowers-PGS93HU_gallery_2.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/spa-with-pink-herbal-salt-and-clover-flowers-PGS93HU_gallery_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 108336,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-with-pink-herbal-salt-and-clover-flowers-PGS93HU"
+        },
+        {
+            "filename": "spa-aromatherapy-with-azalea-flowers-and-herbal-PXK6FA4_gallery_6.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/spa-aromatherapy-with-azalea-flowers-and-herbal-PXK6FA4_gallery_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 110178,
+            "dimensions": [
+                600,
+                924
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/spa-aromatherapy-with-azalea-flowers-and-herbal-PXK6FA4"
+        },
+        {
+            "filename": "rest-in-spa-salon-PKYB9YU_gallery_7.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/rest-in-spa-salon-PKYB9YU_gallery_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 100855,
+            "dimensions": [
+                600,
+                924
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/rest-in-spa-salon-PKYB9YU"
+        },
+        {
+            "filename": "spa-PM7ZZZAk_gallery_9.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/spa-PM7ZZZAk_gallery_9-600x288.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 101666,
+            "dimensions": [
+                770,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/spa-PM7ZZZAk"
+        },
+        {
+            "filename": "closeup-of-a-foot-spa-PQ94VRD_gallery_5.jpg",
+            "thumbnail_url": "https:\/\/kinforce.net\/ewa\/wp-content\/uploads\/2020\/09\/closeup-of-a-foot-spa-PQ94VRD_gallery_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 72267,
+            "dimensions": [
+                600,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-of-a-foot-spa-PQ94VRD"
+        }
+    ]
+}
